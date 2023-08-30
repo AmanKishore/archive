@@ -1,0 +1,9 @@
+twilio.env
+*.pyc
+__pycache__/
+.DS_Store
+venv/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

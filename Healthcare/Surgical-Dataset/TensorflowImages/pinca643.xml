@@ -1,0 +1,26 @@
+<annotation>
+  <folder>XML_images</folder>
+  <filename>pinca643.jpg</filename>
+  <path>XML_images/pinca643.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>142</xmin>
+      <ymin>272</ymin>
+      <xmax>366</xmax>
+      <ymax>330</ymax>
+    </bndbox>
+  </object>
+</annotation>

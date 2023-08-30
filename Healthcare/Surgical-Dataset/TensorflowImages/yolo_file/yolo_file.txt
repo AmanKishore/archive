@@ -1,0 +1,3009 @@
+XML_images/separado54.jpg 251,167,401,373,2
+XML_images/bisturi284.jpg 17,149,189,313,1
+XML_images/tesouracurva618.jpg 235,160,367,353,1 209,172,453,205,2
+XML_images/separado40.jpg 188,179,415,291,2 192,193,402,377,3
+XML_images/bisturi290.jpg 369,106,487,349,3 204,134,424,260,2
+XML_images/tesourareta209.jpg 253,132,339,368,2
+XML_images/separado68.jpg 87,199,360,285,4
+XML_images/tesouracurva624.jpg 416,126,602,269,1 459,100,599,312,2
+XML_images/tesourareta221.jpg 278,52,322,393,1
+XML_images/tesouracurva142.jpg 80,48,226,309,4
+XML_images/tesourareta547.jpg 195,98,395,296,3 250,100,344,372,4
+XML_images/tesourareta553.jpg 261,201,488,226,1
+XML_images/tesouracurva156.jpg 312,59,358,402,1
+XML_images/tesourareta235.jpg 344,113,377,351,2
+XML_images/tesouracurva630.jpg 446,150,530,365,1
+XML_images/bisturi247.jpg 324,144,512,287,1
+XML_images/tesouracurva803.jpg 199,37,328,412,3
+XML_images/separado97.jpg 79,125,291,348,4
+XML_images/bisturi521.jpg 203,129,419,343,4
+XML_images/pinca359.jpg 151,65,389,408,3
+XML_images/bisturi535.jpg 130,159,380,252,3
+XML_images/bisturi253.jpg 144,151,369,317,3 217,97,444,295,4
+XML_images/separado83.jpg 420,141,534,409,4
+XML_images/pinca417.jpg 265,264,491,289,1 328,158,349,403,2
+XML_images/pinca371.jpg 83,225,274,401,2 60,271,273,377,1
+XML_images/tesourareta584.jpg 300,140,488,289,1
+XML_images/tesouracurva181.jpg 279,139,474,280,1
+XML_images/pinca365.jpg 375,40,575,264,4
+XML_images/tesouracurva195.jpg 212,149,428,332,3
+XML_images/tesourareta590.jpg 366,142,454,360,1
+XML_images/bisturi509.jpg 267,94,367,307,1 247,210,410,410,2
+XML_images/pinca403.jpg 27,54,236,279,4
+XML_images/tesouracurva368.jpg 294,59,562,147,4 342,77,566,202,2
+XML_images/pinca198.jpg 132,77,348,258,3
+XML_images/tesouracurva340.jpg 435,9,537,255,3
+XML_images/tesourareta2.jpg 43,52,137,325,4 43,44,87,287,2
+XML_images/tesouracurva426.jpg 490,120,513,348,1
+XML_images/tesouracurva432.jpg 226,310,454,340,1 270,90,356,342,3
+XML_images/tesouracurva354.jpg 394,68,590,267,3
+XML_images/bisturi723.jpg 134,139,346,277,2
+XML_images/pinca629.jpg 337,105,432,319,1
+XML_images/bisturi737.jpg 307,157,426,427,4
+XML_images/tesouracurva383.jpg 331,129,589,216,4 399,87,526,303,2
+XML_images/pinca173.jpg 312,105,462,316,2
+XML_images/pinca615.jpg 285,94,311,340,2
+XML_images/pinca601.jpg 282,181,508,251,1
+XML_images/tesouracurva397.jpg 0,160,172,322,1
+XML_images/pinca167.jpg 97,169,233,408,3 133,146,261,374,2
+XML_images/tesouracurva208.jpg 414,115,448,345,1 55,193,177,422,2 193,280,409,451,3 126,69,327,288,4
+XML_images/bisturi694.jpg 288,47,472,192,1 243,64,491,157,3
+XML_images/tesourareta619.jpg 348,170,583,306,3
+XML_images/bisturi680.jpg 234,86,319,363,4 154,307,384,358,1
+XML_images/tesouracurva234.jpg 239,91,469,119,1 285,134,529,198,2 202,255,440,442,4 297,241,520,408,3
+XML_images/tesourareta631.jpg 307,137,425,400,4
+XML_images/tesouracurva552.jpg 76,190,325,277,3
+XML_images/tesourareta157.jpg 189,111,328,348,3 159,166,389,279,2
+XML_images/tesourareta143.jpg 198,216,348,425,2 180,86,348,252,1 43,119,181,357,3 354,177,552,402,4
+XML_images/tesouracurva546.jpg 298,102,496,298,3 288,98,452,349,4
+XML_images/tesourareta625.jpg 288,214,518,412,4
+XML_images/tesouracurva220.jpg 149,188,363,285,1 205,146,343,407,4
+XML_images/bisturi657.jpg 449,146,590,360,2
+XML_images/bisturi131.jpg 166,188,318,366,1 262,103,292,354,2
+XML_images/bisturi125.jpg 304,207,511,310,1 122,171,383,308,4
+XML_images/bisturi643.jpg 362,204,588,298,2
+XML_images/tesourareta59.jpg 382,126,490,335,1
+XML_images/tesourareta71.jpg 310,386,536,417,1
+XML_images/tesourareta194.jpg 320,91,400,316,1
+XML_images/tesouracurva591.jpg 180,82,210,315,1 50,154,247,332,2
+XML_images/bisturi119.jpg 34,135,124,408,4 57,133,126,359,1
+XML_images/tesouracurva585.jpg 192,118,218,367,2
+XML_images/tesourareta180.jpg 298,202,539,319,3
+XML_images/tesourareta65.jpg 345,139,548,259,1
+XML_images/tesouracurva71.jpg 192,225,422,294,2
+XML_images/tesourareta369.jpg 207,232,451,256,2
+XML_images/bisturi50.jpg 40,58,317,147,4
+XML_images/bisturi496.jpg 502,159,580,393,2 504,152,587,423,4
+XML_images/bisturi482.jpg 247,177,467,256,1 188,167,373,402,4
+XML_images/bisturi44.jpg 144,145,476,301,2
+XML_images/pinca588.jpg 444,46,535,313,4
+XML_images/tesouracurva65.jpg 219,275,458,348,2
+XML_images/tesouracurva778.jpg 237,50,333,291,2 191,102,333,366,4
+XML_images/tesourareta355.jpg 161,112,423,250,4
+XML_images/tesouracurva750.jpg 57,79,239,325,4
+XML_images/tesourareta433.jpg 393,15,488,286,4
+XML_images/bisturi78.jpg 281,19,488,242,4
+XML_images/tesourareta427.jpg 72,217,340,319,4
+XML_images/tesouracurva59.jpg 431,30,517,303,4
+XML_images/tesouracurva744.jpg 306,73,440,338,4
+XML_images/tesourareta341.jpg 370,86,558,317,4
+XML_images/bisturi333.jpg 220,181,400,349,2
+XML_images/bisturi455.jpg 218,263,456,341,2
+XML_images/pinca239.jpg 475,140,554,378,2 366,229,602,418,4
+XML_images/bisturi93.jpg 31,28,269,221,4
+XML_images/bisturi87.jpg 470,55,558,328,4
+XML_images/bisturi441.jpg 223,195,472,282,3 271,153,544,239,4 206,59,448,93,2 294,291,520,316,1
+XML_images/bisturi327.jpg 61,145,305,325,4
+XML_images/pinca563.jpg 174,168,398,333,3 245,137,339,352,1
+XML_images/tesouracurva793.jpg 284,118,532,285,4
+XML_images/tesourareta396.jpg 102,77,210,326,3
+XML_images/pinca12.jpg 227,281,473,387,3 233,197,491,348,4
+XML_images/bisturi469.jpg 219,103,395,346,4
+XML_images/pinca205.jpg 218,124,432,218,1 177,118,389,305,3
+XML_images/pinca211.jpg 426,44,530,312,4
+XML_images/pinca577.jpg 130,202,487,264,2
+XML_images/tesourareta382.jpg 215,195,443,292,2
+XML_images/tesouracurva787.jpg 191,156,415,279,2 187,244,460,330,4
+XML_images/pinca210.jpg 343,172,561,255,1
+XML_images/tesourareta383.jpg 538,161,572,402,2
+XML_images/tesouracurva786.jpg 123,210,285,381,1
+XML_images/pinca576.jpg 197,333,429,412,2
+XML_images/pinca13.jpg 369,155,568,350,3
+XML_images/tesouracurva792.jpg 482,139,568,403,4 505,188,587,425,2
+XML_images/tesourareta397.jpg 124,93,375,182,3
+XML_images/pinca562.jpg 118,1,372,89,3
+XML_images/pinca204.jpg 341,87,398,317,1
+XML_images/bisturi468.jpg 86,170,304,296,2 182,83,210,314,1
+XML_images/bisturi440.jpg 290,183,374,399,1 128,171,390,312,4
+XML_images/bisturi86.jpg 50,223,298,311,3
+XML_images/bisturi326.jpg 215,155,370,384,3 159,160,389,283,2
+XML_images/bisturi332.jpg 127,80,350,286,4 267,169,296,396,1
+XML_images/bisturi92.jpg 390,124,432,352,1
+XML_images/pinca238.jpg 82,50,265,227,2
+XML_images/bisturi454.jpg 369,158,587,330,3
+XML_images/tesourareta426.jpg 300,294,538,328,2 285,73,495,257,3 172,206,328,381,1 42,79,192,339,4
+XML_images/bisturi79.jpg 356,104,483,368,4 434,138,461,368,1
+XML_images/tesouracurva745.jpg 183,220,455,306,4 197,199,417,373,3
+XML_images/tesourareta340.jpg 2,197,124,429,2 338,194,554,289,1 186,302,434,391,3 163,73,347,320,4
+XML_images/tesouracurva58.jpg 235,202,395,381,1 374,198,526,394,2 107,66,253,305,3 46,135,218,386,4
+XML_images/tesourareta354.jpg 317,202,507,439,4
+XML_images/tesouracurva751.jpg 449,135,604,322,2
+XML_images/tesourareta432.jpg 270,152,448,392,4
+XML_images/bisturi45.jpg 373,82,503,343,4 234,63,478,188,3
+XML_images/bisturi483.jpg 193,204,322,405,1 181,114,340,370,4
+XML_images/tesouracurva779.jpg 117,258,365,348,3 221,192,369,377,1
+XML_images/tesouracurva64.jpg 63,95,243,312,3
+XML_images/pinca589.jpg 312,74,492,316,4
+XML_images/tesourareta368.jpg 175,141,389,321,3 163,179,393,220,1
+XML_images/tesouracurva70.jpg 167,111,401,266,3 321,71,398,294,1
+XML_images/bisturi497.jpg 387,124,582,323,3
+XML_images/bisturi51.jpg 291,67,377,339,4
+XML_images/tesouracurva584.jpg 224,74,422,362,1
+XML_images/tesourareta181.jpg 298,111,396,342,2
+XML_images/bisturi118.jpg 265,165,493,188,1
+XML_images/tesourareta64.jpg 49,115,253,314,3 47,103,251,256,2
+XML_images/tesourareta70.jpg 499,143,527,372,1
+XML_images/tesourareta195.jpg 206,90,402,381,1
+XML_images/tesouracurva590.jpg 474,152,586,347,1 466,102,612,315,2
+XML_images/bisturi124.jpg 113,154,312,284,1 229,181,385,387,2
+XML_images/tesourareta58.jpg 198,105,343,368,4 259,92,296,338,2
+XML_images/bisturi642.jpg 57,126,183,326,1
+XML_images/bisturi656.jpg 175,171,390,303,2
+XML_images/bisturi130.jpg 310,156,368,395,2
+XML_images/tesourareta142.jpg 26,184,240,282,1
+XML_images/tesouracurva547.jpg 279,198,511,225,1
+XML_images/tesourareta624.jpg 480,125,552,340,1
+XML_images/tesouracurva221.jpg 334,158,422,435,4
+XML_images/tesouracurva235.jpg 66,163,318,250,3 88,162,330,199,2
+XML_images/tesourareta630.jpg 298,164,336,402,2
+XML_images/tesouracurva553.jpg 246,155,466,325,3 231,202,370,418,2
+XML_images/tesourareta156.jpg 235,90,369,315,2
+XML_images/bisturi681.jpg 504,56,590,308,3
+XML_images/tesourareta618.jpg 24,324,260,406,2 34,306,300,420,4
+XML_images/bisturi695.jpg 366,94,414,322,1
+XML_images/tesouracurva209.jpg 68,156,253,322,2
+XML_images/pinca600.jpg 202,143,370,368,3
+XML_images/pinca166.jpg 513,84,598,355,4
+XML_images/tesouracurva396.jpg 390,145,495,354,1
+XML_images/pinca172.jpg 307,143,566,282,4
+XML_images/tesouracurva382.jpg 32,55,173,322,4
+XML_images/pinca614.jpg 268,95,366,328,2 309,97,331,325,1
+XML_images/bisturi736.jpg 187,39,315,413,3
+XML_images/bisturi722.jpg 315,162,536,245,1
+XML_images/pinca628.jpg 196,163,416,337,3
+XML_images/tesouracurva433.jpg 97,156,365,268,4
+XML_images/tesouracurva355.jpg 158,181,407,268,3 83,113,333,282,4
+XML_images/tesourareta3.jpg 159,139,373,319,3 175,169,392,381,4
+XML_images/tesouracurva341.jpg 343,110,604,254,4
+XML_images/tesouracurva427.jpg 72,111,189,383,4
+XML_images/pinca199.jpg 139,186,389,286,3
+XML_images/tesouracurva369.jpg 49,178,291,367,4
+XML_images/bisturi508.jpg 540,103,569,329,1
+XML_images/tesouracurva194.jpg 45,232,322,318,4
+XML_images/tesourareta591.jpg 246,78,423,381,1
+XML_images/pinca364.jpg 174,193,420,250,2
+XML_images/pinca402.jpg 222,106,417,310,3 163,82,401,273,4
+XML_images/pinca416.jpg 224,183,404,367,2
+XML_images/tesourareta585.jpg 223,135,360,328,1
+XML_images/tesouracurva180.jpg 217,61,411,353,1
+XML_images/pinca370.jpg 317,267,560,300,2 304,194,570,291,4
+XML_images/bisturi534.jpg 106,144,358,306,4
+XML_images/pinca358.jpg 143,33,388,151,3 119,32,391,132,4
+XML_images/separado82.jpg 321,111,528,221,1
+XML_images/bisturi252.jpg 372,117,396,351,1
+XML_images/separado96.jpg 164,92,376,275,3
+XML_images/tesouracurva802.jpg 106,128,453,352,3
+XML_images/bisturi246.jpg 51,79,141,352,4
+XML_images/bisturi520.jpg 77,140,307,347,4
+XML_images/tesourareta552.jpg 268,143,354,393,3
+XML_images/tesouracurva157.jpg 419,34,567,289,4
+XML_images/tesourareta234.jpg 286,199,514,259,1
+XML_images/tesouracurva631.jpg 555,151,584,375,1 504,166,599,397,2
+XML_images/tesouracurva625.jpg 322,112,438,318,1
+XML_images/tesourareta220.jpg 28,54,258,256,4
+XML_images/separado69.jpg 60,51,149,321,4
+XML_images/tesouracurva143.jpg 249,150,379,391,3
+XML_images/tesourareta546.jpg 322,76,352,307,1
+XML_images/tesourareta208.jpg 303,61,333,307,2 298,61,343,295,1
+XML_images/bisturi291.jpg 306,115,428,318,1
+XML_images/separado41.jpg 66,234,266,364,1 68,188,253,367,2
+XML_images/tesouracurva619.jpg 64,86,88,308,1 57,89,131,324,2
+XML_images/bisturi285.jpg 287,187,511,263,1
+XML_images/separado55.jpg 354,96,415,326,1
+XML_images/separado43.jpg 290,103,402,314,1
+XML_images/bisturi293.jpg 42,65,292,157,3
+XML_images/pinca399.jpg 271,99,402,316,2
+XML_images/tesouracurva169.jpg 20,211,262,251,2 83,155,264,306,1
+XML_images/tesourareta578.jpg 554,96,584,339,2
+XML_images/separado57.jpg 147,84,350,311,4 174,167,363,307,1
+XML_images/bisturi287.jpg 127,103,305,321,3 156,168,392,275,2
+XML_images/tesouracurva633.jpg 363,109,587,264,3
+XML_images/tesourareta236.jpg 276,263,534,417,4
+XML_images/tesouracurva155.jpg 270,91,357,341,3 134,277,362,328,1
+XML_images/tesourareta550.jpg 279,127,484,247,1
+XML_images/tesourareta544.jpg 348,114,530,262,1
+XML_images/tesouracurva141.jpg 80,207,296,298,1
+XML_images/tesourareta222.jpg 43,86,312,203,4 28,63,207,258,2
+XML_images/tesouracurva627.jpg 381,46,465,297,3
+XML_images/bisturi250.jpg 316,117,449,312,1
+XML_images/separado80.jpg 289,166,501,273,1
+XML_images/bisturi536.jpg 256,9,344,262,3
+XML_images/bisturi522.jpg 409,216,573,418,2 476,148,570,412,4
+XML_images/bisturi244.jpg 206,173,408,318,2
+XML_images/pinca428.jpg 9,111,61,336,1
+XML_images/tesouracurva800.jpg 174,82,281,313,2 205,84,333,349,4
+XML_images/separado94.jpg 230,39,448,214,3
+XML_images/pinca400.jpg 270,125,355,377,3 296,179,380,417,2
+XML_images/pinca366.jpg 296,157,469,340,2 368,107,488,350,3
+XML_images/tesourareta593.jpg 297,126,328,353,1
+XML_images/tesouracurva196.jpg 186,179,426,253,2
+XML_images/pinca372.jpg 67,125,101,368,2 43,93,161,299,1
+XML_images/tesouracurva182.jpg 333,195,491,450,4
+XML_images/tesourareta587.jpg 53,109,167,317,1
+XML_images/bisturi278.jpg 166,189,400,275,2
+XML_images/pinca414.jpg 282,192,485,348,2
+XML_images/tesouracurva419.jpg 330,65,474,321,4
+XML_images/tesouracurva357.jpg 318,280,554,415,3 358,140,487,340,1 91,212,202,437,2 128,64,366,263,4
+XML_images/tesouracurva431.jpg 285,98,513,127,1 79,164,354,252,4 62,280,314,367,3 159,391,399,445,2
+XML_images/tesouracurva425.jpg 38,70,290,160,3
+XML_images/tesouracurva343.jpg 241,126,327,376,3
+XML_images/tesourareta1.jpg 134,238,385,328,3 203,122,361,379,4
+XML_images/bisturi734.jpg 287,172,527,199,2 361,32,457,284,3
+XML_images/pinca158.jpg 142,69,334,275,3 247,76,472,127,1
+XML_images/bisturi720.jpg 431,138,461,367,1 294,125,527,316,4
+XML_images/tesouracurva394.jpg 20,88,203,247,1 37,135,123,404,4
+XML_images/bisturi708.jpg 338,127,420,362,2 227,166,412,313,1
+XML_images/pinca164.jpg 453,122,554,367,3
+XML_images/pinca602.jpg 359,257,601,307,2
+XML_images/pinca616.jpg 378,246,584,361,1 481,146,585,415,4
+XML_images/tesouracurva380.jpg 65,164,295,205,1 165,123,366,288,2
+XML_images/pinca170.jpg 102,81,334,106,1 82,260,358,347,4 135,324,377,360,2 370,182,553,391,3
+XML_images/tesourareta99.jpg 204,81,418,300,4
+XML_images/bisturi683.jpg 348,63,524,305,4
+XML_images/tesouracurva579.jpg 86,170,262,416,4
+XML_images/tesourareta168.jpg 230,235,440,382,2
+XML_images/bisturi697.jpg 359,63,547,291,4
+XML_images/tesouracurva223.jpg 393,38,496,306,4
+XML_images/tesourareta626.jpg 171,166,447,256,4
+XML_images/tesouracurva545.jpg 267,195,402,413,2
+XML_images/tesourareta140.jpg 306,128,328,366,2
+XML_images/tesourareta154.jpg 104,72,190,348,4
+XML_images/tesouracurva551.jpg 153,127,428,217,4
+XML_images/tesourareta632.jpg 283,90,547,225,4
+XML_images/tesouracurva237.jpg 166,85,368,316,4
+XML_images/bisturi640.jpg 350,10,434,282,4
+XML_images/bisturi126.jpg 423,94,597,285,2 444,142,589,399,4
+XML_images/bisturi132.jpg 386,64,546,316,4
+XML_images/bisturi654.jpg 186,199,432,253,2 127,159,357,360,4
+XML_images/tesourareta66.jpg 219,132,467,299,4
+XML_images/tesourareta183.jpg 213,206,325,409,1 263,123,348,371,3
+XML_images/tesouracurva586.jpg 175,123,389,303,3 317,113,381,337,1
+XML_images/tesouracurva592.jpg 166,215,439,304,4 226,154,416,325,2
+XML_images/tesourareta197.jpg 290,151,348,387,2
+XML_images/bisturi668.jpg 498,102,584,348,3
+XML_images/tesourareta72.jpg 234,86,320,363,4 219,203,331,411,2
+XML_images/tesouracurva66.jpg 224,102,340,331,2 138,243,384,361,3
+XML_images/tesourareta418.jpg 37,137,123,409,4 33,54,56,288,1
+XML_images/bisturi481.jpg 263,164,449,305,1 156,140,378,272,2
+XML_images/bisturi47.jpg 421,147,591,363,3
+XML_images/bisturi53.jpg 264,243,452,385,1 187,140,345,390,4
+XML_images/bisturi495.jpg 520,106,585,337,2
+XML_images/tesouracurva72.jpg 74,111,324,200,3
+XML_images/tesourareta342.jpg 539,144,569,372,1 488,50,572,320,4
+XML_images/tesouracurva747.jpg 208,148,365,325,1 392,193,508,426,2 372,122,512,359,3 61,146,190,411,4
+XML_images/tesourareta424.jpg 368,72,596,164,2 326,61,486,292,3
+XML_images/tesourareta430.jpg 397,224,593,391,2
+XML_images/tesouracurva753.jpg 248,73,472,128,1 277,44,466,252,3
+XML_images/tesourareta356.jpg 108,87,239,283,1 105,51,199,281,2
+XML_images/pinca548.jpg 341,50,425,321,4
+XML_images/bisturi324.jpg 214,126,303,381,3 224,173,350,373,1
+XML_images/pinca39.jpg 70,234,317,350,3 306,71,545,132,2 503,177,541,404,1 255,159,490,350,4
+XML_images/bisturi84.jpg 110,142,362,237,3 194,126,370,372,4
+XML_images/bisturi442.jpg 41,107,267,274,3
+XML_images/bisturi456.jpg 246,166,332,416,3
+XML_images/bisturi90.jpg 166,319,400,412,2 251,121,325,344,1 330,137,546,311,3 50,117,277,327,4
+XML_images/bisturi330.jpg 431,139,460,364,1 254,182,517,311,4
+XML_images/pinca574.jpg 267,136,365,360,2
+XML_images/tesouracurva99.jpg 194,67,338,283,2 128,117,308,365,4
+XML_images/bisturi318.jpg 485,162,589,389,2 376,168,577,391,4
+XML_images/tesouracurva784.jpg 270,156,374,381,2
+XML_images/tesourareta381.jpg 20,3,108,280,4
+XML_images/pinca212.jpg 304,53,496,285,4
+XML_images/pinca206.jpg 240,339,508,428,4 297,326,541,433,3
+XML_images/pinca560.jpg 55,31,88,283,2 46,63,140,350,4
+XML_images/tesourareta395.jpg 111,159,337,221,1 261,114,431,333,3
+XML_images/tesouracurva790.jpg 271,83,425,338,4
+XML_images/pinca11.jpg 480,106,580,348,3
+XML_images/pinca207.jpg 261,159,369,392,2
+XML_images/pinca10.jpg 157,206,402,252,2
+XML_images/tesourareta394.jpg 342,211,534,413,3 451,196,516,436,2
+XML_images/tesouracurva791.jpg 60,26,122,250,1 51,50,89,287,2
+XML_images/pinca561.jpg 304,171,438,384,2
+XML_images/tesouracurva785.jpg 252,133,324,354,1
+XML_images/tesourareta380.jpg 176,229,378,424,3 153,308,391,383,2
+XML_images/bisturi319.jpg 184,164,425,240,2
+XML_images/tesouracurva98.jpg 160,108,458,294,1
+XML_images/pinca575.jpg 525,149,553,371,1
+XML_images/pinca213.jpg 380,156,490,425,4 316,256,559,307,2
+XML_images/bisturi91.jpg 170,78,384,280,4 134,159,192,404,2
+XML_images/bisturi457.jpg 56,104,93,336,1
+XML_images/bisturi331.jpg 275,118,431,297,1
+XML_images/pinca38.jpg 43,147,219,304,1
+XML_images/bisturi325.jpg 368,190,463,463,4
+XML_images/pinca549.jpg 308,143,483,301,1
+XML_images/bisturi443.jpg 249,146,378,361,2
+XML_images/bisturi85.jpg 343,21,517,240,3
+XML_images/tesourareta431.jpg 296,188,483,427,4
+XML_images/tesouracurva752.jpg 29,63,187,272,2 34,56,281,227,4
+XML_images/tesourareta357.jpg 286,16,514,169,3
+XML_images/tesourareta343.jpg 426,175,586,427,4 469,155,531,402,2
+XML_images/tesouracurva746.jpg 269,90,357,340,3 240,172,366,370,1
+XML_images/tesourareta425.jpg 165,13,298,253,3
+XML_images/bisturi494.jpg 552,111,578,351,2
+XML_images/bisturi52.jpg 277,136,465,286,1
+XML_images/tesouracurva73.jpg 82,155,262,305,1 29,147,229,317,2
+XML_images/tesouracurva67.jpg 274,178,506,211,1
+XML_images/bisturi46.jpg 351,79,498,267,1
+XML_images/bisturi480.jpg 464,132,556,382,3
+XML_images/tesourareta419.jpg 88,266,320,291,1
+XML_images/tesouracurva593.jpg 284,214,517,241,1
+XML_images/tesourareta196.jpg 236,133,360,374,3
+XML_images/tesourareta73.jpg 229,144,317,396,3
+XML_images/bisturi669.jpg 442,124,572,382,4
+XML_images/tesourareta67.jpg 354,105,372,338,1
+XML_images/tesourareta182.jpg 466,68,574,273,1 409,76,615,237,2
+XML_images/tesouracurva587.jpg 66,133,172,352,2 53,142,190,337,1
+XML_images/bisturi133.jpg 268,90,378,302,1
+XML_images/bisturi655.jpg 315,148,542,205,1
+XML_images/bisturi641.jpg 302,132,460,306,1
+XML_images/bisturi127.jpg 32,207,302,295,4
+XML_images/tesourareta155.jpg 133,104,346,324,4
+XML_images/tesouracurva550.jpg 255,105,341,354,3 248,80,334,354,4
+XML_images/tesourareta633.jpg 132,231,380,326,3 117,229,387,331,4
+XML_images/tesouracurva236.jpg 25,160,305,250,4
+XML_images/tesouracurva222.jpg 369,160,536,324,1
+XML_images/tesourareta627.jpg 35,115,121,386,4
+XML_images/tesouracurva544.jpg 106,146,194,420,4
+XML_images/tesourareta141.jpg 234,84,339,333,3
+XML_images/tesourareta169.jpg 190,156,404,298,2
+XML_images/bisturi696.jpg 153,198,493,272,1
+XML_images/bisturi682.jpg 72,162,447,290,3
+XML_images/tesourareta98.jpg 379,71,573,303,4
+XML_images/tesouracurva578.jpg 316,96,547,125,1
+XML_images/pinca617.jpg 99,208,342,384,4
+XML_images/pinca171.jpg 379,134,399,364,1
+XML_images/tesouracurva381.jpg 168,134,385,316,3
+XML_images/pinca165.jpg 57,66,155,340,4
+XML_images/bisturi709.jpg 328,296,576,381,3 234,180,454,391,4
+XML_images/tesouracurva395.jpg 30,107,139,381,4
+XML_images/pinca603.jpg 47,121,189,358,3 54,81,140,354,4
+XML_images/bisturi721.jpg 236,178,479,298,3
+XML_images/pinca159.jpg 142,22,361,113,1 145,43,391,74,2
+XML_images/bisturi735.jpg 279,94,310,324,1 196,213,414,330,2
+XML_images/tesouracurva424.jpg 211,209,453,338,3
+XML_images/tesouracurva342.jpg 297,142,565,229,4
+XML_images/tesouracurva356.jpg 271,173,499,235,1
+XML_images/tesouracurva430.jpg 476,125,568,390,4
+XML_images/tesouracurva418.jpg 365,99,395,330,1
+XML_images/tesouracurva183.jpg 126,162,390,286,4 138,176,309,372,2
+XML_images/tesourareta586.jpg 348,140,568,306,3
+XML_images/pinca373.jpg 377,98,407,327,1
+XML_images/pinca415.jpg 268,232,532,364,4
+XML_images/bisturi279.jpg 327,150,547,317,3
+XML_images/pinca401.jpg 259,135,400,350,2
+XML_images/tesourareta592.jpg 418,154,567,329,1
+XML_images/tesouracurva197.jpg 160,290,404,329,2 204,115,386,358,4
+XML_images/pinca367.jpg 269,172,480,393,4
+XML_images/bisturi523.jpg 353,169,550,293,1
+XML_images/separado95.jpg 425,135,599,281,1
+XML_images/tesouracurva801.jpg 127,179,469,249,1
+XML_images/pinca429.jpg 154,139,456,317,1
+XML_images/bisturi245.jpg 454,157,605,359,2
+XML_images/separado81.jpg 442,195,566,416,2 408,183,586,425,4
+XML_images/bisturi251.jpg 317,54,544,210,3
+XML_images/bisturi537.jpg 213,157,445,311,3 295,148,467,312,1
+XML_images/tesourareta545.jpg 253,184,382,403,2
+XML_images/tesouracurva140.jpg 203,205,441,270,2
+XML_images/tesourareta223.jpg 259,188,429,368,2 300,158,400,406,3
+XML_images/tesouracurva626.jpg 297,123,349,368,2 210,182,386,342,1
+XML_images/tesouracurva632.jpg 78,120,304,287,3 89,218,330,307,2
+XML_images/tesourareta237.jpg 170,184,382,283,1
+XML_images/tesouracurva154.jpg 264,124,440,313,2 318,124,354,352,1
+XML_images/tesourareta551.jpg 207,206,449,274,2
+XML_images/tesourareta579.jpg 335,90,383,322,1
+XML_images/bisturi286.jpg 337,218,602,324,4
+XML_images/separado56.jpg 117,50,393,368,3
+XML_images/bisturi292.jpg 290,171,490,302,1
+XML_images/separado42.jpg 286,94,331,343,2
+XML_images/tesouracurva168.jpg 479,171,563,416,3 356,52,576,256,4
+XML_images/pinca398.jpg 27,101,117,372,4
+XML_images/tesourareta555.jpg 83,204,247,433,3 220,85,293,325,2 293,144,507,239,1 356,198,531,439,4
+XML_images/tesouracurva150.jpg 77,153,295,331,3
+XML_images/tesourareta233.jpg 53,69,154,288,1 50,21,144,276,3
+XML_images/tesouracurva636.jpg 122,183,346,253,1 179,120,335,375,4
+XML_images/tesouracurva622.jpg 23,143,121,415,4 22,360,254,386,1
+XML_images/tesourareta227.jpg 151,179,422,267,4 149,188,365,283,1
+XML_images/tesouracurva144.jpg 227,192,455,215,1 502,137,560,374,2 98,349,372,434,4 7,117,163,348,3
+XML_images/tesourareta541.jpg 251,98,299,341,2 197,242,466,331,4
+XML_images/tesourareta569.jpg 277,139,470,340,3 114,152,371,311,4
+XML_images/separado46.jpg 286,133,554,229,4
+XML_images/bisturi296.jpg 76,145,162,394,3
+XML_images/separado52.jpg 43,88,280,227,3
+XML_images/bisturi282.jpg 303,118,568,229,4
+XML_images/tesouracurva178.jpg 231,120,413,305,2 357,288,531,443,1 135,187,223,436,3 28,94,279,265,4
+XML_images/pinca388.jpg 202,169,400,304,1 108,222,382,313,4
+XML_images/tesouracurva193.jpg 564,71,607,309,2
+XML_images/tesourareta596.jpg 61,172,96,402,1
+XML_images/pinca363.jpg 193,176,415,285,2
+XML_images/pinca405.jpg 349,205,585,330,3
+XML_images/bisturi269.jpg 493,142,577,409,4 499,124,581,343,1
+XML_images/pinca411.jpg 218,306,446,332,1 166,157,360,362,3
+XML_images/tesourareta582.jpg 341,221,569,248,1
+XML_images/tesouracurva187.jpg 288,223,499,332,1
+XML_images/pinca377.jpg 250,91,284,321,1 101,260,343,320,2
+XML_images/bisturi533.jpg 369,230,588,349,2
+XML_images/pinca439.jpg 0,218,224,279,1
+XML_images/bisturi255.jpg 250,115,453,307,3
+XML_images/separado85.jpg 310,124,439,324,1
+XML_images/tesouracurva811.jpg 223,140,462,281,3 265,221,495,245,1
+XML_images/bisturi241.jpg 247,129,367,333,1 126,170,388,311,4
+XML_images/tesouracurva805.jpg 104,48,192,302,3
+XML_images/separado91.jpg 234,147,260,375,1 202,155,430,275,2
+XML_images/bisturi527.jpg 284,95,320,341,2 116,259,366,346,3
+XML_images/tesouracurva434.jpg 228,83,382,341,4
+XML_images/tesouracurva352.jpg 61,91,153,369,4
+XML_images/tesourareta4.jpg 200,65,326,333,4
+XML_images/tesouracurva346.jpg 24,92,178,350,4
+XML_images/tesouracurva420.jpg 245,79,383,346,4
+XML_images/tesouracurva408.jpg 115,85,203,362,4
+XML_images/pinca607.jpg 269,60,509,238,4
+XML_images/pinca161.jpg 251,152,400,355,2
+XML_images/tesouracurva391.jpg 221,187,439,310,2
+XML_images/pinca175.jpg 267,196,365,427,2
+XML_images/tesouracurva385.jpg 172,31,394,240,4
+XML_images/bisturi719.jpg 278,108,309,356,2 196,108,430,299,4
+XML_images/pinca613.jpg 271,92,355,330,2 91,240,367,326,4
+XML_images/bisturi731.jpg 294,221,530,308,2 148,242,349,368,1 153,68,355,266,3 64,168,156,441,4
+XML_images/pinca149.jpg 318,47,405,318,4
+XML_images/bisturi725.jpg 84,129,178,369,2 51,112,155,382,4
+XML_images/tesourareta145.jpg 133,123,375,176,2 85,168,287,367,3 329,250,555,297,1 211,342,481,427,4
+XML_images/tesouracurva540.jpg 229,180,337,391,1 120,222,382,370,4
+XML_images/tesourareta623.jpg 123,183,346,252,1 120,114,314,347,4
+XML_images/tesouracurva226.jpg 62,73,194,316,3
+XML_images/tesouracurva232.jpg 273,114,525,268,4
+XML_images/tesourareta637.jpg 50,18,148,275,3 68,84,202,281,1
+XML_images/tesouracurva554.jpg 41,126,293,215,3
+XML_images/tesourareta151.jpg 358,288,531,442,1 369,183,505,398,2 136,183,388,272,3 24,222,224,454,4
+XML_images/tesourareta179.jpg 233,148,419,383,4 257,96,286,341,2
+XML_images/bisturi686.jpg 28,44,116,321,4 51,189,94,422,1
+XML_images/bisturi692.jpg 160,81,410,175,3 400,161,532,378,2 237,219,385,400,1 61,204,273,425,4
+XML_images/tesourareta88.jpg 120,233,391,322,4 152,184,363,294,1
+XML_images/tesouracurva568.jpg 245,74,415,243,1 198,153,356,408,4 124,105,268,345,3 29,212,174,415,2
+XML_images/tesouracurva583.jpg 268,105,355,377,4 186,87,380,258,2
+XML_images/tesourareta186.jpg 323,77,515,306,4
+XML_images/tesourareta63.jpg 250,151,400,352,2
+XML_images/bisturi679.jpg 229,226,439,376,2
+XML_images/tesourareta77.jpg 217,209,441,308,2
+XML_images/tesourareta192.jpg 40,200,293,251,2 52,127,291,325,4
+XML_images/tesouracurva597.jpg 214,108,419,332,4
+XML_images/bisturi123.jpg 131,95,404,184,4
+XML_images/bisturi645.jpg 202,79,340,341,4
+XML_images/bisturi651.jpg 231,151,431,383,4 281,107,313,352,2
+XML_images/bisturi137.jpg 68,99,209,366,4
+XML_images/tesourareta421.jpg 351,186,589,309,3
+XML_images/tesouracurva742.jpg 342,86,588,174,3
+XML_images/tesourareta347.jpg 115,139,303,318,2 187,79,308,344,4
+XML_images/tesourareta353.jpg 264,262,534,352,4
+XML_images/tesouracurva756.jpg 207,100,296,373,4 231,164,331,392,2
+XML_images/tesourareta435.jpg 185,158,435,250,3 137,133,347,240,1
+XML_images/bisturi484.jpg 430,137,459,365,1
+XML_images/bisturi42.jpg 349,121,417,345,1
+XML_images/tesouracurva63.jpg 9,198,224,291,1
+XML_images/tesouracurva77.jpg 375,188,557,326,1
+XML_images/bisturi56.jpg 250,139,376,358,2
+XML_images/tesourareta409.jpg 243,191,485,213,2 207,116,383,363,4
+XML_images/bisturi490.jpg 284,162,440,420,4
+XML_images/pinca217.jpg 244,263,485,302,2 302,244,522,316,1
+XML_images/tesourareta384.jpg 367,147,595,180,1
+XML_images/tesouracurva781.jpg 338,228,585,310,3
+XML_images/pinca571.jpg 35,67,123,340,4 21,62,157,260,1
+XML_images/bisturi309.jpg 242,141,340,356,1 203,79,360,336,4
+XML_images/tesouracurva795.jpg 347,255,587,293,2
+XML_images/tesourareta390.jpg 255,178,485,219,1 379,55,463,307,3
+XML_images/pinca565.jpg 124,64,278,253,1 67,61,297,166,2
+XML_images/tesouracurva88.jpg 491,163,587,408,3
+XML_images/pinca14.jpg 212,106,356,344,3
+XML_images/pinca203.jpg 96,95,176,332,2
+XML_images/bisturi81.jpg 308,85,538,277,4
+XML_images/bisturi447.jpg 94,30,182,280,3
+XML_images/bisturi321.jpg 270,97,356,346,3 209,322,437,358,1
+XML_images/pinca28.jpg 423,100,547,298,1
+XML_images/bisturi335.jpg 239,127,385,338,2
+XML_images/pinca559.jpg 81,387,308,418,1
+XML_images/bisturi453.jpg 208,140,447,331,4 190,106,379,318,3
+XML_images/bisturi95.jpg 273,226,501,290,1
+XML_images/pinca558.jpg 234,57,319,332,4
+XML_images/bisturi334.jpg 367,341,605,407,2 505,180,577,398,1
+XML_images/pinca29.jpg 344,138,425,359,1
+XML_images/bisturi94.jpg 205,57,445,239,4
+XML_images/bisturi452.jpg 42,102,129,376,4 51,69,137,323,3
+XML_images/bisturi446.jpg 185,13,411,132,2 256,25,368,234,1
+XML_images/bisturi80.jpg 232,175,434,370,3
+XML_images/bisturi320.jpg 271,183,501,242,1
+XML_images/pinca15.jpg 224,323,449,355,1 298,127,349,368,2
+XML_images/tesouracurva89.jpg 315,155,479,331,1
+XML_images/pinca564.jpg 34,105,168,368,4
+XML_images/tesouracurva794.jpg 493,139,581,409,4 480,165,574,408,3
+XML_images/tesourareta391.jpg 26,104,210,345,4
+XML_images/bisturi308.jpg 294,103,402,316,1
+XML_images/pinca202.jpg 305,176,353,416,2
+XML_images/pinca216.jpg 238,103,359,347,3
+XML_images/pinca570.jpg 330,296,575,381,3 233,180,454,391,4
+XML_images/tesourareta385.jpg 355,176,588,363,4
+XML_images/tesouracurva780.jpg 165,48,292,423,3
+XML_images/tesouracurva76.jpg 142,298,382,366,2 213,118,307,367,3
+XML_images/bisturi491.jpg 211,192,427,326,2
+XML_images/tesourareta408.jpg 295,122,354,350,1 305,76,336,319,2
+XML_images/bisturi57.jpg 120,190,336,289,1
+XML_images/bisturi43.jpg 301,156,400,407,3 261,190,429,366,2
+XML_images/bisturi485.jpg 227,116,368,336,2
+XML_images/tesouracurva62.jpg 254,138,386,356,2
+XML_images/tesourareta352.jpg 133,199,475,241,1
+XML_images/tesouracurva757.jpg 372,182,546,336,1
+XML_images/tesourareta434.jpg 327,81,561,227,3
+XML_images/tesourareta420.jpg 191,75,420,339,1
+XML_images/tesouracurva743.jpg 555,159,599,398,2
+XML_images/tesourareta346.jpg 371,175,599,208,1
+XML_images/bisturi650.jpg 87,120,429,353,3
+XML_images/bisturi136.jpg 274,191,499,266,1
+XML_images/bisturi122.jpg 316,104,406,378,4
+XML_images/bisturi644.jpg 356,91,399,323,1
+XML_images/tesourareta76.jpg 25,169,289,306,4
+XML_images/tesourareta193.jpg 472,124,577,390,4
+XML_images/tesouracurva596.jpg 255,79,342,334,3 271,118,417,377,4
+XML_images/tesouracurva582.jpg 57,68,147,338,4
+XML_images/tesourareta187.jpg 229,36,357,411,3
+XML_images/bisturi678.jpg 174,76,322,341,4
+XML_images/tesourareta62.jpg 52,15,140,261,3 40,5,154,276,4
+XML_images/tesourareta89.jpg 499,75,606,304,2 385,110,600,195,1
+XML_images/bisturi693.jpg 324,171,429,399,2 194,154,396,270,1
+XML_images/tesouracurva569.jpg 341,138,446,352,1
+XML_images/tesourareta178.jpg 85,83,401,355,3
+XML_images/bisturi687.jpg 285,145,489,268,1
+XML_images/tesouracurva233.jpg 206,169,458,256,3
+XML_images/tesourareta636.jpg 290,146,559,231,4
+XML_images/tesouracurva555.jpg 47,33,162,304,4
+XML_images/tesourareta150.jpg 356,132,406,363,1
+XML_images/tesourareta144.jpg 376,88,567,320,4
+XML_images/tesouracurva541.jpg 249,178,418,403,3
+XML_images/tesourareta622.jpg 25,96,274,272,4
+XML_images/tesouracurva227.jpg 60,213,283,286,1 65,178,271,337,2
+XML_images/bisturi724.jpg 150,159,397,183,2 123,111,291,280,1
+XML_images/pinca148.jpg 475,98,581,300,1
+XML_images/bisturi730.jpg 455,115,547,362,3
+XML_images/bisturi718.jpg 169,313,407,394,2 270,209,484,387,3
+XML_images/tesouracurva384.jpg 239,108,377,329,2
+XML_images/pinca174.jpg 405,132,524,332,1
+XML_images/pinca612.jpg 200,250,433,340,2
+XML_images/pinca606.jpg 171,144,466,332,1
+XML_images/tesouracurva390.jpg 179,108,418,364,1
+XML_images/pinca160.jpg 202,226,442,271,2
+XML_images/tesouracurva409.jpg 236,54,432,221,2 243,138,509,259,4
+XML_images/tesouracurva347.jpg 409,63,571,261,2 370,144,534,363,3
+XML_images/tesourareta5.jpg 228,154,428,312,2
+XML_images/tesouracurva421.jpg 193,46,438,76,2
+XML_images/tesouracurva435.jpg 237,129,359,330,1
+XML_images/tesouracurva353.jpg 318,40,427,249,1 228,125,416,302,2
+XML_images/separado90.jpg 86,48,318,75,1
+XML_images/tesouracurva804.jpg 53,149,145,400,3 75,177,159,399,1
+XML_images/bisturi240.jpg 317,78,530,287,4
+XML_images/bisturi526.jpg 374,134,555,283,1
+XML_images/bisturi532.jpg 296,129,548,282,4
+XML_images/tesouracurva810.jpg 56,44,250,248,3
+XML_images/separado84.jpg 154,288,365,392,1 128,164,285,421,4
+XML_images/bisturi254.jpg 179,63,409,225,3 301,76,403,349,4
+XML_images/pinca438.jpg 49,120,161,365,3
+XML_images/pinca410.jpg 84,64,236,303,3
+XML_images/pinca376.jpg 49,202,145,421,1 31,144,131,414,4
+XML_images/tesourareta583.jpg 378,162,584,348,3
+XML_images/tesouracurva186.jpg 255,50,291,279,1 181,171,405,282,2
+XML_images/pinca362.jpg 108,194,348,284,2 201,98,313,305,1
+XML_images/tesouracurva192.jpg 151,229,333,414,2
+XML_images/tesourareta597.jpg 281,167,501,259,1
+XML_images/bisturi268.jpg 372,63,568,196,1 308,71,573,157,4
+XML_images/pinca404.jpg 420,201,558,411,2
+XML_images/bisturi283.jpg 298,130,488,268,1
+XML_images/separado53.jpg 183,55,433,142,3 202,42,430,88,1
+XML_images/pinca389.jpg 356,154,552,282,1
+XML_images/tesouracurva179.jpg 276,168,508,362,4
+XML_images/tesourareta568.jpg 294,134,419,339,1
+XML_images/bisturi297.jpg 492,158,586,390,2
+XML_images/separado47.jpg 247,178,383,368,1 168,125,371,287,2
+XML_images/tesouracurva623.jpg 354,1,439,251,3
+XML_images/tesourareta226.jpg 200,186,373,369,2 102,264,376,356,4
+XML_images/tesouracurva145.jpg 60,96,246,286,2 37,52,159,319,4
+XML_images/tesourareta540.jpg 263,163,390,404,3
+XML_images/tesourareta554.jpg 300,102,403,316,1
+XML_images/tesouracurva151.jpg 54,125,174,326,1
+XML_images/tesourareta232.jpg 271,89,357,341,3 240,139,397,314,1
+XML_images/tesouracurva637.jpg 152,87,257,315,2
+XML_images/tesourareta542.jpg 210,236,448,276,2
+XML_images/tesouracurva147.jpg 562,53,596,292,2 505,83,591,353,4
+XML_images/tesourareta224.jpg 48,159,214,410,4
+XML_images/tesouracurva621.jpg 159,215,355,370,2
+XML_images/separado79.jpg 364,20,518,275,4
+XML_images/tesouracurva635.jpg 288,137,355,374,2
+XML_images/tesourareta230.jpg 95,276,368,364,4 51,69,301,178,3 267,103,491,182,1 373,253,528,449,2
+XML_images/tesouracurva153.jpg 268,116,534,216,4
+XML_images/tesourareta556.jpg 185,156,428,212,2 265,100,388,366,4
+XML_images/separado51.jpg 205,23,296,295,4
+XML_images/bisturi281.jpg 90,152,338,319,4
+XML_images/tesourareta218.jpg 93,233,364,330,4
+XML_images/separado45.jpg 21,127,254,329,4
+XML_images/bisturi295.jpg 214,84,382,335,4
+XML_images/tesouracurva609.jpg 155,46,415,194,4
+XML_images/tesouracurva184.jpg 226,191,428,334,2
+XML_images/tesourareta581.jpg 313,55,511,283,4
+XML_images/bisturi518.jpg 308,134,336,377,2
+XML_images/pinca374.jpg 84,129,178,368,2 51,111,154,383,4
+XML_images/pinca412.jpg 305,193,343,433,2
+XML_images/pinca406.jpg 39,185,318,282,4
+XML_images/tesourareta595.jpg 186,189,326,398,2
+XML_images/tesouracurva190.jpg 161,150,435,237,4
+XML_images/pinca360.jpg 50,260,322,348,4
+XML_images/bisturi524.jpg 114,191,346,219,1 148,294,391,331,2 134,75,382,164,3 265,359,532,448,4
+XML_images/pinca348.jpg 105,198,159,443,2 153,108,293,299,1 286,135,534,234,3 122,134,294,383,4
+XML_images/bisturi242.jpg 338,74,486,311,3 247,156,518,245,4
+XML_images/tesouracurva806.jpg 297,238,546,391,4 261,148,418,376,3
+XML_images/separado92.jpg 230,188,382,366,1 208,211,461,368,4
+XML_images/bisturi256.jpg 249,133,355,399,4 124,184,346,255,1
+XML_images/separado86.jpg 266,11,520,157,4
+XML_images/tesouracurva812.jpg 270,89,354,331,2 216,67,302,344,4
+XML_images/bisturi530.jpg 275,155,547,243,4
+XML_images/tesouracurva423.jpg 173,154,319,418,4 160,219,326,387,1
+XML_images/tesourareta7.jpg 347,59,467,325,4
+XML_images/tesouracurva345.jpg 87,37,215,283,3
+XML_images/tesouracurva351.jpg 295,50,523,78,1
+XML_images/tesouracurva437.jpg 371,140,583,233,1
+XML_images/pinca189.jpg 269,98,356,348,3 293,157,339,387,1
+XML_images/tesouracurva379.jpg 52,42,162,243,1 53,148,145,398,3
+XML_images/pinca610.jpg 141,162,306,358,2 424,106,543,309,1 296,135,404,405,4 102,69,334,222,3
+XML_images/pinca176.jpg 360,100,520,354,4 456,111,478,340,1
+XML_images/tesouracurva386.jpg 259,150,396,388,3 364,122,459,393,4
+XML_images/pinca162.jpg 52,104,214,333,3
+XML_images/tesouracurva392.jpg 313,90,512,317,4
+XML_images/pinca604.jpg 164,163,415,252,3 217,117,440,328,4
+XML_images/bisturi726.jpg 269,82,293,318,1 106,259,376,346,4
+XML_images/bisturi732.jpg 333,205,479,420,2 289,210,313,435,1 76,88,327,178,3 34,198,248,413,4
+XML_images/pinca638.jpg 271,131,529,285,4
+XML_images/tesourareta152.jpg 38,159,215,316,1
+XML_images/tesouracurva557.jpg 244,23,450,213,3
+XML_images/tesourareta634.jpg 335,94,361,325,1
+XML_images/tesouracurva231.jpg 104,114,304,282,2
+XML_images/tesouracurva225.jpg 441,148,589,379,3
+XML_images/tesourareta620.jpg 38,158,160,425,4 20,49,88,291,2
+XML_images/tesouracurva543.jpg 139,160,374,352,4 244,278,478,312,2
+XML_images/tesourareta146.jpg 269,87,355,338,3 222,89,391,259,1
+XML_images/tesourareta608.jpg 338,222,564,254,1
+XML_images/bisturi691.jpg 266,202,540,315,4
+XML_images/tesouracurva219.jpg 319,111,455,303,1
+XML_images/bisturi685.jpg 279,84,366,336,3 210,128,366,309,1
+XML_images/bisturi108.jpg 37,69,123,344,4 23,79,153,281,1
+XML_images/tesouracurva594.jpg 521,151,542,396,2
+XML_images/tesourareta191.jpg 395,194,611,341,2
+XML_images/tesourareta74.jpg 95,216,317,291,1 244,109,354,334,2
+XML_images/tesourareta60.jpg 356,283,582,305,1 195,270,437,307,2
+XML_images/tesourareta185.jpg 422,132,585,352,3
+XML_images/tesouracurva580.jpg 261,157,423,336,1
+XML_images/bisturi134.jpg 320,125,557,198,2
+XML_images/tesourareta48.jpg 126,194,357,233,1 107,184,338,298,2
+XML_images/bisturi652.jpg 268,223,500,255,1
+XML_images/bisturi646.jpg 231,74,316,349,4 185,271,394,377,1
+XML_images/bisturi120.jpg 38,114,280,245,3
+XML_images/tesourareta436.jpg 303,121,471,292,1
+XML_images/bisturi69.jpg 310,162,488,320,1
+XML_images/tesouracurva755.jpg 227,103,418,309,3 268,76,379,346,4
+XML_images/tesourareta350.jpg 42,158,310,279,4
+XML_images/tesouracurva48.jpg 252,138,368,341,1 152,266,389,348,2
+XML_images/tesourareta344.jpg 250,148,340,400,3
+XML_images/tesouracurva741.jpg 293,105,555,231,4
+XML_images/tesourareta422.jpg 432,222,596,383,1 446,206,612,402,2
+XML_images/bisturi55.jpg 218,56,315,330,4
+XML_images/bisturi493.jpg 28,58,118,307,3 23,55,139,323,4
+XML_images/tesouracurva769.jpg 331,109,451,314,1
+XML_images/pinca599.jpg 268,191,502,225,1
+XML_images/tesouracurva74.jpg 110,63,369,392,3
+XML_images/tesourareta378.jpg 148,51,342,410,3
+XML_images/tesouracurva60.jpg 456,100,599,356,4
+XML_images/bisturi487.jpg 66,254,338,343,4
+XML_images/bisturi41.jpg 278,94,366,343,3
+XML_images/pinca200.jpg 204,133,407,301,2
+XML_images/tesourareta393.jpg 200,244,436,311,2
+XML_images/tesouracurva796.jpg 151,133,420,256,4 206,159,452,202,2
+XML_images/pinca566.jpg 209,154,396,295,1
+XML_images/pinca17.jpg 455,121,594,335,2 462,123,592,360,3
+XML_images/tesouracurva782.jpg 200,144,422,281,2 304,104,368,329,1
+XML_images/tesourareta387.jpg 257,127,415,331,2
+XML_images/pinca572.jpg 201,132,425,338,4
+XML_images/pinca214.jpg 202,165,448,278,3 347,112,478,330,2
+XML_images/bisturi478.jpg 214,54,440,166,2
+XML_images/bisturi450.jpg 277,57,473,182,1 265,23,333,265,2
+XML_images/bisturi96.jpg 292,60,353,402,1
+XML_images/bisturi336.jpg 170,271,420,360,3
+XML_images/bisturi322.jpg 144,163,468,296,1
+XML_images/bisturi82.jpg 215,152,422,306,2
+XML_images/pinca228.jpg 510,85,586,298,1
+XML_images/bisturi444.jpg 430,99,454,329,1
+XML_images/bisturi323.jpg 360,125,424,351,1
+XML_images/bisturi445.jpg 308,197,522,294,1
+XML_images/pinca229.jpg 193,212,323,408,1
+XML_images/bisturi83.jpg 140,261,370,316,1
+XML_images/bisturi97.jpg 94,190,221,404,2
+XML_images/bisturi451.jpg 343,308,586,348,2
+XML_images/bisturi337.jpg 198,98,404,215,1
+XML_images/pinca573.jpg 96,49,254,311,4
+XML_images/tesouracurva783.jpg 246,165,380,406,3 221,47,361,313,4
+XML_images/tesourareta386.jpg 204,65,291,340,4
+XML_images/bisturi479.jpg 193,251,425,279,1 165,210,432,343,4
+XML_images/pinca215.jpg 244,87,362,333,3
+XML_images/pinca201.jpg 302,383,529,400,1
+XML_images/pinca16.jpg 395,128,543,386,4
+XML_images/pinca567.jpg 508,52,594,300,3 492,73,604,341,4
+XML_images/tesourareta392.jpg 226,102,460,296,4 287,97,443,274,1
+XML_images/tesouracurva797.jpg 51,78,247,280,3
+XML_images/tesouracurva61.jpg 259,60,386,302,3
+XML_images/tesourareta379.jpg 247,112,334,360,3
+XML_images/bisturi40.jpg 195,138,393,302,2 212,57,299,332,4
+XML_images/bisturi486.jpg 199,148,448,240,3
+XML_images/bisturi492.jpg 73,63,161,314,3 59,105,173,313,1
+XML_images/bisturi54.jpg 109,67,493,286,4
+XML_images/tesouracurva75.jpg 253,97,341,371,4 129,322,375,359,2
+XML_images/pinca598.jpg 41,124,134,374,3
+XML_images/tesouracurva768.jpg 159,175,433,262,4 201,114,380,330,3
+XML_images/tesourareta345.jpg 65,53,227,309,4
+XML_images/tesouracurva740.jpg 288,148,481,286,1
+XML_images/tesourareta423.jpg 131,137,177,384,2 64,257,293,288,1
+XML_images/bisturi68.jpg 328,99,436,310,1
+XML_images/tesourareta437.jpg 296,137,472,297,1
+XML_images/tesouracurva49.jpg 221,188,469,275,3
+XML_images/tesouracurva754.jpg 80,247,308,284,1 48,216,266,344,2
+XML_images/tesourareta351.jpg 249,142,385,334,1 285,102,373,351,3
+XML_images/bisturi647.jpg 331,222,497,472,4
+XML_images/bisturi121.jpg 355,146,443,365,1
+XML_images/bisturi135.jpg 36,164,248,345,3
+XML_images/bisturi653.jpg 43,47,95,292,2 28,136,112,411,4
+XML_images/tesourareta49.jpg 258,3,476,180,3
+XML_images/tesourareta61.jpg 275,117,361,387,4
+XML_images/tesourareta184.jpg 296,163,510,385,4
+XML_images/tesouracurva581.jpg 135,50,390,137,3 29,39,240,260,4
+XML_images/tesouracurva595.jpg 285,176,481,309,1
+XML_images/tesourareta190.jpg 44,134,132,383,3
+XML_images/bisturi109.jpg 323,189,461,376,1
+XML_images/tesourareta75.jpg 130,3,382,90,3
+XML_images/bisturi684.jpg 314,109,415,324,1
+XML_images/tesouracurva218.jpg 363,193,591,304,2
+XML_images/bisturi690.jpg 233,55,319,304,3 187,176,346,371,2
+XML_images/tesourareta609.jpg 200,264,412,368,1
+XML_images/tesouracurva224.jpg 359,44,481,285,3 293,41,561,141,4
+XML_images/tesourareta621.jpg 214,185,428,326,2
+XML_images/tesouracurva542.jpg 54,47,108,288,2 51,30,283,190,3
+XML_images/tesourareta147.jpg 51,51,261,238,3
+XML_images/tesourareta153.jpg 205,86,427,249,3
+XML_images/tesouracurva556.jpg 269,213,498,252,1
+XML_images/tesourareta635.jpg 88,135,173,384,3 62,139,282,277,2
+XML_images/tesouracurva230.jpg 288,123,376,396,4 274,51,453,262,3
+XML_images/bisturi733.jpg 253,141,495,193,2
+XML_images/pinca639.jpg 472,150,595,348,1
+XML_images/bisturi727.jpg 143,240,379,324,2
+XML_images/tesouracurva393.jpg 32,96,120,369,4 29,82,198,312,3
+XML_images/pinca163.jpg 217,186,446,236,1
+XML_images/pinca605.jpg 304,91,368,332,2 244,196,322,414,1 364,181,544,390,3 60,103,307,276,4
+XML_images/pinca611.jpg 291,111,443,341,3 283,133,466,310,2
+XML_images/tesouracurva387.jpg 63,154,300,245,2
+XML_images/pinca177.jpg 211,24,340,435,4
+XML_images/tesouracurva378.jpg 38,114,311,202,4 208,365,454,451,3 51,294,280,340,1 255,251,498,283,2
+XML_images/pinca188.jpg 280,168,510,219,1
+XML_images/tesouracurva350.jpg 45,261,283,398,3
+XML_images/tesouracurva436.jpg 292,394,529,417,2 321,279,577,420,4
+XML_images/tesouracurva422.jpg 356,120,380,351,1
+XML_images/tesouracurva344.jpg 359,228,601,296,2
+XML_images/tesourareta6.jpg 82,213,299,305,1
+XML_images/separado87.jpg 138,78,378,376,2
+XML_images/bisturi257.jpg 382,92,612,249,3 546,31,592,271,2
+XML_images/bisturi531.jpg 121,76,210,348,4
+XML_images/pinca349.jpg 340,128,517,366,4
+XML_images/bisturi525.jpg 348,84,571,290,4
+XML_images/separado93.jpg 242,112,504,249,4
+XML_images/tesouracurva807.jpg 76,132,274,297,2
+XML_images/bisturi243.jpg 155,97,429,185,4
+XML_images/pinca407.jpg 314,252,578,341,4 405,180,570,343,1
+XML_images/pinca361.jpg 343,131,591,218,3
+XML_images/tesourareta594.jpg 230,84,470,268,4
+XML_images/tesouracurva191.jpg 80,16,246,245,3 128,94,243,303,1
+XML_images/pinca375.jpg 289,78,321,323,2 222,33,342,299,4
+XML_images/bisturi519.jpg 174,66,371,393,2
+XML_images/tesouracurva185.jpg 220,115,420,272,2 282,129,398,375,3
+XML_images/tesourareta580.jpg 182,70,267,344,4
+XML_images/pinca413.jpg 225,32,409,271,4 287,52,334,282,1
+XML_images/tesouracurva608.jpg 277,144,545,231,4
+XML_images/bisturi294.jpg 449,59,535,306,3 386,245,591,344,1
+XML_images/separado44.jpg 42,79,127,331,3
+XML_images/tesourareta219.jpg 418,217,554,434,2 291,153,391,425,4 166,81,395,108,1 8,170,96,419,3
+XML_images/bisturi280.jpg 265,88,356,360,4 270,287,514,381,3
+XML_images/separado50.jpg 202,228,439,309,2 241,105,459,318,4
+XML_images/tesouracurva634.jpg 216,118,454,303,4
+XML_images/tesourareta231.jpg 281,104,350,341,2 117,130,247,328,1 301,294,550,447,4 60,241,270,431,3
+XML_images/separado78.jpg 140,222,361,299,1
+XML_images/tesouracurva152.jpg 48,90,231,279,2
+XML_images/tesourareta557.jpg 460,121,595,354,3 447,55,534,293,2
+XML_images/tesourareta543.jpg 231,136,274,364,1
+XML_images/tesouracurva146.jpg 190,173,319,390,2 228,123,348,389,4
+XML_images/tesourareta225.jpg 349,198,588,327,3
+XML_images/tesouracurva620.jpg 297,227,323,454,1 110,107,200,359,3 11,329,281,416,4 29,411,271,444,2
+XML_images/tesourareta518.jpg 264,125,516,279,4
+XML_images/bisturi581.jpg 449,56,537,302,3 380,100,524,287,1
+XML_images/separado37.jpg 125,54,213,308,3 66,186,296,224,1
+XML_images/separado23.jpg 78,233,350,323,4 388,187,432,418,1 447,196,531,445,3 14,404,258,454,2
+XML_images/separado4.jpg 42,94,228,309,3
+XML_images/tesouracurva109.jpg 229,117,348,389,4 163,141,402,218,2
+XML_images/tesouracurva9.jpg 228,147,320,362,1
+XML_images/bisturi595.jpg 257,138,289,382,2 197,182,403,408,4
+XML_images/tesourareta524.jpg 282,80,328,330,2 75,78,347,183,4
+XML_images/tesouracurva121.jpg 247,158,517,242,4 242,154,450,261,1
+XML_images/tesourareta242.jpg 136,68,289,324,4
+XML_images/tesouracurva647.jpg 291,120,329,349,1 128,200,366,381,4
+XML_images/tesouracurva653.jpg 78,318,329,410,3 513,213,546,438,1 164,199,409,232,2 265,72,535,172,4
+XML_images/tesourareta256.jpg 265,54,415,312,4
+XML_images/tesouracurva135.jpg 340,218,569,278,2 374,197,575,415,4
+XML_images/tesourareta530.jpg 344,75,591,162,3
+XML_images/bisturi542.jpg 359,245,597,313,2 384,187,561,403,3
+XML_images/bisturi224.jpg 117,152,467,285,2
+XML_images/pinca448.jpg 73,99,267,335,4
+XML_images/bisturi230.jpg 106,130,438,310,2
+XML_images/bisturi556.jpg 220,166,462,190,2 252,117,500,220,3
+XML_images/pinca312.jpg 223,21,331,291,4
+XML_images/bisturi218.jpg 279,162,371,412,3
+XML_images/tesouracurva684.jpg 219,192,371,424,3
+XML_images/tesourareta281.jpg 254,42,339,318,4
+XML_images/pinca474.jpg 392,54,528,316,4
+XML_images/tesourareta295.jpg 296,204,562,353,4
+XML_images/tesouracurva690.jpg 56,194,284,300,2
+XML_images/pinca460.jpg 47,102,233,339,4
+XML_images/pinca306.jpg 179,0,333,255,4
+XML_images/tesouracurva479.jpg 116,282,358,314,2 356,68,472,275,1 313,248,559,333,3 106,111,374,229,4
+XML_images/tesouracurva445.jpg 111,102,267,305,2
+XML_images/tesouracurva323.jpg 323,122,427,368,3 213,176,453,225,2
+XML_images/tesouracurva337.jpg 34,56,247,270,4 69,79,181,326,3
+XML_images/tesouracurva451.jpg 172,51,277,279,2
+XML_images/bisturi740.jpg 381,191,600,265,1
+XML_images/pinca138.jpg 123,18,366,397,4
+XML_images/pinca676.jpg 127,229,357,253,1
+XML_images/tesouracurva486.jpg 320,301,544,333,1 17,363,265,448,3 286,174,558,260,4 24,86,269,121,2
+XML_images/pinca110.jpg 333,186,578,272,3
+XML_images/pinca104.jpg 66,174,309,229,2
+XML_images/pinca5.jpg 177,202,359,379,2
+XML_images/pinca662.jpg 463,35,497,277,2 390,116,579,318,3
+XML_images/tesouracurva492.jpg 250,70,403,325,4
+XML_images/bisturi191.jpg 336,203,562,255,1
+XML_images/tesourareta108.jpg 276,192,491,288,1
+XML_images/bisturi185.jpg 357,101,380,332,1
+XML_images/tesouracurva519.jpg 229,189,308,404,1
+XML_images/tesourareta134.jpg 51,68,237,282,3
+XML_images/tesouracurva531.jpg 15,67,230,209,2 25,137,112,414,4
+XML_images/tesourareta652.jpg 42,152,296,241,3
+XML_images/tesouracurva257.jpg 329,157,461,353,1
+XML_images/tesouracurva243.jpg 55,25,243,238,3
+XML_images/tesourareta646.jpg 282,120,387,389,4
+XML_images/tesouracurva525.jpg 256,47,446,255,3
+XML_images/tesourareta120.jpg 367,178,453,452,4
+XML_images/bisturi152.jpg 305,130,384,349,1
+XML_images/bisturi634.jpg 143,109,167,341,1 222,222,492,313,4 243,148,486,179,2 15,362,262,449,3
+XML_images/bisturi620.jpg 439,103,575,359,4 529,147,565,386,2
+XML_images/bisturi146.jpg 141,219,359,392,3
+XML_images/tesourareta12.jpg 299,170,509,279,1
+XML_images/tesouracurva294.jpg 123,224,353,262,1
+XML_images/bisturi608.jpg 224,202,416,331,1
+XML_images/tesouracurva280.jpg 395,147,599,300,2
+XML_images/pinca299.jpg 58,31,182,276,3
+XML_images/bisturi33.jpg 63,67,151,319,3
+XML_images/tesouracurva12.jpg 507,99,591,347,3 368,152,606,343,4
+XML_images/bisturi393.jpg 175,263,394,355,1 107,168,351,354,4
+XML_images/bisturi387.jpg 122,79,306,322,4
+XML_images/bisturi27.jpg 201,73,363,330,4
+XML_images/tesourareta478.jpg 301,84,391,362,4 238,164,367,404,3
+XML_images/tesourareta450.jpg 318,171,509,312,1
+XML_images/tesouracurva733.jpg 196,95,412,192,1
+XML_images/tesourareta336.jpg 328,139,448,343,1
+XML_images/tesourareta322.jpg 249,199,287,430,1
+XML_images/tesouracurva727.jpg 344,211,586,389,4
+XML_images/tesourareta444.jpg 302,381,528,405,1
+XML_images/bisturi436.jpg 71,5,173,259,3
+XML_images/bisturi350.jpg 357,229,582,347,2
+XML_images/pinca59.jpg 47,148,93,390,2 48,217,260,407,3
+XML_images/pinca528.jpg 158,232,360,358,1
+XML_images/bisturi344.jpg 577,78,602,317,2
+XML_images/bisturi422.jpg 309,250,576,336,4 219,124,423,315,3
+XML_images/tesourareta493.jpg 279,101,311,345,2 254,244,500,340,3
+XML_images/pinca266.jpg 287,123,375,396,4 148,144,329,359,3
+XML_images/pinca71.jpg 21,45,207,260,3 26,87,149,354,4
+XML_images/pinca500.jpg 322,164,409,440,4
+XML_images/pinca514.jpg 201,233,440,301,2
+XML_images/bisturi378.jpg 380,163,570,336,2
+XML_images/pinca65.jpg 412,206,436,433,1
+XML_images/tesourareta487.jpg 267,144,354,394,3
+XML_images/pinca272.jpg 139,55,342,217,2 192,114,297,362,3
+XML_images/pinca64.jpg 47,121,217,344,3
+XML_images/bisturi379.jpg 193,155,443,242,3
+XML_images/pinca515.jpg 323,36,569,125,3 349,54,578,82,1
+XML_images/pinca273.jpg 280,161,494,266,1
+XML_images/tesourareta486.jpg 250,98,340,371,4 212,201,359,408,2
+XML_images/pinca267.jpg 155,198,353,364,2 194,132,416,339,4
+XML_images/tesourareta492.jpg 331,179,573,293,3
+XML_images/pinca501.jpg 268,152,515,240,3
+XML_images/pinca70.jpg 210,144,439,298,3
+XML_images/bisturi345.jpg 108,218,340,323,2 142,125,305,295,1
+XML_images/pinca529.jpg 222,123,470,221,3
+XML_images/pinca58.jpg 307,122,421,333,1
+XML_images/bisturi423.jpg 274,173,496,256,1
+XML_images/bisturi437.jpg 57,152,144,387,2 64,225,256,365,1
+XML_images/bisturi351.jpg 165,131,252,385,3 142,190,313,349,1
+XML_images/tesourareta323.jpg 189,121,389,319,3
+XML_images/tesouracurva726.jpg 321,117,448,320,1
+XML_images/tesourareta445.jpg 60,105,266,231,2 135,89,293,347,4
+XML_images/tesourareta451.jpg 346,91,411,319,1
+XML_images/tesouracurva732.jpg 260,64,454,268,3
+XML_images/tesourareta337.jpg 178,117,417,251,3 201,147,427,187,1
+XML_images/bisturi386.jpg 393,259,568,410,1 352,237,584,374,3
+XML_images/tesourareta479.jpg 246,166,422,412,4 328,168,368,394,1
+XML_images/bisturi26.jpg 186,12,366,412,4
+XML_images/bisturi32.jpg 98,134,186,383,3
+XML_images/pinca298.jpg 252,98,342,372,4 162,164,326,360,2
+XML_images/bisturi392.jpg 166,199,406,288,3 236,234,507,321,4
+XML_images/tesouracurva13.jpg 217,144,404,352,3
+XML_images/tesouracurva281.jpg 370,148,604,178,1 469,30,575,258,2
+XML_images/bisturi609.jpg 109,312,325,398,1
+XML_images/tesouracurva295.jpg 132,246,336,367,1
+XML_images/tesourareta13.jpg 300,223,529,276,1
+XML_images/bisturi621.jpg 314,21,512,144,1
+XML_images/bisturi147.jpg 378,121,400,352,1
+XML_images/bisturi153.jpg 263,144,329,383,2
+XML_images/bisturi635.jpg 141,260,364,335,1
+XML_images/tesouracurva242.jpg 502,107,603,350,3 363,124,615,283,4
+XML_images/tesourareta647.jpg 36,43,119,318,4
+XML_images/tesouracurva524.jpg 48,137,288,275,3
+XML_images/tesourareta121.jpg 347,234,586,421,4
+XML_images/tesourareta135.jpg 183,157,385,388,4
+XML_images/tesouracurva530.jpg 211,127,421,311,3
+XML_images/tesourareta653.jpg 458,77,546,347,4
+XML_images/tesouracurva256.jpg 57,108,288,260,3 78,33,236,290,4
+XML_images/tesouracurva518.jpg 123,190,347,262,1 107,149,353,249,3
+XML_images/bisturi184.jpg 164,143,395,168,1 61,104,322,245,4
+XML_images/tesourareta109.jpg 68,249,301,356,2 171,147,359,388,4
+XML_images/bisturi190.jpg 274,141,433,367,3
+XML_images/pinca105.jpg 308,85,344,329,2
+XML_images/tesouracurva493.jpg 160,178,248,397,1
+XML_images/pinca663.jpg 491,49,574,320,4 341,53,584,176,3
+XML_images/pinca4.jpg 0,189,240,302,3
+XML_images/tesouracurva487.jpg 318,152,455,342,1
+XML_images/pinca677.jpg 212,165,445,360,4
+XML_images/pinca111.jpg 332,0,422,209,1
+XML_images/pinca139.jpg 181,118,269,388,4
+XML_images/tesouracurva336.jpg 299,226,510,406,3
+XML_images/separado100.jpg 248,223,452,377,2
+XML_images/tesouracurva450.jpg 304,154,388,403,3 189,184,429,271,2
+XML_images/tesouracurva444.jpg 47,105,302,192,3 51,62,97,313,2
+XML_images/tesouracurva322.jpg 290,122,376,395,4 286,256,509,417,3
+XML_images/tesouracurva478.jpg 393,146,550,347,2
+XML_images/pinca461.jpg 149,223,377,330,2
+XML_images/tesourareta294.jpg 322,71,426,300,2
+XML_images/tesouracurva691.jpg 85,178,281,337,2
+XML_images/pinca307.jpg 168,172,387,258,1
+XML_images/pinca313.jpg 203,133,243,364,1
+XML_images/pinca475.jpg 285,127,397,349,2 210,170,450,300,3
+XML_images/tesouracurva685.jpg 381,107,601,225,2 436,117,524,363,3
+XML_images/tesourareta280.jpg 14,132,168,332,2 155,99,346,305,3 230,143,439,252,1 369,173,491,440,4
+XML_images/bisturi219.jpg 58,168,468,298,4
+XML_images/bisturi231.jpg 154,121,234,343,1
+XML_images/bisturi557.jpg 243,198,473,220,1 236,86,479,120,2 3,254,277,343,4 360,254,554,449,3
+XML_images/bisturi543.jpg 287,87,373,339,3 266,106,336,345,2
+XML_images/pinca449.jpg 130,102,241,333,2
+XML_images/bisturi225.jpg 204,51,401,281,4
+XML_images/tesouracurva652.jpg 393,194,431,423,1
+XML_images/tesourareta257.jpg 280,191,512,217,1
+XML_images/tesouracurva134.jpg 53,115,77,364,2 31,134,117,409,4
+XML_images/tesourareta531.jpg 56,106,186,348,3
+XML_images/tesourareta525.jpg 165,146,270,417,4 178,46,317,285,3
+XML_images/tesouracurva120.jpg 327,103,390,331,1
+XML_images/tesourareta243.jpg 321,76,471,286,2
+XML_images/tesouracurva646.jpg 534,114,561,339,1 288,348,559,434,4 23,136,111,382,3 81,56,325,90,2
+XML_images/separado22.jpg 42,179,166,422,3
+XML_images/bisturi594.jpg 60,120,236,342,3
+XML_images/tesouracurva108.jpg 253,233,523,365,4
+XML_images/tesouracurva8.jpg 273,154,465,288,1
+XML_images/separado5.jpg 195,179,363,341,1
+XML_images/bisturi580.jpg 170,84,403,229,3
+XML_images/tesourareta519.jpg 72,1,272,202,3
+XML_images/separado36.jpg 492,60,578,331,4 362,47,584,153,2
+XML_images/separado7.jpg 313,179,585,267,4
+XML_images/bisturi596.jpg 431,68,547,327,4
+XML_images/separado20.jpg 154,79,410,237,4
+XML_images/tesourareta269.jpg 164,110,426,237,4
+XML_images/separado34.jpg 492,25,571,287,4
+XML_images/tesouracurva678.jpg 251,8,354,279,4
+XML_images/pinca488.jpg 221,70,406,307,4
+XML_images/bisturi582.jpg 172,41,412,228,4
+XML_images/tesourareta533.jpg 112,113,322,334,4
+XML_images/tesouracurva136.jpg 214,48,308,404,2
+XML_images/tesourareta255.jpg 256,77,314,438,2
+XML_images/tesouracurva650.jpg 415,171,589,342,2 471,162,589,394,3
+XML_images/tesouracurva644.jpg 261,58,311,415,2
+XML_images/tesourareta241.jpg 51,151,99,394,2 40,86,213,311,3
+XML_images/tesouracurva122.jpg 121,175,365,355,4
+XML_images/tesourareta527.jpg 179,32,265,309,4 168,27,268,240,1
+XML_images/pinca339.jpg 301,65,388,337,4
+XML_images/bisturi555.jpg 425,104,591,264,1 446,58,534,306,3
+XML_images/bisturi233.jpg 42,184,295,274,3
+XML_images/bisturi227.jpg 558,122,590,345,1 502,135,600,398,4
+XML_images/bisturi541.jpg 139,148,369,178,1 121,86,393,176,4
+XML_images/pinca305.jpg 211,146,469,296,4
+XML_images/bisturi569.jpg 146,144,357,252,1 80,20,253,243,3
+XML_images/tesouracurva693.jpg 89,292,340,382,3 270,356,539,456,4 254,206,483,231,1 363,76,563,230,2
+XML_images/tesourareta296.jpg 145,192,349,308,1
+XML_images/pinca463.jpg 113,196,228,418,2
+XML_images/tesourareta282.jpg 259,89,355,342,3
+XML_images/tesouracurva687.jpg 130,139,366,233,2 77,66,297,281,4
+XML_images/pinca477.jpg 164,148,386,358,4 261,220,507,307,3
+XML_images/pinca311.jpg 271,67,439,317,4
+XML_images/tesouracurva308.jpg 242,150,374,353,1 233,90,361,356,4
+XML_images/tesouracurva452.jpg 46,144,310,292,4
+XML_images/tesouracurva334.jpg 150,63,334,392,2
+XML_images/tesouracurva320.jpg 514,61,604,331,4 534,48,581,273,1
+XML_images/tesouracurva446.jpg 245,82,343,436,2
+XML_images/pinca649.jpg 332,50,580,75,2 340,28,584,169,3
+XML_images/pinca6.jpg 358,124,566,346,4
+XML_images/pinca661.jpg 155,74,428,167,4
+XML_images/tesouracurva491.jpg 171,80,431,343,2
+XML_images/pinca107.jpg 280,158,366,409,3
+XML_images/pinca113.jpg 220,166,462,185,2 301,60,384,314,3
+XML_images/pinca675.jpg 66,28,186,297,4 74,38,304,74,1
+XML_images/tesouracurva485.jpg 176,141,312,407,4
+XML_images/bisturi186.jpg 71,220,249,401,2
+XML_images/tesouracurva268.jpg 248,83,466,208,2 285,86,371,339,3
+XML_images/bisturi192.jpg 268,48,352,323,4
+XML_images/tesourareta123.jpg 381,21,605,187,3 301,38,546,97,2
+XML_images/tesouracurva526.jpg 172,144,288,347,1
+XML_images/tesourareta645.jpg 203,143,470,261,4
+XML_images/tesouracurva240.jpg 150,166,298,368,2
+XML_images/tesouracurva254.jpg 212,161,453,291,3 221,169,456,268,2
+XML_images/tesourareta651.jpg 71,63,449,314,4
+XML_images/tesouracurva532.jpg 215,144,390,335,2 349,88,494,277,1 96,90,196,339,3 213,304,475,438,4
+XML_images/tesourareta137.jpg 192,219,433,284,2
+XML_images/bisturi145.jpg 175,207,302,420,2 120,138,282,392,4
+XML_images/tesourareta39.jpg 301,57,387,330,4
+XML_images/bisturi623.jpg 273,90,359,343,3
+XML_images/bisturi637.jpg 9,291,239,333,1 175,94,281,330,2 268,220,476,438,4 268,89,516,181,3
+XML_images/bisturi151.jpg 152,157,325,317,1
+XML_images/bisturi179.jpg 269,77,436,327,4
+XML_images/tesouracurva283.jpg 134,172,409,265,4 147,197,309,423,3
+XML_images/bisturi8.jpg 51,151,299,257,3
+XML_images/tesourareta11.jpg 115,48,208,302,3 95,69,325,121,1
+XML_images/tesouracurva297.jpg 77,20,253,243,3 110,83,172,309,1
+XML_images/bisturi24.jpg 66,12,152,264,3
+XML_images/bisturi384.jpg 248,134,416,383,4
+XML_images/tesouracurva718.jpg 294,32,498,149,1
+XML_images/pinca99.jpg 494,51,578,320,4 375,183,554,396,3
+XML_images/tesouracurva11.jpg 102,129,280,372,4
+XML_images/bisturi390.jpg 427,131,590,327,2
+XML_images/tesourareta309.jpg 61,87,96,330,2 45,164,275,328,3
+XML_images/bisturi30.jpg 159,162,279,367,1
+XML_images/tesourareta447.jpg 249,184,440,424,4
+XML_images/bisturi18.jpg 274,183,298,413,1
+XML_images/tesouracurva39.jpg 60,155,208,391,3
+XML_images/tesouracurva724.jpg 490,205,595,431,2 490,111,570,376,4
+XML_images/tesourareta321.jpg 255,110,356,356,3
+XML_images/tesourareta335.jpg 276,181,485,294,1
+XML_images/tesouracurva730.jpg 342,141,435,356,1
+XML_images/tesourareta453.jpg 74,107,160,357,3
+XML_images/bisturi421.jpg 281,189,504,263,1
+XML_images/bisturi347.jpg 245,220,467,351,2
+XML_images/bisturi353.jpg 53,165,260,356,3
+XML_images/bisturi435.jpg 173,98,395,268,3
+XML_images/pinca259.jpg 31,58,117,334,4 42,55,120,293,2
+XML_images/tesourareta484.jpg 172,168,358,314,1
+XML_images/pinca271.jpg 340,97,520,250,1 198,282,446,370,3 159,68,285,287,2 64,168,218,424,4
+XML_images/pinca517.jpg 76,163,306,275,2
+XML_images/pinca66.jpg 202,174,332,389,2
+XML_images/pinca72.jpg 164,147,270,417,4 183,152,422,287,3
+XML_images/pinca503.jpg 524,121,548,346,1 302,389,541,420,2 316,79,428,349,4 36,275,284,361,3
+XML_images/tesourareta490.jpg 112,179,308,309,1
+XML_images/bisturi409.jpg 307,87,437,288,1
+XML_images/pinca265.jpg 297,184,400,396,1
+XML_images/pinca502.jpg 435,146,581,375,3
+XML_images/pinca73.jpg 109,82,381,174,4 217,32,416,159,1
+XML_images/pinca264.jpg 248,164,462,341,3
+XML_images/bisturi408.jpg 345,144,547,310,2 353,66,585,263,4
+XML_images/tesourareta491.jpg 192,124,322,364,3 203,112,335,306,1
+XML_images/pinca270.jpg 172,190,400,304,2 197,132,417,339,4
+XML_images/tesourareta485.jpg 250,97,339,371,4 147,331,394,352,2
+XML_images/pinca67.jpg 265,73,501,211,3
+XML_images/pinca516.jpg 237,96,384,329,3
+XML_images/bisturi352.jpg 270,71,357,346,4 238,250,430,388,1
+XML_images/pinca258.jpg 179,172,429,259,3
+XML_images/bisturi434.jpg 54,177,305,266,3
+XML_images/bisturi420.jpg 66,47,154,324,4
+XML_images/bisturi346.jpg 505,98,590,348,3 337,137,611,236,4
+XML_images/tesourareta334.jpg 132,390,354,414,1
+XML_images/tesouracurva731.jpg 234,71,426,201,1
+XML_images/tesourareta452.jpg 298,225,528,269,1
+XML_images/bisturi19.jpg 52,82,142,361,4 53,61,139,313,3
+XML_images/tesourareta446.jpg 270,121,530,265,4
+XML_images/tesouracurva725.jpg 357,133,465,344,1
+XML_images/tesourareta320.jpg 187,233,369,387,1
+XML_images/tesouracurva38.jpg 449,86,577,347,4
+XML_images/tesourareta308.jpg 289,122,375,395,4 122,209,340,384,3
+XML_images/bisturi391.jpg 232,323,480,410,3
+XML_images/tesouracurva10.jpg 306,108,338,352,2 229,301,475,393,3
+XML_images/bisturi31.jpg 441,120,481,361,2
+XML_images/bisturi25.jpg 261,146,329,385,2
+XML_images/pinca98.jpg 201,261,443,317,2
+XML_images/tesouracurva719.jpg 531,143,608,367,1 564,158,590,400,2
+XML_images/bisturi385.jpg 122,268,334,378,1
+XML_images/tesouracurva296.jpg 331,112,434,325,1
+XML_images/tesourareta10.jpg 552,142,576,368,1 516,60,594,290,2
+XML_images/bisturi178.jpg 434,117,492,341,1 345,144,501,399,4
+XML_images/bisturi9.jpg 336,111,576,298,4
+XML_images/tesouracurva282.jpg 346,241,590,326,3 325,175,596,280,4
+XML_images/bisturi636.jpg 471,51,613,287,3 500,36,604,243,1
+XML_images/bisturi150.jpg 36,138,263,306,3
+XML_images/bisturi144.jpg 268,236,500,273,1
+XML_images/bisturi622.jpg 279,71,423,306,3
+XML_images/tesourareta38.jpg 367,273,593,299,1 377,230,597,333,2
+XML_images/tesouracurva255.jpg 338,111,398,341,1
+XML_images/tesourareta650.jpg 222,151,450,185,1 155,74,327,294,3
+XML_images/tesouracurva533.jpg 53,26,245,168,1 93,31,163,271,2
+XML_images/tesourareta136.jpg 270,202,502,233,1
+XML_images/tesourareta122.jpg 165,163,439,250,4
+XML_images/tesouracurva527.jpg 215,56,302,332,4 138,264,382,333,2
+XML_images/tesourareta644.jpg 258,97,345,347,3
+XML_images/tesouracurva241.jpg 83,156,246,379,3
+XML_images/tesouracurva269.jpg 75,27,227,208,1 88,30,180,282,3
+XML_images/bisturi193.jpg 39,128,263,300,3
+XML_images/bisturi187.jpg 196,183,440,295,3
+XML_images/pinca112.jpg 248,116,401,348,3
+XML_images/tesouracurva484.jpg 200,41,346,304,4 173,103,374,230,1
+XML_images/pinca674.jpg 260,83,348,356,4 160,292,406,337,2
+XML_images/tesouracurva490.jpg 316,170,338,409,2
+XML_images/pinca660.jpg 181,156,296,364,1
+XML_images/pinca7.jpg 227,243,480,330,3 169,178,433,312,4
+XML_images/pinca106.jpg 382,60,467,311,3 400,187,460,407,1
+XML_images/pinca648.jpg 224,92,401,311,3
+XML_images/tesouracurva321.jpg 61,281,326,424,4
+XML_images/tesouracurva447.jpg 54,75,140,326,3
+XML_images/tesouracurva453.jpg 340,102,577,281,4
+XML_images/tesouracurva335.jpg 235,85,330,335,3 263,182,526,308,4
+XML_images/tesouracurva309.jpg 45,136,132,385,3
+XML_images/pinca476.jpg 195,167,456,301,4
+XML_images/tesourareta283.jpg 170,155,400,312,3
+XML_images/tesouracurva686.jpg 190,86,422,108,1
+XML_images/pinca310.jpg 12,200,247,346,3
+XML_images/bisturi568.jpg 281,228,540,373,4
+XML_images/pinca304.jpg 122,75,355,167,2
+XML_images/pinca462.jpg 301,178,490,318,1
+XML_images/tesouracurva692.jpg 332,111,411,333,1
+XML_images/tesourareta297.jpg 155,5,277,206,1
+XML_images/bisturi226.jpg 406,84,482,321,2 429,51,565,310,4
+XML_images/bisturi540.jpg 83,27,225,261,3
+XML_images/bisturi554.jpg 54,177,287,334,3
+XML_images/pinca338.jpg 27,137,113,413,4 44,167,163,384,2
+XML_images/bisturi232.jpg 42,83,254,270,3
+XML_images/tesouracurva645.jpg 223,175,426,322,2
+XML_images/tesourareta240.jpg 307,153,466,332,1
+XML_images/tesouracurva123.jpg 175,211,342,380,1
+XML_images/tesourareta526.jpg 449,142,592,321,1 460,145,509,387,2
+XML_images/tesourareta532.jpg 390,140,410,375,1
+XML_images/tesouracurva137.jpg 209,202,236,433,1
+XML_images/tesourareta254.jpg 169,180,301,374,1
+XML_images/tesouracurva651.jpg 33,255,165,449,1
+XML_images/pinca489.jpg 189,42,439,134,3 225,87,365,306,2
+XML_images/tesouracurva679.jpg 239,153,326,424,4
+XML_images/separado35.jpg 462,144,592,361,2
+XML_images/bisturi583.jpg 294,262,526,403,3
+XML_images/bisturi597.jpg 32,177,152,422,3 41,338,313,425,4
+XML_images/separado6.jpg 110,187,344,341,3
+XML_images/tesourareta268.jpg 196,148,440,177,2
+XML_images/separado21.jpg 59,86,309,174,3
+XML_images/separado19.jpg 172,173,415,307,3 223,75,351,344,4
+XML_images/tesouracurva655.jpg 468,123,556,368,3 177,223,443,351,4 167,85,395,121,1 10,384,253,443,2
+XML_images/tesourareta250.jpg 225,175,361,365,1
+XML_images/tesouracurva133.jpg 285,161,545,297,4
+XML_images/tesourareta536.jpg 170,175,420,263,3
+XML_images/tesourareta522.jpg 337,19,406,264,2 283,152,379,401,3
+XML_images/tesouracurva127.jpg 41,246,191,451,2 148,86,343,223,1 247,178,496,264,3 257,263,527,348,4
+XML_images/tesourareta244.jpg 189,172,460,259,4
+XML_images/tesouracurva641.jpg 275,135,395,358,2
+XML_images/separado25.jpg 127,201,227,437,2 255,239,372,441,1 274,117,506,316,4 50,73,300,162,3
+XML_images/pinca499.jpg 286,84,490,251,2 331,52,564,240,4
+XML_images/tesouracurva669.jpg 153,179,401,280,3
+XML_images/separado2.jpg 264,149,388,345,1
+XML_images/bisturi593.jpg 380,153,538,402,4 277,297,523,401,3
+XML_images/bisturi587.jpg 459,37,535,254,1 351,139,595,228,3
+XML_images/separado31.jpg 215,146,468,303,4
+XML_images/tesourareta278.jpg 55,140,182,381,3 101,170,168,391,1
+XML_images/pinca466.jpg 280,53,421,260,2
+XML_images/tesourareta293.jpg 177,135,389,233,1
+XML_images/tesouracurva696.jpg 414,156,466,384,1
+XML_images/pinca300.jpg 47,113,209,310,2
+XML_images/bisturi578.jpg 72,223,300,287,1
+XML_images/pinca314.jpg 36,86,274,156,2
+XML_images/pinca472.jpg 73,161,287,308,2 242,267,439,392,1 297,90,513,264,3 53,354,322,441,4
+XML_images/tesouracurva682.jpg 26,139,277,245,3 33,53,247,271,4
+XML_images/tesourareta287.jpg 114,129,322,244,1
+XML_images/bisturi236.jpg 189,101,427,289,4
+XML_images/bisturi550.jpg 466,128,549,374,3 458,137,498,376,2
+XML_images/bisturi544.jpg 92,103,463,360,4
+XML_images/pinca328.jpg 82,229,305,341,2 82,171,273,378,3
+XML_images/bisturi222.jpg 64,56,258,223,2
+XML_images/tesouracurva331.jpg 232,266,460,291,1 194,225,440,398,4
+XML_images/tesouracurva457.jpg 141,181,408,290,4 164,163,358,296,1
+XML_images/tesouracurva443.jpg 304,103,550,269,4
+XML_images/tesouracurva325.jpg 204,227,434,387,3
+XML_images/tesouracurva319.jpg 122,218,449,389,2
+XML_images/pinca102.jpg 359,298,601,400,3 537,164,604,398,2
+XML_images/pinca3.jpg 115,134,475,194,2
+XML_images/tesouracurva494.jpg 66,130,330,271,4
+XML_images/pinca664.jpg 284,105,398,371,4 291,118,329,348,1
+XML_images/tesouracurva480.jpg 183,108,411,398,2
+XML_images/pinca670.jpg 171,129,441,217,4
+XML_images/pinca116.jpg 62,154,87,400,2 44,121,191,360,3
+XML_images/pinca658.jpg 244,156,270,388,1
+XML_images/tesouracurva245.jpg 132,169,469,325,2
+XML_images/tesourareta640.jpg 197,150,425,179,1 295,104,402,372,4
+XML_images/tesouracurva523.jpg 552,164,592,405,2 518,120,604,365,3
+XML_images/tesourareta126.jpg 299,55,498,283,4
+XML_images/tesourareta132.jpg 460,28,596,234,2 373,66,606,226,3
+XML_images/tesouracurva537.jpg 288,150,375,400,3 291,61,473,239,2
+XML_images/tesourareta654.jpg 73,188,345,276,4
+XML_images/tesouracurva251.jpg 106,66,432,268,2
+XML_images/tesouracurva279.jpg 354,88,564,298,4 418,99,605,242,1
+XML_images/bisturi183.jpg 183,81,425,263,4
+XML_images/bisturi197.jpg 166,132,408,412,2
+XML_images/tesourareta668.jpg 160,25,434,117,4 194,39,425,73,1
+XML_images/tesouracurva286.jpg 215,57,359,320,4
+XML_images/bisturi168.jpg 206,217,412,412,3
+XML_images/tesourareta14.jpg 337,140,579,312,4
+XML_images/tesouracurva292.jpg 312,143,578,260,4
+XML_images/bisturi626.jpg 262,35,348,312,4
+XML_images/bisturi140.jpg 267,34,375,303,4
+XML_images/bisturi154.jpg 218,198,471,354,4
+XML_images/bisturi632.jpg 300,280,566,366,4
+XML_images/tesourareta28.jpg 243,25,331,302,4
+XML_images/tesourareta324.jpg 48,166,284,258,2
+XML_images/tesouracurva721.jpg 155,54,420,420,4
+XML_images/tesourareta442.jpg 97,175,328,200,1
+XML_images/tesourareta456.jpg 265,43,434,232,2
+XML_images/tesouracurva735.jpg 66,225,291,394,3 64,288,310,344,2
+XML_images/tesourareta330.jpg 173,140,405,171,1
+XML_images/tesouracurva28.jpg 255,67,351,298,2
+XML_images/bisturi381.jpg 364,65,576,280,4 392,99,532,336,3
+XML_images/tesourareta318.jpg 129,78,217,328,3 315,83,462,300,2 507,191,551,415,1 113,312,377,440,4
+XML_images/bisturi21.jpg 82,214,297,307,1
+XML_images/bisturi35.jpg 346,129,432,348,1
+XML_images/pinca88.jpg 233,171,396,342,1
+XML_images/bisturi395.jpg 37,199,287,302,3 32,144,117,406,4
+XML_images/tesouracurva709.jpg 128,5,277,213,2
+XML_images/tesouracurva14.jpg 174,178,403,202,1 296,80,510,259,3 363,196,531,437,4 73,384,315,433,2
+XML_images/pinca512.jpg 186,114,393,302,3
+XML_images/pinca63.jpg 185,251,435,339,3 256,84,428,336,4
+XML_images/pinca274.jpg 204,143,452,312,4
+XML_images/tesourareta481.jpg 270,198,538,285,4
+XML_images/bisturi418.jpg 483,27,571,275,3 457,52,531,273,1
+XML_images/pinca260.jpg 217,125,490,213,4
+XML_images/tesourareta495.jpg 52,120,202,354,3 47,165,262,267,1
+XML_images/pinca77.jpg 84,145,268,322,2 119,141,280,398,4
+XML_images/pinca506.jpg 156,145,404,253,3
+XML_images/bisturi342.jpg 186,198,384,323,1
+XML_images/pinca248.jpg 276,120,305,352,1
+XML_images/bisturi424.jpg 45,406,273,439,1 432,184,563,445,4 43,76,160,325,3 248,79,490,118,2
+XML_images/bisturi430.jpg 219,207,397,379,2
+XML_images/bisturi356.jpg 507,179,540,419,2 362,175,394,402,1 223,139,311,410,4 119,151,207,403,3
+XML_images/bisturi431.jpg 68,225,317,312,3 235,135,411,324,2
+XML_images/bisturi357.jpg 200,30,444,53,2
+XML_images/bisturi343.jpg 211,156,346,418,4
+XML_images/bisturi425.jpg 71,117,318,222,3
+XML_images/pinca249.jpg 74,39,204,287,3 19,43,200,287,4
+XML_images/tesourareta494.jpg 94,214,158,433,1
+XML_images/pinca261.jpg 185,198,257,423,1
+XML_images/pinca507.jpg 92,46,194,301,3
+XML_images/pinca76.jpg 366,146,442,368,1
+XML_images/pinca62.jpg 124,230,348,296,1
+XML_images/pinca513.jpg 284,187,486,310,1
+XML_images/bisturi419.jpg 408,32,610,183,2 351,47,547,175,1
+XML_images/tesourareta480.jpg 190,181,427,245,2
+XML_images/pinca275.jpg 196,194,318,397,1
+XML_images/bisturi34.jpg 187,175,263,410,2 154,205,363,426,4
+XML_images/tesouracurva15.jpg 322,154,458,348,1
+XML_images/tesouracurva708.jpg 264,86,352,337,3
+XML_images/bisturi394.jpg 219,9,365,194,1
+XML_images/pinca89.jpg 72,126,276,318,3
+XML_images/tesourareta319.jpg 443,57,567,273,2 481,83,577,350,4
+XML_images/bisturi380.jpg 50,19,137,272,3
+XML_images/bisturi20.jpg 26,81,113,332,3
+XML_images/tesourareta457.jpg 190,313,406,412,1
+XML_images/tesouracurva29.jpg 83,165,163,404,2
+XML_images/tesouracurva734.jpg 469,129,553,376,3 512,126,592,359,2
+XML_images/tesourareta331.jpg 186,83,380,316,4
+XML_images/tesourareta325.jpg 273,231,545,320,4
+XML_images/tesouracurva720.jpg 209,147,449,328,4
+XML_images/tesourareta443.jpg 323,120,437,326,1
+XML_images/bisturi155.jpg 50,122,157,372,3
+XML_images/tesourareta29.jpg 357,215,559,402,3 304,280,570,391,4
+XML_images/bisturi633.jpg 344,79,386,311,1 227,101,459,294,4
+XML_images/bisturi627.jpg 561,45,579,276,1 430,158,602,333,2
+XML_images/bisturi141.jpg 304,128,462,307,1
+XML_images/bisturi169.jpg 307,176,576,262,4
+XML_images/tesouracurva293.jpg 213,217,455,404,4
+XML_images/tesourareta15.jpg 237,122,433,321,3 180,22,394,247,4
+XML_images/tesouracurva287.jpg 313,96,584,190,4
+XML_images/bisturi196.jpg 205,120,427,290,3
+XML_images/tesourareta669.jpg 122,111,319,342,4 190,184,416,238,1
+XML_images/tesouracurva278.jpg 44,113,252,307,3
+XML_images/bisturi182.jpg 258,235,406,413,1 147,262,419,354,4
+XML_images/tesourareta133.jpg 293,66,421,309,3
+XML_images/tesouracurva536.jpg 207,145,262,374,1
+XML_images/tesourareta655.jpg 217,105,335,330,2 152,89,402,183,3
+XML_images/tesouracurva250.jpg 170,181,434,312,4 221,131,444,301,3
+XML_images/tesouracurva244.jpg 250,101,337,354,3
+XML_images/tesourareta641.jpg 333,241,577,326,3 345,223,536,356,1
+XML_images/tesouracurva522.jpg 233,161,390,366,2
+XML_images/tesourareta127.jpg 379,180,602,298,2
+XML_images/pinca659.jpg 296,186,512,291,1
+XML_images/pinca671.jpg 209,94,334,337,3
+XML_images/tesouracurva481.jpg 60,187,276,372,3
+XML_images/pinca117.jpg 420,267,602,412,1 361,285,599,416,3
+XML_images/pinca103.jpg 237,106,335,342,2 235,142,425,375,4
+XML_images/pinca665.jpg 164,187,438,273,4 237,94,309,334,2
+XML_images/tesouracurva495.jpg 261,99,463,292,3
+XML_images/pinca2.jpg 75,79,161,330,3
+XML_images/tesouracurva318.jpg 261,60,347,310,3
+XML_images/tesouracurva442.jpg 279,202,489,310,1
+XML_images/tesouracurva324.jpg 338,340,576,409,2 355,368,580,403,1
+XML_images/tesouracurva330.jpg 38,98,197,329,3
+XML_images/tesouracurva456.jpg 160,192,334,388,2 215,60,301,335,4
+XML_images/pinca329.jpg 427,94,531,342,3
+XML_images/bisturi545.jpg 195,170,453,314,4 122,140,303,356,3
+XML_images/bisturi223.jpg 289,178,391,402,2
+XML_images/bisturi237.jpg 137,248,322,394,1
+XML_images/bisturi551.jpg 208,99,364,309,2 224,118,462,253,3
+XML_images/pinca315.jpg 489,134,571,401,4 367,54,585,225,3
+XML_images/bisturi579.jpg 152,183,295,419,3
+XML_images/tesouracurva683.jpg 167,123,417,209,3 292,123,390,334,1
+XML_images/tesourareta286.jpg 338,244,582,282,2 471,163,598,401,3
+XML_images/pinca473.jpg 483,60,570,307,3 481,63,593,265,1
+XML_images/tesourareta292.jpg 203,197,443,248,2
+XML_images/tesouracurva697.jpg 156,226,386,249,1
+XML_images/pinca467.jpg 554,145,590,385,2
+XML_images/pinca301.jpg 144,75,390,186,3 284,47,474,228,2
+XML_images/bisturi586.jpg 43,150,283,290,3
+XML_images/tesourareta279.jpg 166,197,414,289,3 178,166,442,307,4
+XML_images/separado30.jpg 69,79,197,349,4
+XML_images/tesouracurva668.jpg 510,41,593,289,3 412,13,608,245,4
+XML_images/pinca498.jpg 406,49,532,314,4
+XML_images/separado24.jpg 114,81,296,327,4
+XML_images/bisturi592.jpg 40,239,293,327,3
+XML_images/separado3.jpg 460,161,490,391,1 346,144,501,399,4
+XML_images/tesourareta523.jpg 215,112,391,329,3
+XML_images/tesouracurva126.jpg 403,65,599,194,1 543,40,565,281,2
+XML_images/tesourareta245.jpg 249,98,338,373,4 220,163,452,263,2
+XML_images/tesouracurva640.jpg 60,187,303,305,3
+XML_images/tesouracurva654.jpg 335,75,421,327,3 217,181,446,217,1
+XML_images/tesourareta251.jpg 198,91,306,336,3
+XML_images/separado18.jpg 344,112,580,296,4
+XML_images/tesouracurva132.jpg 350,106,415,331,1
+XML_images/tesourareta537.jpg 276,177,470,314,1
+XML_images/tesouracurva642.jpg 197,37,415,162,2
+XML_images/tesourareta247.jpg 213,162,453,288,3 256,92,440,264,2
+XML_images/tesouracurva124.jpg 222,125,468,217,3 278,72,299,318,2
+XML_images/tesourareta521.jpg 185,203,457,292,4
+XML_images/tesourareta535.jpg 186,156,458,247,4
+XML_images/tesouracurva130.jpg 464,133,602,366,3 494,168,607,394,2
+XML_images/tesourareta253.jpg 79,163,487,296,4
+XML_images/tesouracurva656.jpg 63,102,89,344,2
+XML_images/separado32.jpg 289,147,500,258,1
+XML_images/tesouracurva118.jpg 328,203,541,421,4
+XML_images/bisturi584.jpg 97,202,347,286,3
+XML_images/separado1.jpg 224,0,398,156,1
+XML_images/tesourareta509.jpg 240,274,469,420,3 276,130,362,407,4
+XML_images/bisturi590.jpg 368,135,411,363,1
+XML_images/separado26.jpg 18,73,216,210,1
+XML_images/pinca471.jpg 121,179,365,303,3
+XML_images/tesourareta284.jpg 149,61,421,175,4 57,66,288,136,2
+XML_images/tesouracurva681.jpg 43,265,295,355,3
+XML_images/pinca317.jpg 262,97,299,439,1
+XML_images/pinca303.jpg 308,161,524,373,4
+XML_images/pinca465.jpg 274,110,360,332,1
+XML_images/bisturi209.jpg 117,34,347,190,3
+XML_images/tesouracurva695.jpg 424,188,586,408,3
+XML_images/tesourareta290.jpg 333,233,575,402,4 390,224,585,386,2
+XML_images/bisturi221.jpg 190,228,338,411,1
+XML_images/bisturi547.jpg 54,167,302,192,2
+XML_images/bisturi553.jpg 205,190,229,421,1
+XML_images/pinca459.jpg 307,198,517,306,1
+XML_images/bisturi235.jpg 272,238,504,266,1
+XML_images/tesouracurva326.jpg 253,182,495,213,2 295,403,519,426,1 115,179,313,381,3 41,60,313,151,4
+XML_images/tesouracurva440.jpg 337,135,521,284,1
+XML_images/tesouracurva454.jpg 153,233,324,416,2 341,259,487,442,1 385,78,553,296,3 154,118,291,379,4
+XML_images/tesouracurva332.jpg 411,211,587,423,3 459,160,570,421,4
+XML_images/tesouracurva468.jpg 389,136,504,349,2
+XML_images/pinca115.jpg 210,201,420,302,1
+XML_images/tesouracurva483.jpg 61,117,299,198,2
+XML_images/pinca673.jpg 238,185,258,425,2
+XML_images/tesouracurva497.jpg 120,115,234,322,1
+XML_images/pinca667.jpg 162,74,236,296,1
+XML_images/pinca101.jpg 228,419,453,445,1 516,190,560,430,2 135,224,357,391,3 180,121,421,303,4
+XML_images/pinca129.jpg 239,135,435,263,1
+XML_images/tesouracurva252.jpg 127,119,456,288,2
+XML_images/tesourareta657.jpg 214,132,298,403,4
+XML_images/tesouracurva534.jpg 159,224,389,252,1
+XML_images/tesourareta131.jpg 380,56,471,304,3
+XML_images/tesourareta125.jpg 256,71,289,431,2
+XML_images/tesouracurva520.jpg 149,102,299,361,4
+XML_images/tesourareta643.jpg 57,154,87,402,2 44,256,293,372,3
+XML_images/tesouracurva246.jpg 360,142,598,204,2 364,52,592,215,3
+XML_images/bisturi194.jpg 158,132,296,323,1
+XML_images/tesouracurva508.jpg 68,250,316,337,3 138,76,202,304,1 320,74,465,284,2 335,241,546,451,4
+XML_images/bisturi180.jpg 419,202,451,429,1 61,96,278,230,2 32,213,235,405,3 257,94,399,356,4
+XML_images/tesourareta119.jpg 255,101,343,373,4 200,209,393,368,2
+XML_images/tesourareta17.jpg 86,23,178,242,1 54,123,196,360,3
+XML_images/tesouracurva291.jpg 248,86,368,353,4
+XML_images/tesouracurva285.jpg 279,168,401,385,2 229,121,348,387,4
+XML_images/bisturi619.jpg 171,114,391,292,3
+XML_images/bisturi631.jpg 177,118,420,244,3
+XML_images/bisturi157.jpg 323,71,411,344,4 182,109,390,304,3
+XML_images/bisturi143.jpg 383,84,565,292,3 361,198,528,359,1
+XML_images/bisturi625.jpg 308,104,492,341,4
+XML_images/tesourareta333.jpg 227,167,387,417,4
+XML_images/tesouracurva736.jpg 120,243,481,273,2
+XML_images/tesourareta455.jpg 181,28,395,344,2
+XML_images/tesourareta441.jpg 168,210,389,286,1
+XML_images/tesouracurva722.jpg 59,57,91,274,2 40,34,171,277,3
+XML_images/tesourareta327.jpg 363,88,545,296,3
+XML_images/bisturi396.jpg 222,138,492,225,4 237,35,395,212,1
+XML_images/tesouracurva17.jpg 139,65,369,100,1 61,41,316,200,4
+XML_images/tesourareta469.jpg 248,72,479,263,4
+XML_images/bisturi36.jpg 207,38,292,311,4
+XML_images/bisturi22.jpg 343,268,578,295,2 364,212,595,345,3
+XML_images/pinca288.jpg 69,186,340,293,4
+XML_images/bisturi382.jpg 395,236,588,384,2 405,106,606,333,4
+XML_images/pinca74.jpg 191,127,354,329,2
+XML_images/bisturi369.jpg 86,99,226,362,4
+XML_images/pinca505.jpg 15,166,288,271,4
+XML_images/pinca263.jpg 196,236,444,345,3
+XML_images/tesourareta496.jpg 500,73,584,344,4
+XML_images/pinca277.jpg 404,111,584,348,4
+XML_images/tesourareta482.jpg 325,205,569,320,3
+XML_images/pinca511.jpg 67,99,97,344,2
+XML_images/pinca60.jpg 187,51,441,208,4
+XML_images/bisturi355.jpg 364,143,599,338,4 500,38,588,267,2
+XML_images/pinca539.jpg 209,65,384,309,4 325,58,382,283,1
+XML_images/pinca48.jpg 302,60,432,323,4
+XML_images/bisturi433.jpg 168,39,307,231,1 179,25,269,304,4
+XML_images/bisturi427.jpg 231,28,361,294,4
+XML_images/bisturi341.jpg 175,87,427,258,4
+XML_images/bisturi426.jpg 313,106,399,325,1
+XML_images/bisturi340.jpg 45,115,283,221,2
+XML_images/pinca49.jpg 348,243,593,330,3 474,131,594,350,2
+XML_images/pinca538.jpg 269,169,309,412,2
+XML_images/bisturi354.jpg 133,144,374,220,2
+XML_images/bisturi432.jpg 200,126,464,250,4
+XML_images/tesourareta483.jpg 35,142,126,405,4 23,161,119,410,3
+XML_images/pinca276.jpg 158,68,343,218,1 288,179,486,375,3 533,89,566,330,2 37,195,286,368,4
+XML_images/pinca61.jpg 389,193,583,353,2
+XML_images/pinca510.jpg 153,40,185,271,1
+XML_images/pinca504.jpg 377,68,549,314,4 342,46,578,183,3
+XML_images/bisturi368.jpg 208,200,396,341,1
+XML_images/pinca75.jpg 137,104,181,333,1
+XML_images/tesourareta497.jpg 341,132,488,316,1
+XML_images/pinca262.jpg 228,419,452,444,1 516,191,560,429,2 136,225,358,391,3 179,120,421,303,4
+XML_images/pinca289.jpg 311,113,438,336,2 225,196,479,352,4
+XML_images/bisturi23.jpg 272,182,546,270,4 248,158,443,360,3
+XML_images/bisturi383.jpg 211,96,369,327,3
+XML_images/tesouracurva16.jpg 330,73,443,341,4
+XML_images/bisturi397.jpg 470,93,490,325,1 456,79,541,327,3
+XML_images/bisturi37.jpg 237,82,375,320,3
+XML_images/tesourareta468.jpg 307,407,531,449,1 15,72,257,126,2 197,160,361,384,3 10,169,99,440,4
+XML_images/tesourareta440.jpg 175,112,255,332,1
+XML_images/tesouracurva723.jpg 198,273,390,445,2 249,70,297,299,1 34,88,142,341,3 396,127,516,394,4
+XML_images/tesourareta326.jpg 204,265,445,289,2 256,100,345,373,4
+XML_images/tesourareta332.jpg 89,9,171,236,1 54,123,195,360,3
+XML_images/tesouracurva737.jpg 312,66,397,337,4
+XML_images/tesourareta454.jpg 172,98,230,321,1 262,98,476,239,2 65,259,277,445,3 264,263,521,407,4
+XML_images/bisturi142.jpg 226,100,346,343,3
+XML_images/bisturi624.jpg 129,105,381,192,3
+XML_images/bisturi630.jpg 43,95,210,318,3
+XML_images/bisturi156.jpg 155,205,361,425,4 289,52,336,296,2
+XML_images/bisturi618.jpg 268,128,389,333,1
+XML_images/tesouracurva284.jpg 494,171,590,416,3
+XML_images/tesouracurva290.jpg 297,183,539,357,4
+XML_images/tesourareta16.jpg 421,172,537,391,2 331,231,574,402,4
+XML_images/tesourareta118.jpg 130,115,383,202,3
+XML_images/bisturi181.jpg 361,186,490,451,4
+XML_images/tesouracurva509.jpg 305,133,467,306,1
+XML_images/bisturi195.jpg 54,29,212,211,1
+XML_images/tesourareta124.jpg 116,111,484,378,4
+XML_images/tesouracurva521.jpg 348,138,423,363,1
+XML_images/tesourareta642.jpg 423,82,516,315,2
+XML_images/tesouracurva247.jpg 212,156,454,289,3 260,94,416,298,2
+XML_images/tesouracurva253.jpg 208,236,452,288,2 277,67,395,311,3
+XML_images/tesourareta656.jpg 217,163,483,287,4 323,193,464,424,3
+XML_images/tesouracurva535.jpg 311,0,375,222,1
+XML_images/tesourareta130.jpg 193,197,458,332,4
+XML_images/pinca128.jpg 295,114,423,335,2 196,125,429,277,3
+XML_images/pinca666.jpg 51,168,293,233,2
+XML_images/tesouracurva496.jpg 105,77,194,313,2
+XML_images/pinca1.jpg 187,98,342,329,3 134,153,382,203,2
+XML_images/pinca100.jpg 164,310,376,402,1
+XML_images/pinca114.jpg 256,201,440,367,2
+XML_images/pinca672.jpg 424,134,535,379,3
+XML_images/tesouracurva482.jpg 227,95,313,347,3 172,179,433,312,4
+XML_images/tesouracurva469.jpg 335,159,477,353,1
+XML_images/tesouracurva455.jpg 272,213,498,285,1
+XML_images/tesouracurva333.jpg 94,277,276,426,1
+XML_images/tesouracurva327.jpg 138,221,269,417,1
+XML_images/tesouracurva441.jpg 219,181,285,409,1
+XML_images/bisturi552.jpg 227,90,462,233,3
+XML_images/bisturi234.jpg 293,222,521,268,1
+XML_images/pinca458.jpg 185,151,422,293,3
+XML_images/bisturi220.jpg 350,150,583,344,4 441,114,497,357,2
+XML_images/bisturi546.jpg 41,82,126,334,3
+XML_images/pinca302.jpg 309,92,362,317,1 261,101,441,316,3
+XML_images/tesouracurva694.jpg 46,193,298,298,3
+XML_images/tesourareta291.jpg 280,144,438,321,1
+XML_images/bisturi208.jpg 115,66,357,255,4
+XML_images/pinca464.jpg 166,118,352,325,3
+XML_images/tesourareta285.jpg 357,104,418,331,1
+XML_images/tesouracurva680.jpg 175,232,417,294,2 249,98,337,372,4
+XML_images/pinca470.jpg 73,240,313,369,3
+XML_images/pinca316.jpg 365,84,605,123,2 405,65,600,192,1
+XML_images/bisturi591.jpg 496,54,582,327,4 350,140,592,249,3
+XML_images/tesourareta508.jpg 380,225,606,425,4 519,125,595,344,1
+XML_images/separado27.jpg 45,140,291,264,3
+XML_images/separado33.jpg 167,198,410,294,3 236,233,508,320,4
+XML_images/bisturi585.jpg 314,167,578,284,4
+XML_images/tesouracurva119.jpg 362,60,578,274,4
+XML_images/tesourareta534.jpg 195,136,394,269,1
+XML_images/tesouracurva131.jpg 252,115,394,320,2
+XML_images/tesourareta252.jpg 499,135,586,381,3 485,138,577,413,4
+XML_images/tesouracurva657.jpg 181,121,321,357,3
+XML_images/tesouracurva643.jpg 170,137,420,223,3 299,155,523,189,1
+XML_images/tesourareta246.jpg 97,169,367,276,4
+XML_images/tesouracurva125.jpg 228,75,376,337,4 297,91,321,322,1
+XML_images/tesourareta520.jpg 425,190,577,388,2 473,164,594,405,3
+XML_images/tesourareta539.jpg 180,263,437,415,4
+XML_images/separado16.jpg 437,48,491,275,1
+XML_images/tesouracurva128.jpg 164,172,320,349,1
+XML_images/tesouracurva100.jpg 351,290,594,394,3 329,343,565,394,2
+XML_images/tesourareta505.jpg 192,198,442,284,3
+XML_images/tesouracurva666.jpg 305,224,573,310,4 385,187,543,364,1
+XML_images/tesourareta263.jpg 343,180,589,267,3
+XML_images/pinca496.jpg 188,17,317,427,4
+XML_images/tesourareta277.jpg 126,171,400,260,4
+XML_images/tesouracurva672.jpg 198,161,436,301,3
+XML_images/pinca482.jpg 221,121,324,362,2 211,102,348,364,4
+XML_images/bisturi588.jpg 249,72,337,323,3 220,96,342,367,4
+XML_images/tesourareta511.jpg 206,77,318,325,3
+XML_images/tesouracurva114.jpg 217,186,383,412,3 230,231,454,288,1
+XML_images/bisturi563.jpg 183,93,333,326,3
+XML_images/tesouracurva699.jpg 333,135,464,333,1
+XML_images/bisturi205.jpg 50,175,302,262,3
+XML_images/pinca469.jpg 331,156,449,360,1
+XML_images/tesourareta288.jpg 383,63,564,304,4
+XML_images/bisturi211.jpg 462,42,547,289,3 396,28,564,280,4
+XML_images/bisturi577.jpg 157,104,385,264,3
+XML_images/pinca333.jpg 265,58,379,304,3 248,154,416,318,1
+XML_images/bisturi239.jpg 163,174,437,262,4 308,72,435,296,2
+XML_images/pinca455.jpg 324,167,490,334,1
+XML_images/pinca441.jpg 335,102,560,146,1 289,90,495,281,3
+XML_images/pinca327.jpg 179,141,427,231,3
+XML_images/tesouracurva458.jpg 66,69,86,316,2
+XML_images/tesouracurva464.jpg 354,30,598,75,2 304,23,528,105,1
+XML_images/tesouracurva302.jpg 200,190,418,316,2
+XML_images/tesouracurva316.jpg 41,271,270,307,1
+XML_images/pinca680.jpg 79,36,325,64,2 55,17,282,84,1
+XML_images/tesouracurva470.jpg 257,144,348,376,2
+XML_images/pinca119.jpg 68,33,315,56,2
+XML_images/pinca657.jpg 119,211,337,306,1
+XML_images/pinca131.jpg 142,219,386,393,4
+XML_images/pinca125.jpg 216,172,386,359,2
+XML_images/pinca643.jpg 142,272,366,330,1
+XML_images/tesourareta129.jpg 256,137,441,284,1
+XML_images/tesouracurva538.jpg 230,41,423,439,4
+XML_images/tesouracurva510.jpg 35,123,226,330,3
+XML_images/tesourareta115.jpg 132,96,338,292,3 199,135,330,401,4
+XML_images/tesouracurva276.jpg 187,38,432,75,2 197,16,441,154,3
+XML_images/tesourareta667.jpg 258,116,354,363,3
+XML_images/tesouracurva262.jpg 387,55,496,287,2
+XML_images/tesourareta101.jpg 330,128,576,213,3 243,78,409,329,4
+XML_images/tesouracurva504.jpg 43,93,211,314,3
+XML_images/bisturi198.jpg 71,364,311,405,2 84,323,335,411,3
+XML_images/bisturi173.jpg 289,202,507,289,1
+XML_images/bisturi2.jpg 346,134,455,409,4
+XML_images/bisturi615.jpg 275,153,437,329,1
+XML_images/tesouracurva289.jpg 239,25,396,259,3
+XML_images/bisturi601.jpg 261,113,403,373,4
+XML_images/bisturi167.jpg 164,197,415,285,3
+XML_images/bisturi629.jpg 369,101,441,325,1
+XML_images/tesourareta33.jpg 283,280,547,374,4
+XML_images/tesourareta27.jpg 359,102,575,231,2 305,50,565,171,4
+XML_images/bisturi12.jpg 274,87,360,359,4
+XML_images/tesouracurva33.jpg 201,252,436,348,2 281,88,388,336,3
+XML_images/tesouracurva27.jpg 268,84,484,299,4 261,194,353,409,1
+XML_images/tesourareta459.jpg 267,255,492,281,1 322,214,566,383,4
+XML_images/tesourareta471.jpg 256,102,346,374,4 245,158,465,269,2
+XML_images/pinca284.jpg 344,155,584,275,3
+XML_images/pinca93.jpg 258,158,502,219,2
+XML_images/tesourareta317.jpg 251,69,353,341,4
+XML_images/tesouracurva712.jpg 63,209,244,402,2 53,102,187,333,3
+XML_images/tesouracurva706.jpg 339,133,565,233,2 346,137,489,399,4
+XML_images/tesourareta303.jpg 219,160,291,385,1
+XML_images/pinca87.jpg 67,24,310,93,2
+XML_images/tesourareta465.jpg 199,362,426,390,1 370,201,489,418,2 70,119,282,313,3 284,92,417,354,4
+XML_images/pinca290.jpg 47,138,242,339,3
+XML_images/bisturi417.jpg 400,118,575,307,2
+XML_images/bisturi371.jpg 49,113,292,188,2
+XML_images/pinca509.jpg 233,46,327,301,3
+XML_images/bisturi365.jpg 226,145,342,376,2 302,114,340,345,1 10,233,203,438,3 140,118,315,366,4
+XML_images/pinca78.jpg 192,133,351,365,3 166,151,438,259,4
+XML_images/bisturi403.jpg 77,122,130,351,1 163,274,369,431,2 366,194,484,433,3 259,96,500,278,4
+XML_images/pinca247.jpg 514,135,543,362,1
+XML_images/pinca521.jpg 242,56,348,264,1
+XML_images/pinca50.jpg 179,132,363,279,1
+XML_images/pinca44.jpg 453,144,546,368,2
+XML_images/pinca535.jpg 133,116,235,329,1
+XML_images/bisturi359.jpg 153,173,325,370,2
+XML_images/pinca253.jpg 120,10,226,257,3 106,1,292,178,2
+XML_images/bisturi358.jpg 216,160,414,316,2 234,144,402,364,3
+XML_images/pinca534.jpg 105,168,447,303,2
+XML_images/pinca45.jpg 297,30,369,256,1 201,54,411,278,4
+XML_images/pinca252.jpg 55,190,172,414,2 71,134,159,409,4
+XML_images/pinca246.jpg 195,172,307,381,1
+XML_images/pinca51.jpg 361,149,611,235,3 566,60,602,299,2
+XML_images/pinca520.jpg 500,134,590,404,4 389,308,600,402,1
+XML_images/pinca79.jpg 226,17,380,273,4
+XML_images/bisturi364.jpg 215,122,341,346,2
+XML_images/pinca508.jpg 139,111,411,221,4
+XML_images/bisturi402.jpg 198,198,460,335,4
+XML_images/bisturi416.jpg 232,83,386,414,2
+XML_images/bisturi370.jpg 388,46,474,316,4
+XML_images/pinca86.jpg 228,8,375,271,4
+XML_images/tesouracurva707.jpg 179,46,364,286,4
+XML_images/tesourareta302.jpg 223,119,314,355,2
+XML_images/pinca291.jpg 40,20,190,231,2 139,28,251,298,4
+XML_images/tesourareta464.jpg 370,68,536,311,4
+XML_images/pinca285.jpg 51,110,195,325,2
+XML_images/tesourareta470.jpg 45,100,261,319,4
+XML_images/tesourareta316.jpg 72,65,204,336,4
+XML_images/tesouracurva713.jpg 110,99,140,347,2
+XML_images/pinca92.jpg 272,139,360,414,4
+XML_images/tesouracurva26.jpg 310,36,356,280,2 237,123,365,386,4
+XML_images/tesourareta458.jpg 474,140,541,380,2 411,122,582,345,3
+XML_images/bisturi13.jpg 182,114,424,389,2
+XML_images/tesouracurva32.jpg 95,250,455,286,2
+XML_images/tesourareta26.jpg 557,112,594,351,2
+XML_images/tesourareta32.jpg 118,155,310,295,1
+XML_images/bisturi628.jpg 421,83,583,267,2
+XML_images/bisturi600.jpg 204,220,400,423,3 221,76,385,330,4
+XML_images/bisturi166.jpg 403,114,577,328,3
+XML_images/bisturi172.jpg 115,22,247,246,2
+XML_images/tesouracurva288.jpg 176,80,373,281,3
+XML_images/bisturi614.jpg 143,128,332,335,3 328,225,456,440,2 373,168,521,423,4 375,266,527,441,1
+XML_images/bisturi3.jpg 468,163,554,412,3 213,201,339,426,2 25,125,49,355,1 167,106,291,376,4
+XML_images/tesourareta666.jpg 132,104,343,245,2
+XML_images/tesouracurva263.jpg 278,86,365,357,4
+XML_images/bisturi199.jpg 239,102,407,352,4
+XML_images/tesourareta100.jpg 198,361,427,389,1 69,122,282,314,3 283,92,417,354,4 410,178,499,414,2
+XML_images/tesouracurva505.jpg 271,82,372,331,3 294,78,348,323,2
+XML_images/tesouracurva511.jpg 224,283,468,307,2
+XML_images/tesourareta114.jpg 179,134,395,265,2 257,101,345,375,4
+XML_images/tesouracurva277.jpg 82,115,170,368,3 47,226,292,258,2
+XML_images/tesouracurva539.jpg 40,196,282,325,3
+XML_images/tesourareta128.jpg 322,144,504,383,4 390,101,470,343,2
+XML_images/pinca124.jpg 162,276,412,365,3 233,137,432,362,4
+XML_images/pinca642.jpg 236,81,390,260,1
+XML_images/pinca656.jpg 56,46,303,93,2 64,30,320,129,3
+XML_images/pinca130.jpg 94,24,206,272,3
+XML_images/pinca118.jpg 446,67,516,301,2
+XML_images/tesouracurva317.jpg 322,6,346,238,1
+XML_images/tesouracurva471.jpg 205,105,351,288,1
+XML_images/pinca681.jpg 112,3,229,257,3 131,5,177,266,2
+XML_images/tesouracurva465.jpg 242,168,470,203,1
+XML_images/tesouracurva303.jpg 259,33,389,447,4
+XML_images/tesouracurva459.jpg 210,172,251,418,2
+XML_images/pinca440.jpg 270,121,426,297,1
+XML_images/pinca326.jpg 191,205,411,326,2
+XML_images/pinca332.jpg 195,168,368,413,4
+XML_images/pinca454.jpg 451,82,543,291,1
+XML_images/bisturi238.jpg 150,190,338,335,1
+XML_images/bisturi210.jpg 51,108,299,148,2
+XML_images/tesourareta289.jpg 113,202,203,420,1
+XML_images/bisturi576.jpg 198,173,410,308,2
+XML_images/bisturi562.jpg 124,275,394,368,4
+XML_images/pinca468.jpg 493,145,594,348,1 418,197,590,378,2
+XML_images/bisturi204.jpg 145,171,299,353,1
+XML_images/tesouracurva698.jpg 187,204,427,271,2
+XML_images/pinca483.jpg 230,129,434,352,4
+XML_images/tesourareta276.jpg 327,22,411,273,3
+XML_images/tesouracurva673.jpg 320,145,491,398,4
+XML_images/tesourareta510.jpg 168,149,434,279,4 161,194,408,294,3
+XML_images/tesouracurva115.jpg 215,258,425,395,2 216,192,408,405,3
+XML_images/bisturi589.jpg 110,43,209,292,3
+XML_images/tesouracurva101.jpg 288,261,543,397,4
+XML_images/tesourareta504.jpg 62,35,90,280,2 45,149,159,360,1
+XML_images/tesouracurva1.jpg 224,165,380,359,2
+XML_images/pinca497.jpg 271,207,485,308,1
+XML_images/tesouracurva667.jpg 370,97,426,323,1
+XML_images/tesourareta262.jpg 415,60,560,261,2 330,152,553,348,4
+XML_images/tesouracurva129.jpg 168,166,408,306,3
+XML_images/tesourareta538.jpg 285,227,515,265,1
+XML_images/separado17.jpg 201,107,357,338,3
+XML_images/tesourareta248.jpg 269,86,409,275,1 314,79,406,328,3
+XML_images/separado15.jpg 374,89,398,320,1
+XML_images/tesouracurva659.jpg 374,142,518,378,3 361,177,557,304,1
+XML_images/tesouracurva117.jpg 186,88,282,337,3
+XML_images/tesourareta512.jpg 301,174,471,339,1
+XML_images/tesouracurva671.jpg 358,304,604,325,2 473,150,599,387,3
+XML_images/tesourareta274.jpg 415,51,499,324,4
+XML_images/pinca481.jpg 344,237,582,325,3 323,240,589,326,4
+XML_images/separado29.jpg 57,232,305,321,3
+XML_images/tesourareta260.jpg 334,156,478,347,1
+XML_images/tesouracurva665.jpg 304,182,468,375,2 162,174,436,261,4
+XML_images/pinca495.jpg 191,106,388,306,3
+XML_images/tesouracurva3.jpg 361,162,588,187,1 328,106,570,217,3
+XML_images/tesourareta506.jpg 223,75,309,324,3
+XML_images/tesouracurva103.jpg 313,155,490,314,1
+XML_images/pinca318.jpg 209,113,481,201,4 283,98,413,294,1
+XML_images/bisturi574.jpg 342,180,582,297,3
+XML_images/bisturi212.jpg 198,160,474,252,4 227,180,454,304,2
+XML_images/bisturi206.jpg 183,16,312,427,4
+XML_images/bisturi560.jpg 193,165,441,260,3
+XML_images/pinca324.jpg 135,118,389,283,4
+XML_images/bisturi548.jpg 237,27,407,248,3 240,28,412,186,1
+XML_images/pinca442.jpg 467,143,603,379,3 539,25,575,271,2
+XML_images/pinca456.jpg 187,203,436,289,3
+XML_images/pinca330.jpg 150,114,363,298,3
+XML_images/tesouracurva329.jpg 249,33,334,287,3 230,121,317,394,4
+XML_images/pinca683.jpg 211,144,333,370,2 135,198,403,321,4
+XML_images/tesouracurva473.jpg 198,74,420,247,3
+XML_images/tesouracurva315.jpg 140,144,184,371,1 100,138,366,272,4
+XML_images/tesouracurva301.jpg 192,72,282,344,4
+XML_images/tesouracurva467.jpg 237,80,324,330,3
+XML_images/pinca668.jpg 130,156,377,273,3
+XML_images/tesouracurva498.jpg 35,147,237,344,3
+XML_images/pinca640.jpg 307,184,507,313,1
+XML_images/pinca126.jpg 226,155,408,272,1 147,200,398,286,3
+XML_images/pinca132.jpg 156,153,404,240,3
+XML_images/pinca654.jpg 367,78,606,149,2 406,65,599,195,1
+XML_images/tesourareta658.jpg 294,138,315,381,2
+XML_images/tesouracurva249.jpg 230,156,374,362,2
+XML_images/tesouracurva507.jpg 175,148,289,417,4 262,183,362,428,3
+XML_images/tesourareta102.jpg 135,233,360,301,1
+XML_images/tesouracurva261.jpg 186,314,456,402,4
+XML_images/tesourareta664.jpg 245,60,344,299,2 242,35,481,163,3
+XML_images/tesourareta670.jpg 113,71,138,317,2
+XML_images/tesouracurva275.jpg 46,269,280,294,1 58,159,108,400,2
+XML_images/tesourareta116.jpg 219,237,460,267,2
+XML_images/tesouracurva513.jpg 319,51,534,137,1
+XML_images/bisturi164.jpg 314,50,384,273,1
+XML_images/bisturi602.jpg 452,94,578,332,3
+XML_images/tesourareta18.jpg 238,122,363,387,4 205,263,397,398,1
+XML_images/bisturi1.jpg 187,12,437,110,3
+XML_images/bisturi616.jpg 210,144,238,375,1
+XML_images/bisturi170.jpg 172,181,372,410,4
+XML_images/bisturi158.jpg 140,50,472,365,4
+XML_images/tesourareta24.jpg 349,282,592,372,3 399,199,553,398,2
+XML_images/tesourareta30.jpg 202,187,436,331,3
+XML_images/tesouracurva24.jpg 134,80,302,281,2 211,310,438,337,1 348,97,542,293,3 151,302,419,389,4
+XML_images/tesouracurva739.jpg 215,279,461,304,2
+XML_images/tesouracurva30.jpg 470,142,602,353,2
+XML_images/tesourareta328.jpg 436,80,572,270,1 435,106,599,325,3
+XML_images/bisturi11.jpg 341,233,553,415,3 456,159,560,422,4
+XML_images/bisturi39.jpg 452,136,572,334,1
+XML_images/tesourareta466.jpg 286,68,319,295,1
+XML_images/pinca293.jpg 187,0,435,28,2
+XML_images/tesouracurva18.jpg 155,184,428,271,4 124,183,340,356,3
+XML_images/tesourareta300.jpg 196,80,400,306,4 279,50,385,298,3
+XML_images/tesouracurva705.jpg 31,211,265,355,3
+XML_images/bisturi399.jpg 184,139,430,172,2 207,113,321,360,3
+XML_images/pinca84.jpg 131,155,363,313,3
+XML_images/pinca90.jpg 379,215,602,329,2
+XML_images/tesouracurva711.jpg 214,202,438,264,1
+XML_images/tesourareta314.jpg 51,187,298,250,2
+XML_images/tesourareta472.jpg 176,104,401,169,1
+XML_images/pinca287.jpg 299,110,405,319,1
+XML_images/bisturi400.jpg 97,132,187,345,1
+XML_images/tesourareta499.jpg 304,108,326,340,1
+XML_images/bisturi366.jpg 345,240,587,349,3
+XML_images/bisturi372.jpg 41,20,282,161,3
+XML_images/bisturi414.jpg 235,182,384,413,3
+XML_images/pinca278.jpg 560,160,600,394,2 513,110,599,357,3
+XML_images/pinca250.jpg 74,150,276,304,2
+XML_images/pinca47.jpg 322,207,552,234,1 365,204,609,245,2
+XML_images/pinca536.jpg 263,92,299,434,1
+XML_images/pinca522.jpg 302,136,406,411,4
+XML_images/pinca53.jpg 282,255,546,342,4
+XML_images/bisturi428.jpg 280,210,498,301,1
+XML_images/pinca244.jpg 277,224,504,281,1
+XML_images/pinca52.jpg 49,209,295,240,2
+XML_images/pinca523.jpg 139,105,291,364,4
+XML_images/pinca245.jpg 209,168,427,381,4
+XML_images/bisturi429.jpg 50,175,315,295,4
+XML_images/pinca251.jpg 155,191,390,281,2
+XML_images/pinca537.jpg 157,172,384,290,2
+XML_images/pinca46.jpg 157,55,419,196,4
+XML_images/bisturi373.jpg 216,70,313,423,2
+XML_images/pinca279.jpg 215,92,335,437,2
+XML_images/bisturi415.jpg 204,284,425,355,1 125,266,391,393,4
+XML_images/tesourareta498.jpg 223,156,421,355,3
+XML_images/bisturi401.jpg 135,100,408,188,4
+XML_images/bisturi367.jpg 286,168,368,403,2 182,226,424,405,4
+XML_images/tesouracurva710.jpg 45,100,177,341,3
+XML_images/tesourareta315.jpg 341,170,587,258,3
+XML_images/pinca91.jpg 61,47,324,188,4 102,25,282,212,2
+XML_images/pinca286.jpg 222,140,458,277,3 360,0,391,262,2
+XML_images/tesourareta473.jpg 253,101,342,372,4 176,330,425,360,2
+XML_images/pinca292.jpg 157,103,245,379,4
+XML_images/tesourareta467.jpg 240,75,292,434,2
+XML_images/bisturi38.jpg 76,57,96,304,2 28,28,172,289,4
+XML_images/pinca85.jpg 206,106,396,278,2
+XML_images/bisturi398.jpg 285,186,381,397,1 227,175,437,392,4
+XML_images/tesourareta301.jpg 82,116,170,367,3 96,126,263,327,2
+XML_images/tesouracurva704.jpg 209,66,398,303,4
+XML_images/tesouracurva19.jpg 516,67,545,293,1 347,50,571,254,4
+XML_images/tesourareta329.jpg 149,417,378,443,1 500,206,555,446,2 50,70,302,163,3 76,160,348,264,4
+XML_images/tesouracurva31.jpg 284,124,510,319,4
+XML_images/bisturi10.jpg 153,232,321,417,2 293,254,516,416,3 37,74,300,204,4
+XML_images/tesouracurva738.jpg 70,82,312,142,2
+XML_images/tesouracurva25.jpg 234,99,320,372,4
+XML_images/tesourareta31.jpg 131,21,394,176,4 184,63,403,152,1
+XML_images/bisturi159.jpg 77,333,349,420,4 178,266,395,402,2
+XML_images/tesourareta25.jpg 362,128,592,279,3
+XML_images/bisturi617.jpg 290,70,343,426,2
+XML_images/bisturi171.jpg 545,163,599,398,2 378,225,615,416,4
+XML_images/bisturi165.jpg 374,89,604,116,1 247,77,455,300,4
+XML_images/tesourareta19.jpg 225,77,255,434,2
+XML_images/bisturi603.jpg 118,84,298,324,4
+XML_images/tesourareta671.jpg 51,166,322,278,4
+XML_images/tesouracurva274.jpg 204,169,442,310,3
+XML_images/tesourareta117.jpg 237,219,508,333,4
+XML_images/tesouracurva512.jpg 52,162,284,272,2
+XML_images/tesouracurva506.jpg 235,291,498,404,4 212,283,434,346,1
+XML_images/tesourareta103.jpg 265,129,373,354,2 206,86,329,354,4
+XML_images/tesouracurva260.jpg 136,43,367,247,4
+XML_images/tesourareta665.jpg 155,99,386,389,2
+XML_images/tesouracurva248.jpg 149,112,420,214,4
+XML_images/tesourareta659.jpg 198,53,399,281,4
+XML_images/pinca133.jpg 287,97,489,322,4
+XML_images/pinca655.jpg 337,75,560,198,2 61,258,237,418,1 278,201,435,429,3 76,161,346,262,4
+XML_images/pinca641.jpg 136,258,314,449,2 249,154,411,326,1 293,253,515,413,3 35,74,300,203,4
+XML_images/pinca127.jpg 429,24,524,272,3 368,210,582,304,1
+XML_images/tesouracurva499.jpg 208,88,440,187,2 247,39,467,250,4
+XML_images/pinca669.jpg 45,86,129,337,3
+XML_images/tesouracurva300.jpg 338,74,439,309,2
+XML_images/tesouracurva466.jpg 197,114,443,291,4
+XML_images/tesouracurva472.jpg 272,85,386,331,3 299,123,455,326,2
+XML_images/pinca682.jpg 245,188,477,283,2
+XML_images/tesouracurva314.jpg 219,71,359,330,4
+XML_images/tesouracurva328.jpg 83,117,170,368,3 106,74,265,282,2
+XML_images/pinca457.jpg 286,222,547,338,4
+XML_images/pinca331.jpg 107,43,157,291,2 71,155,283,342,3
+XML_images/bisturi549.jpg 369,161,593,318,3
+XML_images/pinca325.jpg 265,222,490,297,1
+XML_images/pinca443.jpg 361,121,431,346,1
+XML_images/bisturi207.jpg 174,218,418,341,3
+XML_images/bisturi561.jpg 188,99,297,344,3
+XML_images/bisturi575.jpg 126,18,359,174,3
+XML_images/pinca319.jpg 158,186,433,274,4 223,183,384,410,3
+XML_images/bisturi213.jpg 25,67,213,208,1
+XML_images/pinca494.jpg 214,180,442,209,1
+XML_images/tesourareta261.jpg 195,98,396,221,1
+XML_images/tesouracurva664.jpg 349,102,387,331,1
+XML_images/separado28.jpg 389,208,600,304,1
+XML_images/tesourareta507.jpg 59,74,303,110,2 328,216,373,444,1 478,190,559,436,3 26,160,120,432,4
+XML_images/tesouracurva2.jpg 359,280,600,312,2
+XML_images/tesouracurva102.jpg 44,78,255,236,2
+XML_images/tesouracurva116.jpg 51,294,297,404,3
+XML_images/tesourareta513.jpg 280,125,305,369,2 264,268,497,394,3
+XML_images/pinca480.jpg 139,0,339,148,2
+XML_images/tesouracurva670.jpg 246,78,339,296,1
+XML_images/tesourareta275.jpg 294,82,540,172,3 159,82,354,319,4
+XML_images/tesouracurva658.jpg 447,175,535,418,3 389,150,538,402,4
+XML_images/separado14.jpg 230,205,436,352,2
+XML_images/tesourareta249.jpg 353,258,595,287,2
+XML_images/separado38.jpg 259,68,381,264,1
+XML_images/pinca484.jpg 181,151,261,373,1
+XML_images/tesourareta271.jpg 152,99,392,232,3
+XML_images/tesouracurva674.jpg 212,162,333,428,4
+XML_images/tesourareta517.jpg 226,101,488,250,4
+XML_images/tesouracurva112.jpg 273,56,501,93,1
+XML_images/tesouracurva106.jpg 385,129,583,320,3
+XML_images/tesourareta503.jpg 137,198,405,321,4 304,164,374,405,2
+XML_images/tesouracurva6.jpg 212,210,414,331,1 211,129,414,352,4
+XML_images/pinca490.jpg 228,160,407,370,3
+XML_images/tesouracurva660.jpg 339,284,587,370,3 351,202,561,341,2
+XML_images/tesourareta265.jpg 182,17,423,402,4
+XML_images/tesouracurva648.jpg 141,211,351,318,1
+XML_images/separado10.jpg 34,258,282,352,3 170,148,269,421,4
+XML_images/tesourareta259.jpg 141,249,393,338,3 232,103,380,319,2
+XML_images/pinca447.jpg 60,90,209,298,2
+XML_images/pinca321.jpg 103,131,225,349,2
+XML_images/bisturi559.jpg 45,131,256,243,1 51,138,93,382,2
+XML_images/pinca335.jpg 229,220,453,324,2
+XML_images/pinca453.jpg 210,158,357,359,2
+XML_images/bisturi217.jpg 199,103,302,436,1
+XML_images/bisturi571.jpg 273,143,426,404,4
+XML_images/bisturi565.jpg 270,141,320,384,2
+XML_images/pinca309.jpg 296,185,486,327,1
+XML_images/bisturi203.jpg 439,141,605,330,2 527,98,581,319,1
+XML_images/tesouracurva310.jpg 274,144,358,394,3 254,129,418,298,1
+XML_images/tesouracurva476.jpg 159,100,383,265,3
+XML_images/pinca686.jpg 486,140,590,347,1 411,178,611,330,2
+XML_images/tesouracurva462.jpg 331,100,434,315,1
+XML_images/tesouracurva304.jpg 296,207,521,279,1
+XML_images/tesouracurva338.jpg 139,144,377,279,3
+XML_images/pinca123.jpg 249,79,367,325,3
+XML_images/pinca645.jpg 250,33,335,285,3 195,55,399,283,4
+XML_images/pinca651.jpg 91,129,203,374,3
+XML_images/pinca137.jpg 97,145,345,322,4 145,70,244,287,1
+XML_images/tesouracurva489.jpg 214,185,428,361,3
+XML_images/pinca679.jpg 179,83,354,330,4
+XML_images/tesourareta661.jpg 178,161,421,342,4 156,133,353,306,2
+XML_images/tesouracurva264.jpg 277,74,365,346,4 263,194,367,405,1
+XML_images/tesourareta107.jpg 227,71,342,342,4
+XML_images/tesouracurva502.jpg 373,72,524,303,3
+XML_images/tesouracurva516.jpg 126,31,475,318,4
+XML_images/tesourareta113.jpg 461,143,599,377,3 360,249,605,293,2
+XML_images/tesouracurva270.jpg 419,88,561,322,3
+XML_images/tesouracurva258.jpg 137,175,385,263,3
+XML_images/tesourareta649.jpg 202,142,408,330,3 196,154,429,349,4
+XML_images/tesourareta21.jpg 279,158,487,271,1
+XML_images/bisturi149.jpg 68,111,101,340,1 49,86,145,333,3
+XML_images/tesourareta35.jpg 357,147,452,362,1
+XML_images/bisturi607.jpg 230,164,440,348,3
+XML_images/bisturi161.jpg 356,218,534,366,1 352,166,468,408,3
+XML_images/bisturi175.jpg 264,318,510,405,3 357,370,583,396,1
+XML_images/bisturi4.jpg 173,96,355,307,3
+XML_images/bisturi613.jpg 227,187,402,403,3 274,172,472,295,1
+XML_images/tesouracurva700.jpg 21,237,271,410,4 26,104,114,357,3
+XML_images/tesourareta305.jpg 70,177,302,331,3
+XML_images/pinca81.jpg 520,148,551,391,2 413,200,609,405,3
+XML_images/pinca296.jpg 146,216,352,336,1
+XML_images/tesourareta463.jpg 265,110,353,383,4
+XML_images/pinca282.jpg 178,202,428,287,3 138,133,391,302,4
+XML_images/tesourareta477.jpg 195,115,398,313,3 189,228,420,325,2
+XML_images/bisturi28.jpg 291,242,521,443,4
+XML_images/pinca95.jpg 189,171,433,284,3
+XML_images/tesourareta311.jpg 268,122,354,373,3
+XML_images/tesouracurva714.jpg 184,45,402,224,3
+XML_images/bisturi388.jpg 290,113,353,337,1
+XML_images/tesourareta339.jpg 121,260,389,351,4
+XML_images/tesouracurva21.jpg 60,128,100,371,2 41,90,187,329,3
+XML_images/bisturi14.jpg 210,29,458,116,3
+XML_images/tesouracurva728.jpg 238,194,466,240,1
+XML_images/tesouracurva35.jpg 255,125,437,275,1
+XML_images/pinca42.jpg 72,239,269,393,2
+XML_images/pinca533.jpg 210,198,436,298,2
+XML_images/pinca255.jpg 345,140,479,338,1
+XML_images/bisturi439.jpg 199,252,443,277,2
+XML_images/pinca241.jpg 129,226,359,267,1
+XML_images/pinca527.jpg 285,86,515,148,1 397,25,546,226,2
+XML_images/pinca56.jpg 420,152,582,378,3 345,228,576,416,4
+XML_images/bisturi363.jpg 499,95,583,339,3
+XML_images/pinca269.jpg 181,129,417,270,3
+XML_images/bisturi405.jpg 423,70,579,326,4
+XML_images/bisturi411.jpg 193,200,413,318,2
+XML_images/tesourareta488.jpg 540,166,606,400,2 419,200,601,345,1
+XML_images/bisturi377.jpg 210,216,340,411,1
+XML_images/tesourareta489.jpg 220,179,465,351,4
+XML_images/bisturi410.jpg 92,63,312,206,2 57,191,270,294,1 352,203,528,419,3 108,257,355,433,4
+XML_images/bisturi376.jpg 439,107,525,354,3
+XML_images/bisturi362.jpg 114,242,474,279,2
+XML_images/bisturi404.jpg 114,53,218,306,3 117,121,348,170,1
+XML_images/pinca268.jpg 192,416,420,437,1 166,68,410,120,2 464,87,548,360,4 145,185,397,274,3
+XML_images/pinca240.jpg 245,29,290,276,2
+XML_images/pinca57.jpg 258,60,344,311,3 272,125,343,366,2
+XML_images/pinca526.jpg 187,177,459,264,4
+XML_images/pinca532.jpg 299,59,501,225,2
+XML_images/pinca43.jpg 431,34,599,217,2 337,51,595,182,4
+XML_images/bisturi438.jpg 246,98,443,329,4
+XML_images/pinca254.jpg 105,226,341,276,2 58,101,180,347,3
+XML_images/bisturi15.jpg 288,101,314,332,1
+XML_images/tesouracurva34.jpg 262,151,461,256,1
+XML_images/tesouracurva729.jpg 206,191,361,394,2
+XML_images/tesouracurva20.jpg 373,165,587,341,3
+XML_images/tesourareta338.jpg 341,59,543,280,4 386,60,604,170,2
+XML_images/bisturi29.jpg 298,337,537,387,2
+XML_images/tesourareta476.jpg 386,202,605,330,2
+XML_images/pinca283.jpg 366,142,596,206,2
+XML_images/bisturi389.jpg 317,147,481,321,1
+XML_images/tesourareta310.jpg 303,178,483,333,1
+XML_images/tesouracurva715.jpg 51,131,281,292,3
+XML_images/pinca94.jpg 320,221,502,451,4
+XML_images/pinca80.jpg 182,57,414,96,1 66,60,192,302,3 271,171,410,435,4 523,190,565,429,2
+XML_images/tesouracurva701.jpg 215,75,404,214,1
+XML_images/tesourareta304.jpg 509,156,571,376,1
+XML_images/tesourareta462.jpg 146,210,332,392,2
+XML_images/pinca297.jpg 305,109,464,286,1
+XML_images/bisturi174.jpg 212,61,396,305,4
+XML_images/bisturi612.jpg 159,163,392,263,2
+XML_images/bisturi5.jpg 344,27,476,293,4
+XML_images/bisturi606.jpg 168,88,408,274,4
+XML_images/bisturi160.jpg 169,133,443,222,4
+XML_images/bisturi148.jpg 180,43,324,305,4
+XML_images/tesourareta34.jpg 39,103,283,281,4
+XML_images/tesourareta20.jpg 176,88,446,178,4
+XML_images/tesourareta648.jpg 377,151,590,370,4 495,183,580,398,1
+XML_images/tesouracurva259.jpg 71,109,105,353,2
+XML_images/tesouracurva517.jpg 47,77,71,323,2 36,100,134,373,4
+XML_images/tesourareta112.jpg 176,176,402,280,2 256,68,400,330,4
+XML_images/tesouracurva271.jpg 229,158,459,187,1 150,92,408,239,4
+XML_images/tesourareta660.jpg 58,58,148,334,4 62,65,107,294,1
+XML_images/tesouracurva265.jpg 94,65,363,184,4
+XML_images/tesourareta106.jpg 141,122,454,315,2
+XML_images/tesouracurva503.jpg 146,44,423,313,2
+XML_images/pinca678.jpg 202,208,385,381,2 207,128,377,378,4
+XML_images/tesouracurva488.jpg 135,192,482,297,2
+XML_images/pinca650.jpg 71,135,341,244,4
+XML_images/pinca136.jpg 375,132,607,328,4 482,59,575,271,1
+XML_images/pinca122.jpg 121,171,479,222,2
+XML_images/pinca644.jpg 165,54,304,248,1 117,57,359,246,4
+XML_images/tesouracurva339.jpg 136,59,370,253,4
+XML_images/tesouracurva463.jpg 164,169,380,310,2
+XML_images/tesouracurva305.jpg 296,13,382,290,4
+XML_images/tesouracurva311.jpg 52,153,203,362,2
+XML_images/tesouracurva477.jpg 54,178,328,267,4
+XML_images/pinca308.jpg 433,206,585,382,1
+XML_images/bisturi564.jpg 355,168,594,194,2
+XML_images/bisturi202.jpg 213,130,432,211,1
+XML_images/bisturi216.jpg 301,139,492,283,1
+XML_images/bisturi570.jpg 139,104,315,325,3 393,145,488,418,4 527,91,553,318,1 35,148,61,391,2
+XML_images/pinca334.jpg 192,130,445,287,4
+XML_images/bisturi558.jpg 322,70,419,282,1
+XML_images/pinca452.jpg 407,174,557,404,3 316,49,488,210,1
+XML_images/pinca446.jpg 228,179,322,411,2
+XML_images/pinca320.jpg 242,55,324,275,1
+XML_images/tesourareta258.jpg 445,114,587,346,3
+XML_images/separado11.jpg 275,216,513,267,2 335,60,543,279,4
+XML_images/tesouracurva649.jpg 246,327,468,428,2
+XML_images/tesouracurva107.jpg 111,54,219,304,3 101,193,242,381,1
+XML_images/tesouracurva7.jpg 241,235,408,403,1 88,163,298,317,2 99,285,369,399,4 262,232,512,316,3
+XML_images/tesourareta502.jpg 139,398,379,429,2 463,91,547,360,4 159,226,389,253,1 10,172,100,423,3
+XML_images/tesouracurva661.jpg 225,238,452,277,1 195,176,441,349,4
+XML_images/tesourareta264.jpg 134,168,459,344,2
+XML_images/pinca491.jpg 59,93,88,338,2 41,160,276,360,4
+XML_images/tesourareta270.jpg 293,76,379,349,4
+XML_images/tesouracurva675.jpg 54,99,200,336,3 42,21,194,231,2
+XML_images/pinca485.jpg 280,241,502,335,2 313,134,435,405,4
+XML_images/separado39.jpg 438,106,521,355,3
+XML_images/tesourareta516.jpg 221,112,419,340,4
+XML_images/tesouracurva113.jpg 265,173,509,208,2
+XML_images/pinca493.jpg 307,132,537,280,3
+XML_images/tesourareta266.jpg 62,45,94,288,2 45,86,163,335,3
+XML_images/tesouracurva663.jpg 129,185,371,363,4
+XML_images/bisturi599.jpg 245,106,361,373,4
+XML_images/tesourareta500.jpg 205,108,381,325,3
+XML_images/tesouracurva5.jpg 113,103,199,356,3
+XML_images/tesouracurva105.jpg 291,20,317,249,1
+XML_images/separado8.jpg 167,190,328,366,1
+XML_images/tesouracurva111.jpg 58,317,299,366,2
+XML_images/tesourareta514.jpg 455,36,475,262,1 336,148,574,163,2
+XML_images/pinca487.jpg 112,228,342,275,1
+XML_images/tesouracurva677.jpg 357,222,571,430,4 336,301,570,425,3
+XML_images/tesourareta272.jpg 328,123,397,345,1
+XML_images/separado13.jpg 381,240,571,413,2 357,281,595,366,3
+XML_images/tesouracurva139.jpg 183,138,395,353,4 251,139,393,371,3
+XML_images/tesourareta528.jpg 70,261,322,431,4 41,292,285,412,3
+XML_images/pinca450.jpg 289,170,475,378,3
+XML_images/pinca336.jpg 320,166,470,348,1
+XML_images/pinca322.jpg 251,117,420,338,3
+XML_images/pinca444.jpg 248,10,271,241,1
+XML_images/bisturi228.jpg 228,115,314,350,2 221,175,375,406,3
+XML_images/tesourareta299.jpg 498,156,596,385,2
+XML_images/bisturi200.jpg 325,337,538,476,2
+XML_images/bisturi566.jpg 120,269,372,326,2
+XML_images/bisturi572.jpg 58,158,310,246,3
+XML_images/pinca478.jpg 347,127,447,341,1
+XML_images/tesouracurva688.jpg 250,319,526,406,4
+XML_images/bisturi214.jpg 345,210,474,466,4
+XML_images/tesouracurva307.jpg 196,201,380,348,1 158,108,344,346,4
+XML_images/tesouracurva461.jpg 171,114,315,379,4
+XML_images/tesouracurva475.jpg 164,119,362,314,3
+XML_images/pinca685.jpg 204,25,413,414,4
+XML_images/tesouracurva313.jpg 379,106,588,288,3
+XML_images/tesouracurva449.jpg 463,100,547,348,3
+XML_images/pinca134.jpg 237,200,298,426,1
+XML_images/pinca652.jpg 69,222,198,422,1 52,308,296,372,2
+XML_images/pinca646.jpg 328,160,500,324,1
+XML_images/pinca120.jpg 224,179,415,345,2
+XML_images/pinca108.jpg 201,218,445,242,2
+XML_images/pinca9.jpg 213,168,409,326,2
+XML_images/tesouracurva273.jpg 294,134,479,285,1
+XML_images/tesourareta110.jpg 248,147,387,383,3
+XML_images/tesouracurva515.jpg 194,152,415,324,3
+XML_images/bisturi189.jpg 172,159,402,312,3
+XML_images/tesouracurva501.jpg 38,232,289,322,3
+XML_images/tesourareta104.jpg 321,166,469,349,1
+XML_images/tesouracurva267.jpg 191,48,325,289,3
+XML_images/tesourareta662.jpg 51,60,139,311,3 70,110,96,341,1
+XML_images/tesouracurva529.jpg 265,194,499,228,1
+XML_images/tesourareta138.jpg 230,96,371,284,1 204,46,296,300,3
+XML_images/tesourareta36.jpg 382,142,422,372,1
+XML_images/tesourareta22.jpg 53,63,139,315,3 65,117,95,344,1
+XML_images/bisturi638.jpg 486,43,570,292,3 432,44,583,223,1
+XML_images/bisturi7.jpg 138,190,376,328,3 209,117,357,379,4
+XML_images/bisturi610.jpg 169,103,371,332,4
+XML_images/bisturi176.jpg 508,37,592,283,3 531,46,565,291,2
+XML_images/bisturi162.jpg 155,186,395,291,2 208,102,426,316,4
+XML_images/bisturi604.jpg 349,125,561,303,3
+XML_images/tesouracurva298.jpg 148,189,377,341,3
+XML_images/pinca96.jpg 118,134,139,381,2
+XML_images/tesouracurva717.jpg 320,34,544,84,1
+XML_images/tesourareta312.jpg 297,150,340,395,2
+XML_images/pinca281.jpg 258,144,335,379,2
+XML_images/tesourareta474.jpg 345,360,579,394,2 403,292,593,420,1
+XML_images/pinca295.jpg 226,105,463,293,4
+XML_images/tesourareta460.jpg 340,200,582,237,2
+XML_images/tesourareta306.jpg 542,163,604,399,2 440,238,612,400,1
+XML_images/tesouracurva703.jpg 239,189,417,362,2
+XML_images/pinca82.jpg 136,247,361,313,1
+XML_images/tesouracurva36.jpg 21,135,273,312,4
+XML_images/bisturi17.jpg 238,66,324,341,4
+XML_images/tesourareta448.jpg 172,140,388,324,3 132,127,392,281,4
+XML_images/tesouracurva22.jpg 56,122,306,209,3 91,99,332,284,4
+XML_images/bisturi348.jpg 256,144,374,387,3
+XML_images/pinca524.jpg 440,169,563,408,3
+XML_images/pinca55.jpg 178,159,390,271,1 212,129,414,356,4
+XML_images/pinca242.jpg 100,39,507,182,4
+XML_images/pinca256.jpg 286,129,372,378,3
+XML_images/pinca41.jpg 362,150,396,398,2 326,185,564,363,4
+XML_images/pinca530.jpg 263,86,347,337,3
+XML_images/pinca69.jpg 302,123,466,297,1
+XML_images/bisturi374.jpg 236,153,466,303,3
+XML_images/pinca518.jpg 326,257,554,282,1 302,187,536,325,3
+XML_images/bisturi412.jpg 241,174,501,310,4 258,244,478,379,2
+XML_images/bisturi406.jpg 58,18,303,144,3 126,6,201,248,2
+XML_images/bisturi360.jpg 211,253,430,284,1 48,189,304,353,4
+XML_images/bisturi407.jpg 164,111,226,338,1
+XML_images/bisturi361.jpg 471,47,593,259,2
+XML_images/pinca519.jpg 251,255,346,479,2
+XML_images/bisturi375.jpg 257,108,336,328,1
+XML_images/pinca68.jpg 360,174,578,250,1
+XML_images/bisturi413.jpg 400,212,579,395,2
+XML_images/pinca257.jpg 303,172,497,306,1
+XML_images/pinca531.jpg 144,31,394,120,3
+XML_images/pinca40.jpg 289,154,421,418,4
+XML_images/pinca54.jpg 392,263,576,427,2 487,140,581,409,4
+XML_images/pinca525.jpg 279,215,511,423,4
+XML_images/bisturi349.jpg 242,187,350,415,2
+XML_images/pinca243.jpg 294,187,490,322,1
+XML_images/tesouracurva23.jpg 132,118,384,205,3
+XML_images/tesouracurva37.jpg 547,50,593,286,2 510,97,610,347,3
+XML_images/tesourareta449.jpg 30,47,118,323,4 20,163,254,321,3
+XML_images/bisturi16.jpg 250,309,527,396,4
+XML_images/tesourareta461.jpg 160,117,277,381,4
+XML_images/pinca294.jpg 254,66,339,340,4 256,159,342,407,3
+XML_images/pinca83.jpg 273,27,479,140,1
+XML_images/tesourareta307.jpg 347,105,484,296,1
+XML_images/tesouracurva702.jpg 129,157,339,269,1
+XML_images/tesouracurva716.jpg 176,120,344,345,3
+XML_images/tesourareta313.jpg 205,117,400,323,3
+XML_images/pinca97.jpg 268,220,498,257,1
+XML_images/tesourareta475.jpg 176,215,378,408,3
+XML_images/pinca280.jpg 216,158,347,375,2 231,182,433,381,3
+XML_images/bisturi163.jpg 140,268,376,348,2 176,254,448,346,4
+XML_images/tesouracurva299.jpg 146,274,365,393,2
+XML_images/bisturi605.jpg 258,60,344,310,3 189,175,416,298,2
+XML_images/bisturi611.jpg 42,309,290,332,2 7,331,255,424,3 10,85,54,312,1 63,61,339,166,4
+XML_images/bisturi6.jpg 108,264,344,350,2 181,94,313,360,4
+XML_images/bisturi177.jpg 501,106,586,354,3
+XML_images/bisturi639.jpg 197,156,469,245,4
+XML_images/tesourareta23.jpg 342,75,416,316,2
+XML_images/tesourareta37.jpg 263,91,433,340,4
+XML_images/tesourareta139.jpg 135,184,341,293,1
+XML_images/tesouracurva528.jpg 55,116,307,205,3 90,78,208,308,2
+XML_images/tesouracurva500.jpg 80,70,412,384,4
+XML_images/tesourareta105.jpg 72,45,282,180,2
+XML_images/tesouracurva266.jpg 251,90,405,318,3 233,209,441,348,2
+XML_images/tesourareta663.jpg 365,265,590,299,1
+XML_images/tesouracurva272.jpg 358,207,544,384,2 378,148,548,391,4
+XML_images/bisturi188.jpg 353,149,575,312,3
+XML_images/tesourareta111.jpg 225,39,363,228,1
+XML_images/tesouracurva514.jpg 69,116,252,267,1 57,158,323,295,4 229,199,471,316,3 144,306,374,414,2
+XML_images/pinca109.jpg 212,40,361,301,4
+XML_images/pinca8.jpg 285,14,373,287,4
+XML_images/pinca647.jpg 397,175,513,394,2 357,140,495,381,3
+XML_images/pinca121.jpg 354,34,583,78,1 341,21,602,154,4
+XML_images/pinca135.jpg 220,120,348,347,2
+XML_images/pinca653.jpg 128,139,219,418,4 69,223,218,406,1
+XML_images/tesouracurva448.jpg 127,180,461,333,2
+XML_images/pinca684.jpg 54,125,305,213,3
+XML_images/tesouracurva474.jpg 184,114,426,391,2
+XML_images/tesouracurva312.jpg 72,218,216,431,2 158,69,308,302,3 242,72,430,219,1 276,233,540,350,4
+XML_images/tesouracurva306.jpg 215,139,375,335,2 251,156,514,286,4
+XML_images/tesouracurva460.jpg 231,190,478,227,2 223,44,337,318,4
+XML_images/bisturi573.jpg 290,64,331,310,2 221,138,457,277,3
+XML_images/bisturi215.jpg 306,220,480,403,2
+XML_images/tesouracurva689.jpg 12,81,42,316,1 85,178,331,224,2 315,171,399,423,3 5,330,275,441,4
+XML_images/pinca479.jpg 264,78,378,347,4
+XML_images/bisturi201.jpg 148,161,320,324,1
+XML_images/tesourareta298.jpg 500,98,583,345,3
+XML_images/bisturi567.jpg 241,83,376,348,4 167,249,411,270,2
+XML_images/pinca323.jpg 72,69,325,158,3
+XML_images/bisturi229.jpg 208,79,341,421,2
+XML_images/pinca445.jpg 285,112,372,387,4 187,159,431,191,2
+XML_images/pinca451.jpg 323,63,560,146,2 300,39,566,141,4
+XML_images/pinca337.jpg 7,164,259,252,3 288,303,514,332,1 83,416,327,456,2 469,112,555,384,4
+XML_images/tesourareta529.jpg 318,65,492,244,2 300,30,542,122,3
+XML_images/separado12.jpg 173,138,427,410,2
+XML_images/tesouracurva138.jpg 207,156,455,175,2 202,125,410,348,4
+XML_images/tesouracurva110.jpg 37,66,125,343,4
+XML_images/tesourareta515.jpg 402,31,581,272,4
+XML_images/tesouracurva676.jpg 386,86,472,356,4
+XML_images/tesourareta273.jpg 81,120,199,351,2
+XML_images/pinca486.jpg 188,113,276,386,4
+XML_images/tesourareta267.jpg 250,33,338,305,4
+XML_images/tesouracurva662.jpg 55,27,194,223,1 89,34,178,311,4
+XML_images/pinca492.jpg 351,72,523,318,4 342,231,518,386,1
+XML_images/separado9.jpg 149,160,416,278,4
+XML_images/tesouracurva4.jpg 291,31,475,270,4
+XML_images/tesourareta501.jpg 50,145,231,332,2
+XML_images/tesouracurva104.jpg 274,118,305,361,2
+XML_images/bisturi598.jpg 71,185,290,390,4
+XML_images/separado75.jpg 265,211,492,271,1
+XML_images/tesouracurva639.jpg 44,106,132,358,3
+XML_images/separado61.jpg 348,25,592,72,2 478,26,594,270,3
+XML_images/tesourareta228.jpg 279,206,497,421,4
+XML_images/separado49.jpg 160,204,287,421,2
+XML_images/tesourareta200.jpg 368,126,596,220,2
+XML_images/tesouracurva605.jpg 284,204,500,302,1
+XML_images/bisturi299.jpg 194,225,406,372,2
+XML_images/pinca393.jpg 345,50,397,279,1
+XML_images/tesourareta566.jpg 459,164,550,390,2
+XML_images/tesouracurva163.jpg 164,109,225,337,1
+XML_images/pinca387.jpg 341,201,428,465,4
+XML_images/tesouracurva177.jpg 74,33,294,206,3
+XML_images/tesourareta572.jpg 293,196,507,288,1
+XML_images/tesouracurva611.jpg 260,250,526,399,4
+XML_images/tesourareta214.jpg 485,143,585,416,4 517,88,579,325,2
+XML_images/bisturi266.jpg 75,17,309,402,4
+XML_images/bisturi500.jpg 51,107,95,348,2
+XML_images/tesourareta599.jpg 218,91,440,300,4
+XML_images/pinca378.jpg 228,19,330,229,1
+XML_images/bisturi514.jpg 226,139,465,270,3 218,218,459,269,2
+XML_images/tesouracurva188.jpg 215,127,355,317,1
+XML_images/bisturi272.jpg 395,221,601,330,1
+XML_images/pinca436.jpg 192,55,403,200,2 241,40,404,293,4
+XML_images/pinca350.jpg 409,113,543,348,3
+XML_images/pinca344.jpg 287,109,476,288,2
+XML_images/bisturi528.jpg 383,20,606,180,3 553,31,610,274,2
+XML_images/pinca422.jpg 282,84,524,118,2 520,179,548,402,1 324,114,447,356,3 247,161,374,427,4
+XML_images/tesouracurva349.jpg 259,153,357,386,2
+XML_images/tesouracurva361.jpg 143,179,301,356,1
+XML_images/pinca191.jpg 231,105,408,350,4
+XML_images/tesouracurva407.jpg 153,154,333,392,4
+XML_images/tesouracurva413.jpg 336,93,578,126,2
+XML_images/tesouracurva375.jpg 132,264,366,289,1
+XML_images/pinca185.jpg 302,0,422,179,1
+XML_images/bisturi702.jpg 134,199,386,288,3
+XML_images/pinca608.jpg 302,147,388,396,3
+XML_images/bisturi716.jpg 261,147,439,301,1
+XML_images/pinca152.jpg 21,121,119,394,4 34,46,274,183,3
+XML_images/pinca634.jpg 114,94,338,259,3
+XML_images/pinca620.jpg 351,121,582,214,2 344,59,500,309,4
+XML_images/pinca146.jpg 219,124,306,379,3 185,176,347,372,2
+XML_images/tesouracurva229.jpg 381,164,541,333,1 258,240,499,362,3
+XML_images/tesourareta638.jpg 232,99,423,305,3
+XML_images/bisturi689.jpg 504,33,593,279,3 389,87,607,212,2
+XML_images/tesourareta610.jpg 180,158,354,374,3
+XML_images/tesouracurva215.jpg 248,141,334,390,3
+XML_images/tesourareta93.jpg 106,90,502,289,4
+XML_images/tesourareta176.jpg 116,99,492,345,4
+XML_images/tesouracurva573.jpg 166,147,384,324,3 199,79,288,355,4
+XML_images/tesouracurva567.jpg 273,169,494,257,1
+XML_images/tesourareta162.jpg 200,177,436,273,2 242,172,500,310,4
+XML_images/tesourareta87.jpg 175,101,420,283,4 259,24,357,242,1
+XML_images/tesouracurva201.jpg 478,71,564,319,3
+XML_images/tesourareta604.jpg 207,222,414,339,1 144,189,417,276,4
+XML_images/bisturi676.jpg 62,184,193,397,2
+XML_images/tesourareta189.jpg 494,17,598,222,1
+XML_images/bisturi110.jpg 254,148,379,364,2
+XML_images/tesouracurva598.jpg 237,110,398,336,3
+XML_images/bisturi104.jpg 259,163,499,194,2 209,97,423,317,4
+XML_images/tesourareta78.jpg 105,78,193,354,4 76,111,165,362,3
+XML_images/bisturi662.jpg 46,62,226,311,4
+XML_images/tesourareta50.jpg 207,194,429,302,2
+XML_images/bisturi138.jpg 402,79,572,241,1 473,32,549,267,2
+XML_images/tesourareta44.jpg 548,36,578,281,2 549,144,579,369,1
+XML_images/tesouracurva50.jpg 218,195,419,352,2
+XML_images/tesourareta348.jpg 179,59,323,250,1 203,90,362,294,2
+XML_images/bisturi71.jpg 45,109,169,373,4
+XML_images/bisturi65.jpg 336,196,362,420,1
+XML_images/tesouracurva44.jpg 175,235,403,277,1
+XML_images/tesouracurva759.jpg 454,89,550,297,1
+XML_images/pinca581.jpg 355,156,541,397,4
+XML_images/tesouracurva771.jpg 95,133,469,264,3
+XML_images/tesourareta374.jpg 492,59,578,307,3 296,51,567,138,4
+XML_images/tesourareta412.jpg 188,175,411,286,2 216,144,400,291,1
+XML_images/tesourareta406.jpg 213,164,452,346,4
+XML_images/bisturi59.jpg 233,60,386,433,3
+XML_images/tesouracurva78.jpg 231,201,479,296,3
+XML_images/pinca595.jpg 154,94,402,259,4
+XML_images/tesourareta360.jpg 242,90,346,364,4
+XML_images/tesouracurva765.jpg 269,223,503,257,1
+XML_images/tesouracurva93.jpg 245,58,460,148,1 249,58,480,164,2
+XML_images/bisturi312.jpg 487,40,572,311,4
+XML_images/bisturi474.jpg 304,164,468,339,1
+XML_images/pinca218.jpg 303,138,515,245,1
+XML_images/bisturi460.jpg 309,184,394,432,3
+XML_images/tesouracurva87.jpg 282,117,420,309,1
+XML_images/bisturi306.jpg 283,173,422,410,3
+XML_images/pinca33.jpg 58,180,309,268,3
+XML_images/pinca542.jpg 305,119,463,295,1
+XML_images/bisturi448.jpg 48,289,300,373,3 130,224,292,393,1
+XML_images/pinca224.jpg 371,144,431,371,1
+XML_images/pinca230.jpg 237,95,448,315,4 203,148,407,270,1
+XML_images/pinca556.jpg 301,129,387,378,3
+XML_images/pinca27.jpg 184,208,433,297,3
+XML_images/pinca231.jpg 288,191,467,342,1 428,135,496,372,2
+XML_images/pinca26.jpg 275,167,491,272,1
+XML_images/pinca557.jpg 144,110,238,326,1 139,123,277,360,3
+XML_images/pinca543.jpg 292,101,327,344,2 221,166,348,362,1
+XML_images/pinca32.jpg 154,128,392,206,2
+XML_images/pinca225.jpg 339,60,563,128,1 463,59,573,321,4
+XML_images/bisturi449.jpg 398,127,439,357,1
+XML_images/bisturi461.jpg 135,103,247,335,2
+XML_images/bisturi307.jpg 65,96,204,309,2
+XML_images/tesouracurva86.jpg 287,278,529,390,3 347,259,521,416,1
+XML_images/bisturi313.jpg 226,139,422,304,2
+XML_images/tesouracurva92.jpg 497,110,585,356,3
+XML_images/pinca219.jpg 184,229,417,374,3
+XML_images/bisturi475.jpg 179,313,419,379,2 253,80,337,352,4
+XML_images/bisturi58.jpg 332,108,427,323,1
+XML_images/tesourareta407.jpg 299,171,494,405,4
+XML_images/tesourareta361.jpg 270,176,421,383,1
+XML_images/tesouracurva764.jpg 58,246,300,292,2 68,169,134,394,1
+XML_images/pinca594.jpg 406,159,492,408,3 441,195,489,426,1
+XML_images/tesouracurva79.jpg 282,223,516,416,4
+XML_images/tesouracurva770.jpg 267,118,365,394,4 278,98,350,341,2
+XML_images/tesourareta375.jpg 318,71,566,162,3
+XML_images/pinca580.jpg 88,98,326,240,3 216,102,293,328,1
+XML_images/tesourareta413.jpg 191,224,431,277,2
+XML_images/bisturi64.jpg 157,103,428,329,1
+XML_images/tesouracurva758.jpg 196,185,419,249,1
+XML_images/tesouracurva45.jpg 168,185,376,294,1 250,124,334,362,2
+XML_images/tesourareta349.jpg 388,112,573,285,2
+XML_images/tesouracurva51.jpg 499,32,579,266,2
+XML_images/bisturi70.jpg 278,160,399,376,2
+XML_images/bisturi139.jpg 221,97,361,310,2 122,192,392,294,4
+XML_images/tesourareta45.jpg 167,239,375,373,2
+XML_images/tesourareta51.jpg 548,144,582,382,2 426,178,614,415,4
+XML_images/bisturi105.jpg 19,100,89,328,1 25,138,121,411,4
+XML_images/tesouracurva599.jpg 344,179,428,452,4
+XML_images/bisturi663.jpg 131,156,391,294,4
+XML_images/tesourareta79.jpg 239,33,328,309,4 253,111,458,306,3
+XML_images/bisturi677.jpg 276,200,308,441,2
+XML_images/bisturi111.jpg 171,161,415,345,4 247,102,311,342,2
+XML_images/tesourareta188.jpg 504,127,588,374,3
+XML_images/tesouracurva566.jpg 45,80,205,256,1 56,102,300,218,3
+XML_images/tesourareta163.jpg 380,171,500,374,1 312,71,382,313,2 151,238,371,409,3 10,133,196,369,4
+XML_images/tesouracurva200.jpg 317,160,477,338,1
+XML_images/tesourareta605.jpg 162,175,352,352,2
+XML_images/tesourareta86.jpg 394,58,484,328,4
+XML_images/tesourareta92.jpg 82,206,325,334,3 272,90,302,335,2
+XML_images/tesourareta611.jpg 200,123,396,324,3 177,169,446,290,4
+XML_images/tesouracurva214.jpg 325,114,412,389,4
+XML_images/bisturi688.jpg 380,36,558,192,1 301,46,553,214,4
+XML_images/tesourareta177.jpg 167,122,325,346,3
+XML_images/tesouracurva572.jpg 494,94,575,362,4 420,126,560,314,1
+XML_images/tesourareta639.jpg 213,144,392,332,2
+XML_images/tesouracurva228.jpg 207,144,397,309,2
+XML_images/pinca621.jpg 513,78,605,347,4 551,76,583,319,2
+XML_images/pinca147.jpg 134,179,345,395,4
+XML_images/pinca153.jpg 477,108,560,380,4 422,91,582,280,2
+XML_images/pinca635.jpg 6,162,268,303,4
+XML_images/bisturi717.jpg 88,172,358,270,4
+XML_images/bisturi703.jpg 142,237,416,322,4
+XML_images/pinca609.jpg 333,105,553,306,4
+XML_images/tesouracurva412.jpg 425,92,597,279,2 426,55,566,314,4
+XML_images/pinca184.jpg 15,196,288,285,4
+XML_images/tesouracurva374.jpg 175,142,399,351,4
+XML_images/pinca190.jpg 108,143,354,320,4
+XML_images/tesouracurva360.jpg 299,122,563,237,4
+XML_images/tesouracurva406.jpg 157,114,242,387,4
+XML_images/tesouracurva348.jpg 141,266,377,321,2
+XML_images/bisturi529.jpg 363,147,385,377,1 195,149,395,301,2
+XML_images/pinca345.jpg 384,109,409,343,1
+XML_images/pinca423.jpg 53,99,84,344,2 59,101,117,324,1
+XML_images/pinca437.jpg 265,201,493,271,1
+XML_images/pinca351.jpg 283,51,551,137,4 285,49,513,94,1
+XML_images/tesouracurva189.jpg 190,174,410,299,2
+XML_images/bisturi515.jpg 345,67,513,313,4
+XML_images/pinca379.jpg 14,166,230,306,2
+XML_images/bisturi273.jpg 280,72,442,276,2 300,238,429,437,1 115,164,302,377,3 35,357,302,444,4
+XML_images/bisturi267.jpg 279,112,325,352,2
+XML_images/tesourareta598.jpg 181,171,292,392,2
+XML_images/bisturi501.jpg 364,157,472,367,1
+XML_images/tesouracurva176.jpg 354,72,484,341,4 297,65,515,201,2
+XML_images/tesourareta573.jpg 235,174,454,256,1 206,168,449,352,4
+XML_images/pinca386.jpg 413,96,586,306,3
+XML_images/tesouracurva610.jpg 90,141,315,344,4
+XML_images/tesourareta215.jpg 256,60,512,202,4 270,152,422,383,3
+XML_images/bisturi298.jpg 296,264,556,405,4 432,137,502,356,1
+XML_images/tesourareta201.jpg 187,237,459,324,4 205,117,389,329,3
+XML_images/tesouracurva604.jpg 288,123,460,370,4
+XML_images/separado48.jpg 54,52,209,283,3 49,127,263,236,1
+XML_images/tesourareta567.jpg 235,142,478,274,3 319,103,377,346,2
+XML_images/tesouracurva162.jpg 123,77,210,330,3
+XML_images/pinca392.jpg 30,157,210,403,4 38,175,236,301,1
+XML_images/tesourareta229.jpg 179,219,396,339,2
+XML_images/separado60.jpg 183,203,345,393,2
+XML_images/tesouracurva638.jpg 173,208,409,282,2 182,187,455,277,4
+XML_images/separado74.jpg 235,211,333,436,2
+XML_images/separado62.jpg 218,175,350,374,1
+XML_images/tesouracurva148.jpg 416,81,532,303,2
+XML_images/tesourareta559.jpg 178,209,398,282,1
+XML_images/separado76.jpg 197,206,415,285,1
+XML_images/tesourareta217.jpg 406,158,494,408,3 328,164,545,259,1
+XML_images/tesouracurva612.jpg 579,72,601,314,2
+XML_images/pinca384.jpg 347,105,410,330,1
+XML_images/tesourareta571.jpg 353,170,475,435,4
+XML_images/tesouracurva174.jpg 266,256,529,394,4
+XML_images/pinca390.jpg 206,160,400,319,2
+XML_images/tesouracurva160.jpg 266,46,300,391,1
+XML_images/tesourareta565.jpg 156,263,378,337,1 247,127,339,361,2
+XML_images/tesouracurva606.jpg 77,36,219,227,1 67,139,102,382,2
+XML_images/tesourareta203.jpg 221,210,442,337,2
+XML_images/bisturi271.jpg 329,106,565,237,3
+XML_images/bisturi517.jpg 151,114,375,322,4 275,49,377,287,2
+XML_images/bisturi503.jpg 89,99,327,240,3 216,102,292,329,1
+XML_images/bisturi265.jpg 210,175,417,325,2
+XML_images/pinca409.jpg 72,73,96,318,2
+XML_images/pinca421.jpg 218,211,467,299,3 269,213,471,335,1
+XML_images/tesouracurva809.jpg 157,96,206,338,2
+XML_images/pinca347.jpg 502,59,586,298,3
+XML_images/pinca353.jpg 217,79,405,318,4 29,273,265,365,2
+XML_images/bisturi259.jpg 212,135,298,387,3 156,185,296,374,1
+XML_images/pinca435.jpg 306,106,331,348,2
+XML_images/separado89.jpg 209,129,295,380,3
+XML_images/tesourareta8.jpg 282,175,394,421,3
+XML_images/tesouracurva438.jpg 298,159,527,204,1
+XML_images/tesouracurva376.jpg 172,145,436,280,4
+XML_images/pinca186.jpg 101,71,418,345,3
+XML_images/tesouracurva410.jpg 230,161,480,248,3
+XML_images/tesouracurva404.jpg 282,194,395,438,3
+XML_images/tesouracurva362.jpg 332,54,552,263,4
+XML_images/pinca192.jpg 262,135,350,348,1 254,101,286,344,2
+XML_images/bisturi715.jpg 305,50,553,137,3 471,48,569,316,4
+XML_images/tesouracurva389.jpg 42,133,227,372,4
+XML_images/pinca179.jpg 204,63,362,320,4
+XML_images/bisturi701.jpg 279,150,464,301,1
+XML_images/bisturi729.jpg 253,168,385,383,2
+XML_images/pinca145.jpg 421,104,567,284,1
+XML_images/pinca623.jpg 254,74,437,255,2 260,33,343,254,1
+XML_images/pinca637.jpg 191,52,319,427,3
+XML_images/pinca151.jpg 245,121,426,362,4
+XML_images/tesouracurva558.jpg 94,105,456,291,3
+XML_images/tesourareta149.jpg 197,174,472,264,4
+XML_images/tesourareta84.jpg 139,199,367,245,1 180,137,348,336,2
+XML_images/tesourareta607.jpg 215,174,436,346,3
+XML_images/tesouracurva202.jpg 351,96,433,320,1
+XML_images/tesourareta161.jpg 283,203,492,311,1
+XML_images/tesouracurva564.jpg 245,183,370,430,3
+XML_images/tesouracurva570.jpg 475,172,573,416,3 402,176,574,419,4
+XML_images/tesourareta175.jpg 36,160,305,266,4
+XML_images/tesouracurva216.jpg 220,201,438,378,3
+XML_images/tesourareta613.jpg 30,90,243,309,4
+XML_images/tesourareta90.jpg 28,220,218,427,3 141,245,383,426,4
+XML_images/bisturi661.jpg 335,140,431,357,1
+XML_images/bisturi107.jpg 305,103,345,329,1 293,171,373,409,2
+XML_images/bisturi113.jpg 316,118,486,285,1
+XML_images/bisturi675.jpg 51,54,85,296,2 57,103,192,295,1
+XML_images/tesourareta47.jpg 306,104,390,324,1
+XML_images/tesourareta53.jpg 426,54,560,316,4
+XML_images/bisturi649.jpg 277,43,515,115,2 262,57,489,79,1
+XML_images/tesouracurva47.jpg 286,149,500,247,1
+XML_images/bisturi66.jpg 83,166,251,389,3 65,327,299,353,1
+XML_images/tesourareta439.jpg 57,154,293,249,2
+XML_images/bisturi72.jpg 263,215,528,356,4
+XML_images/tesouracurva53.jpg 198,168,420,298,2
+XML_images/pinca596.jpg 343,112,412,331,1
+XML_images/tesouracurva766.jpg 299,195,488,434,4
+XML_images/tesourareta363.jpg 160,154,339,398,4 151,172,221,409,2
+XML_images/tesourareta405.jpg 375,127,461,377,3
+XML_images/bisturi488.jpg 81,170,322,263,2
+XML_images/tesourareta411.jpg 217,133,409,309,2 177,171,426,278,3
+XML_images/pinca582.jpg 208,115,384,362,4 213,103,419,259,2
+XML_images/tesourareta377.jpg 235,258,485,345,3
+XML_images/tesouracurva772.jpg 204,183,441,260,2
+XML_images/pinca18.jpg 270,121,296,351,1
+XML_images/tesouracurva84.jpg 480,113,612,306,1 566,44,602,286,2
+XML_images/pinca569.jpg 328,159,393,396,2
+XML_images/tesouracurva799.jpg 499,187,591,408,2
+XML_images/bisturi305.jpg 410,133,599,265,1
+XML_images/bisturi463.jpg 264,256,462,425,2 199,333,448,420,3
+XML_images/bisturi477.jpg 279,180,499,390,4
+XML_images/tesouracurva90.jpg 371,179,606,256,2
+XML_images/tesourareta388.jpg 298,92,366,332,2
+XML_images/bisturi311.jpg 266,78,292,314,1 214,142,382,330,2
+XML_images/pinca555.jpg 129,62,221,336,4
+XML_images/bisturi339.jpg 472,171,574,414,3 391,161,563,426,4
+XML_images/pinca24.jpg 216,177,402,323,1
+XML_images/bisturi99.jpg 195,124,439,304,4
+XML_images/pinca233.jpg 279,78,422,314,3
+XML_images/pinca227.jpg 468,84,512,310,1
+XML_images/pinca30.jpg 239,206,341,415,1
+XML_images/pinca541.jpg 61,83,96,329,2
+XML_images/pinca226.jpg 143,166,363,339,3
+XML_images/pinca540.jpg 461,141,547,388,3 332,205,562,400,4
+XML_images/pinca31.jpg 24,246,229,367,1 25,178,186,435,4
+XML_images/pinca25.jpg 377,93,539,343,4
+XML_images/bisturi338.jpg 221,163,344,380,2
+XML_images/pinca554.jpg 355,185,598,259,2 355,79,485,345,4
+XML_images/pinca232.jpg 415,94,515,342,3 264,260,506,294,2
+XML_images/bisturi98.jpg 49,145,85,394,2 43,81,165,346,4
+XML_images/bisturi476.jpg 490,77,574,325,3
+XML_images/bisturi310.jpg 49,150,298,240,3
+XML_images/tesourareta389.jpg 141,279,366,338,1 164,104,275,375,4
+XML_images/tesouracurva91.jpg 523,123,551,350,1 106,164,318,351,3 289,161,402,432,4 22,139,48,382,2
+XML_images/bisturi304.jpg 264,149,422,377,3 195,197,465,282,4
+XML_images/tesouracurva798.jpg 182,129,440,279,4 224,158,401,350,2
+XML_images/pinca568.jpg 128,190,398,278,4
+XML_images/tesouracurva85.jpg 298,202,468,450,4
+XML_images/pinca19.jpg 276,115,409,379,4
+XML_images/bisturi462.jpg 174,216,302,418,1 213,151,299,425,4
+XML_images/tesourareta410.jpg 295,102,332,344,2
+XML_images/bisturi489.jpg 150,228,334,413,2
+XML_images/tesourareta376.jpg 348,183,592,232,2
+XML_images/tesouracurva773.jpg 98,187,327,238,1 127,115,294,339,3
+XML_images/pinca583.jpg 261,237,493,285,1
+XML_images/tesouracurva767.jpg 569,83,596,313,1
+XML_images/tesourareta362.jpg 314,286,550,345,2
+XML_images/pinca597.jpg 24,145,50,376,1 262,150,435,346,2 109,108,257,370,4 292,359,538,451,3
+XML_images/tesourareta404.jpg 185,211,429,259,2
+XML_images/bisturi73.jpg 229,76,359,344,4 141,216,375,317,2
+XML_images/tesouracurva52.jpg 319,142,565,232,3
+XML_images/tesouracurva46.jpg 352,204,546,370,2 286,192,468,341,1
+XML_images/tesourareta438.jpg 387,106,517,299,1
+XML_images/bisturi67.jpg 330,120,415,341,1
+XML_images/bisturi648.jpg 197,188,375,362,2
+XML_images/tesourareta52.jpg 518,73,606,338,4 564,72,600,314,2
+XML_images/tesourareta46.jpg 423,75,510,344,4
+XML_images/bisturi112.jpg 72,94,232,355,4
+XML_images/bisturi674.jpg 145,115,234,391,4
+XML_images/bisturi660.jpg 221,177,299,410,2
+XML_images/bisturi106.jpg 529,179,593,416,2 334,241,610,332,4
+XML_images/tesouracurva571.jpg 450,46,538,316,4 416,142,557,355,2
+XML_images/tesourareta174.jpg 254,25,407,282,4
+XML_images/tesourareta91.jpg 63,116,303,309,4
+XML_images/tesouracurva217.jpg 486,71,572,338,4
+XML_images/tesourareta612.jpg 150,112,314,361,4
+XML_images/tesourareta606.jpg 484,137,565,368,2 371,198,598,396,4
+XML_images/tesouracurva203.jpg 147,186,425,272,4
+XML_images/tesourareta85.jpg 383,84,559,323,4
+XML_images/tesourareta160.jpg 150,206,424,294,4
+XML_images/tesouracurva565.jpg 265,42,501,224,4
+XML_images/tesourareta148.jpg 283,98,311,342,2 138,195,356,403,4
+XML_images/tesouracurva559.jpg 241,172,269,417,2
+XML_images/pinca636.jpg 42,145,279,282,3
+XML_images/pinca150.jpg 130,168,390,312,4
+XML_images/pinca144.jpg 190,196,422,223,1 330,153,494,353,2 292,359,538,452,3 108,108,258,371,4
+XML_images/bisturi728.jpg 478,48,600,248,1
+XML_images/pinca622.jpg 77,167,297,248,1 153,113,349,346,4
+XML_images/bisturi700.jpg 88,94,294,214,1 211,152,300,426,4
+XML_images/pinca178.jpg 295,260,442,456,2 360,94,525,340,4 101,96,313,209,1 61,239,275,420,3
+XML_images/tesouracurva388.jpg 237,168,507,254,4 264,149,422,377,3
+XML_images/bisturi714.jpg 275,219,479,442,4
+XML_images/tesouracurva405.jpg 25,109,187,287,1 43,71,179,338,4
+XML_images/pinca193.jpg 253,162,502,250,3 322,84,544,287,4
+XML_images/tesouracurva363.jpg 276,210,523,296,3 258,121,348,360,2
+XML_images/pinca187.jpg 210,246,478,359,4 215,194,393,384,2
+XML_images/tesouracurva377.jpg 451,112,578,349,3
+XML_images/tesouracurva411.jpg 118,177,368,267,3
+XML_images/tesouracurva439.jpg 198,191,410,344,2 208,137,324,405,4
+XML_images/tesourareta9.jpg 269,116,475,341,4
+XML_images/pinca352.jpg 219,187,333,407,2 242,157,334,430,4
+XML_images/separado88.jpg 346,217,549,406,3
+XML_images/pinca434.jpg 80,171,326,230,2
+XML_images/bisturi258.jpg 280,76,367,324,3 274,131,383,362,2
+XML_images/tesouracurva808.jpg 245,276,455,456,3
+XML_images/pinca420.jpg 278,203,517,390,4
+XML_images/pinca346.jpg 329,175,456,442,4
+XML_images/bisturi502.jpg 242,123,358,352,2
+XML_images/pinca408.jpg 176,181,382,341,2 125,183,394,309,4
+XML_images/bisturi264.jpg 267,240,541,329,4
+XML_images/bisturi270.jpg 35,97,270,175,2 207,115,383,364,4
+XML_images/bisturi516.jpg 204,198,442,284,2
+XML_images/tesouracurva161.jpg 259,234,495,268,1
+XML_images/tesourareta564.jpg 360,111,412,343,1
+XML_images/pinca391.jpg 85,168,311,237,1 185,144,311,374,2
+XML_images/tesouracurva607.jpg 137,137,279,374,3 110,141,306,276,1
+XML_images/tesourareta202.jpg 426,145,603,324,2
+XML_images/tesourareta216.jpg 438,81,466,310,1
+XML_images/tesouracurva613.jpg 323,131,559,261,3
+XML_images/tesourareta570.jpg 282,174,516,200,1
+XML_images/tesouracurva175.jpg 77,188,325,217,2
+XML_images/pinca385.jpg 331,144,434,389,3 291,91,465,250,1
+XML_images/tesourareta558.jpg 165,256,411,280,2
+XML_images/separado77.jpg 188,162,424,279,2
+XML_images/separado63.jpg 216,129,404,309,2
+XML_images/tesouracurva149.jpg 259,134,458,301,2
+XML_images/tesouracurva171.jpg 28,52,112,305,3 26,147,136,419,4
+XML_images/tesourareta574.jpg 483,64,566,312,3 344,232,580,418,4
+XML_images/pinca381.jpg 33,162,273,341,4
+XML_images/tesouracurva617.jpg 249,104,459,290,3
+XML_images/tesourareta212.jpg 242,60,330,334,4
+XML_images/tesourareta206.jpg 22,14,221,249,4
+XML_images/tesouracurva603.jpg 329,109,450,310,1
+XML_images/tesourareta560.jpg 155,50,385,395,3
+XML_images/tesouracurva165.jpg 215,137,468,298,4
+XML_images/pinca395.jpg 24,223,225,421,3 54,156,161,423,4
+XML_images/tesourareta548.jpg 294,73,386,307,2
+XML_images/separado67.jpg 192,228,420,258,1
+XML_images/separado73.jpg 184,182,457,271,4
+XML_images/tesouracurva159.jpg 181,171,346,341,1
+XML_images/pinca342.jpg 57,58,299,150,2 63,41,313,135,3
+XML_images/pinca424.jpg 323,157,452,376,2
+XML_images/bisturi248.jpg 440,203,574,410,2
+XML_images/separado98.jpg 470,122,562,331,1
+XML_images/pinca430.jpg 214,160,369,337,1
+XML_images/pinca356.jpg 472,85,504,310,1
+XML_images/bisturi512.jpg 255,109,391,326,2
+XML_images/pinca418.jpg 364,102,391,335,1
+XML_images/bisturi274.jpg 380,183,609,276,2
+XML_images/bisturi260.jpg 538,157,604,398,2 468,193,589,391,1
+XML_images/bisturi506.jpg 275,146,299,379,1 172,255,416,300,2
+XML_images/tesouracurva415.jpg 236,198,338,410,1 97,333,337,386,2
+XML_images/pinca183.jpg 190,244,416,406,3
+XML_images/tesouracurva373.jpg 301,117,522,198,1
+XML_images/pinca197.jpg 315,142,533,270,2 226,144,425,269,1
+XML_images/tesouracurva367.jpg 370,94,408,325,1
+XML_images/tesouracurva401.jpg 266,160,484,252,1
+XML_images/tesouracurva429.jpg 241,215,449,402,3
+XML_images/pinca626.jpg 322,115,357,343,1
+XML_images/pinca140.jpg 275,174,363,424,3
+XML_images/pinca154.jpg 331,109,461,307,1
+XML_images/bisturi738.jpg 318,120,464,309,1
+XML_images/pinca632.jpg 65,94,89,325,1 73,100,107,343,2
+XML_images/bisturi710.jpg 220,202,437,379,3
+XML_images/pinca168.jpg 215,224,465,311,3
+XML_images/bisturi704.jpg 200,130,348,344,2 204,133,336,325,1
+XML_images/tesouracurva398.jpg 268,223,500,248,1
+XML_images/tesouracurva561.jpg 194,106,366,269,1 153,182,380,284,2
+XML_images/tesourareta164.jpg 204,206,429,309,2
+XML_images/tesourareta81.jpg 559,35,591,275,2
+XML_images/tesouracurva207.jpg 283,134,482,296,2
+XML_images/tesourareta602.jpg 450,185,480,415,1 351,370,587,415,2
+XML_images/tesourareta616.jpg 188,163,329,352,1
+XML_images/tesouracurva213.jpg 183,178,375,347,2 215,185,448,336,3
+XML_images/tesourareta95.jpg 112,115,137,343,1
+XML_images/tesourareta170.jpg 303,82,335,331,2
+XML_images/tesouracurva575.jpg 260,272,489,296,1
+XML_images/tesourareta158.jpg 242,139,352,383,3 264,17,373,289,4
+XML_images/tesouracurva549.jpg 130,79,290,336,4
+XML_images/bisturi658.jpg 145,150,405,291,4
+XML_images/tesourareta42.jpg 212,88,383,311,3
+XML_images/tesourareta56.jpg 184,168,446,314,4
+XML_images/bisturi102.jpg 111,150,483,298,3
+XML_images/bisturi664.jpg 202,194,470,282,4
+XML_images/bisturi670.jpg 48,331,294,423,3 31,148,118,421,4
+XML_images/bisturi116.jpg 38,90,232,327,4
+XML_images/bisturi499.jpg 366,195,599,268,2
+XML_images/tesourareta400.jpg 75,256,304,292,1 81,182,265,367,2
+XML_images/tesourareta366.jpg 382,76,545,271,2
+XML_images/tesouracurva763.jpg 180,183,284,413,2
+XML_images/pinca593.jpg 368,130,574,280,2
+XML_images/tesouracurva777.jpg 309,171,455,357,1
+XML_images/tesourareta372.jpg 331,162,529,283,1 464,124,550,354,2
+XML_images/pinca587.jpg 316,129,404,399,4
+XML_images/tesourareta414.jpg 333,188,473,382,1
+XML_images/bisturi63.jpg 172,48,264,298,3
+XML_images/tesouracurva42.jpg 333,172,421,445,4
+XML_images/tesouracurva56.jpg 257,125,360,335,2
+XML_images/tesourareta428.jpg 271,179,504,376,4
+XML_images/bisturi77.jpg 66,148,242,346,2 78,170,303,246,1
+XML_images/pinca236.jpg 412,172,564,421,4 538,85,565,314,1
+XML_images/pinca550.jpg 271,112,361,340,2
+XML_images/pinca21.jpg 183,237,421,284,2
+XML_images/pinca35.jpg 286,80,524,210,3 270,130,498,173,1
+XML_images/bisturi328.jpg 303,119,479,278,1
+XML_images/pinca544.jpg 489,47,573,315,4 483,140,576,375,2
+XML_images/pinca222.jpg 369,164,575,348,3
+XML_images/bisturi88.jpg 173,107,301,322,2
+XML_images/bisturi466.jpg 289,151,493,274,1
+XML_images/tesourareta399.jpg 246,102,345,334,2
+XML_images/bisturi300.jpg 250,140,354,348,1
+XML_images/tesouracurva81.jpg 356,165,570,252,1
+XML_images/tesouracurva788.jpg 273,120,521,206,3
+XML_images/bisturi314.jpg 316,114,529,261,2 335,60,567,207,3
+XML_images/tesouracurva95.jpg 30,175,239,287,1
+XML_images/pinca578.jpg 187,218,416,333,2 248,75,334,350,4
+XML_images/bisturi472.jpg 103,116,266,318,2
+XML_images/pinca579.jpg 322,79,565,243,4
+XML_images/tesouracurva94.jpg 216,84,424,306,4
+XML_images/bisturi315.jpg 257,62,343,337,4
+XML_images/tesouracurva789.jpg 317,143,582,266,4
+XML_images/bisturi473.jpg 222,86,407,325,4
+XML_images/bisturi467.jpg 293,163,557,273,4
+XML_images/tesouracurva80.jpg 46,169,200,371,2 95,159,305,383,4
+XML_images/bisturi301.jpg 173,127,380,352,4
+XML_images/tesourareta398.jpg 308,83,397,355,4
+XML_images/pinca545.jpg 155,313,394,357,2
+XML_images/bisturi329.jpg 195,142,358,342,2 228,87,407,334,4
+XML_images/pinca34.jpg 23,102,289,243,4
+XML_images/bisturi89.jpg 45,147,95,391,2 64,98,188,366,4
+XML_images/pinca223.jpg 222,56,416,367,2
+XML_images/pinca237.jpg 329,191,565,374,4
+XML_images/pinca20.jpg 511,48,593,285,2 342,69,611,182,4
+XML_images/pinca551.jpg 100,188,362,329,4
+XML_images/tesouracurva57.jpg 80,91,326,137,2 35,133,178,323,1 71,215,313,350,3 268,204,535,306,4
+XML_images/bisturi76.jpg 234,221,503,308,4 204,206,434,363,3
+XML_images/tesourareta429.jpg 254,145,486,338,4
+XML_images/bisturi62.jpg 227,138,368,403,4 253,139,369,385,3
+XML_images/tesouracurva43.jpg 330,164,578,251,3
+XML_images/pinca586.jpg 95,197,372,288,4 239,125,428,333,3
+XML_images/tesouracurva776.jpg 119,121,320,285,2 180,132,269,403,4
+XML_images/tesourareta373.jpg 95,167,270,330,1 141,202,401,343,4
+XML_images/tesourareta415.jpg 267,246,532,371,4
+XML_images/tesourareta401.jpg 399,40,577,280,4 351,217,585,243,1
+XML_images/bisturi498.jpg 223,170,354,411,3
+XML_images/pinca592.jpg 352,125,584,260,3
+XML_images/tesourareta367.jpg 137,252,389,341,3 113,79,391,168,4 290,200,518,223,1 163,409,403,440,2
+XML_images/tesouracurva762.jpg 202,105,424,277,3 321,88,371,332,2
+XML_images/bisturi671.jpg 247,122,467,296,3 100,148,366,279,4
+XML_images/bisturi117.jpg 188,88,303,354,4
+XML_images/bisturi103.jpg 225,119,252,351,1 155,125,337,368,4
+XML_images/bisturi665.jpg 24,246,230,365,1 25,178,185,436,4
+XML_images/tesourareta57.jpg 13,132,61,374,2 504,142,550,367,1 180,359,426,448,3 123,63,401,168,4
+XML_images/tesourareta43.jpg 198,203,421,372,3 226,138,380,394,4
+XML_images/bisturi659.jpg 236,175,498,305,4
+XML_images/tesouracurva548.jpg 492,90,574,361,4 352,87,574,171,1
+XML_images/tesourareta159.jpg 217,156,423,302,2 204,129,417,312,3
+XML_images/tesourareta94.jpg 155,292,395,343,2
+XML_images/tesourareta617.jpg 268,124,296,370,2 233,123,453,330,4
+XML_images/tesouracurva212.jpg 76,151,325,175,2 115,128,383,258,4
+XML_images/tesourareta171.jpg 382,151,573,325,2 328,224,593,367,4
+XML_images/tesouracurva574.jpg 339,20,487,277,4
+XML_images/tesouracurva560.jpg 214,107,300,360,3 224,265,413,445,2 350,183,556,410,4 70,103,206,300,1
+XML_images/tesourareta165.jpg 190,85,353,316,3
+XML_images/tesouracurva206.jpg 170,104,460,328,2
+XML_images/tesourareta603.jpg 120,133,382,286,4 273,202,519,298,3
+XML_images/tesourareta80.jpg 338,113,570,256,3
+XML_images/tesouracurva399.jpg 12,192,256,318,3
+XML_images/bisturi705.jpg 266,157,460,395,4
+XML_images/pinca169.jpg 317,116,468,297,1
+XML_images/bisturi711.jpg 286,175,436,433,4
+XML_images/bisturi739.jpg 504,98,584,333,2
+XML_images/pinca155.jpg 267,114,391,335,2
+XML_images/pinca633.jpg 324,84,356,329,2
+XML_images/pinca627.jpg 361,168,423,409,2
+XML_images/pinca141.jpg 79,167,301,252,1 126,138,262,361,2
+XML_images/tesouracurva428.jpg 361,131,455,349,1
+XML_images/tesouracurva366.jpg 245,289,513,377,4 305,110,337,354,2
+XML_images/pinca196.jpg 370,123,419,353,1
+XML_images/tesouracurva400.jpg 331,180,577,267,3
+XML_images/tesouracurva414.jpg 507,168,541,403,2 495,153,565,370,1
+XML_images/tesouracurva372.jpg 288,37,492,184,2 330,50,533,169,1
+XML_images/pinca182.jpg 382,139,585,298,2
+XML_images/bisturi261.jpg 295,308,521,334,1
+XML_images/bisturi507.jpg 192,156,376,328,2 264,94,292,323,1
+XML_images/bisturi513.jpg 500,184,578,401,1 423,184,542,406,2
+XML_images/bisturi275.jpg 242,78,345,316,2
+XML_images/pinca419.jpg 492,48,600,265,2
+XML_images/pinca431.jpg 197,134,375,313,2
+XML_images/pinca357.jpg 341,196,571,220,1
+XML_images/pinca343.jpg 189,220,433,247,2
+XML_images/separado99.jpg 175,84,405,244,3 150,52,387,142,2
+XML_images/bisturi249.jpg 162,202,369,313,1
+XML_images/pinca425.jpg 60,121,137,346,1
+XML_images/separado72.jpg 420,134,538,373,3
+XML_images/tesouracurva158.jpg 28,214,252,277,1
+XML_images/tesourareta549.jpg 205,169,383,322,1
+XML_images/separado66.jpg 249,78,335,348,4 185,256,382,424,2
+XML_images/tesourareta207.jpg 195,184,417,312,2
+XML_images/tesouracurva602.jpg 136,116,265,359,3 163,164,301,360,1
+XML_images/pinca394.jpg 70,163,132,407,2 20,147,126,418,4
+XML_images/tesourareta561.jpg 277,336,485,411,1 331,214,569,388,4
+XML_images/tesouracurva164.jpg 366,250,584,417,3
+XML_images/pinca380.jpg 64,174,302,257,2
+XML_images/tesouracurva170.jpg 282,173,504,247,1
+XML_images/tesourareta575.jpg 232,136,392,325,2
+XML_images/tesouracurva616.jpg 206,94,245,341,2
+XML_images/tesourareta213.jpg 248,154,466,328,3 225,221,463,323,2
+XML_images/tesouracurva166.jpg 77,37,307,62,1 75,57,319,82,2
+XML_images/tesourareta563.jpg 202,271,450,367,3
+XML_images/pinca396.jpg 244,155,416,375,3
+XML_images/tesouracurva600.jpg 334,107,443,317,1
+XML_images/tesourareta205.jpg 221,264,469,351,3
+XML_images/separado58.jpg 145,274,385,352,2 211,273,403,410,1
+XML_images/tesourareta211.jpg 314,84,400,303,1
+XML_images/tesouracurva614.jpg 134,144,398,283,4
+XML_images/bisturi288.jpg 222,139,367,324,1 276,126,354,363,2
+XML_images/tesourareta577.jpg 279,168,491,275,1
+XML_images/tesouracurva172.jpg 264,106,321,330,1 191,34,394,202,2
+XML_images/pinca382.jpg 486,70,572,340,4
+XML_images/separado70.jpg 307,89,509,213,1
+XML_images/tesourareta239.jpg 267,135,454,282,1
+XML_images/separado64.jpg 198,359,440,403,2 152,363,358,386,1
+XML_images/tesouracurva628.jpg 196,267,448,356,3
+XML_images/bisturi539.jpg 129,73,424,372,3
+XML_images/pinca355.jpg 82,77,214,346,4
+XML_images/pinca433.jpg 216,122,452,309,4
+XML_images/pinca427.jpg 340,101,442,318,1
+XML_images/pinca341.jpg 216,198,441,237,1 202,87,400,256,2
+XML_images/bisturi505.jpg 288,92,374,366,4 219,116,389,338,3
+XML_images/tesouracurva199.jpg 112,102,355,287,4
+XML_images/pinca369.jpg 56,52,306,139,3 32,46,270,232,4
+XML_images/bisturi263.jpg 266,185,502,258,2
+XML_images/bisturi277.jpg 252,111,414,363,4
+XML_images/bisturi511.jpg 178,169,429,256,3
+XML_images/tesourareta588.jpg 152,166,422,256,4
+XML_images/tesouracurva402.jpg 294,86,317,331,2 261,185,426,352,1
+XML_images/pinca194.jpg 46,152,322,240,4
+XML_images/tesouracurva364.jpg 178,160,418,241,2
+XML_images/pinca180.jpg 285,184,503,313,2
+XML_images/tesouracurva370.jpg 171,107,464,301,1
+XML_images/tesouracurva416.jpg 225,161,381,359,2
+XML_images/tesouracurva358.jpg 186,102,414,260,3
+XML_images/pinca631.jpg 121,116,455,365,3
+XML_images/pinca157.jpg 42,137,290,312,4
+XML_images/pinca143.jpg 353,122,447,338,1
+XML_images/pinca625.jpg 286,85,408,352,4
+XML_images/bisturi707.jpg 254,74,349,324,3
+XML_images/bisturi713.jpg 32,145,121,394,3 32,105,120,374,4
+XML_images/pinca619.jpg 146,104,359,320,4
+XML_images/tesouracurva576.jpg 187,208,423,274,2
+XML_images/tesourareta173.jpg 54,73,202,283,2
+XML_images/tesouracurva210.jpg 390,96,569,334,4 314,134,544,173,1
+XML_images/tesourareta615.jpg 178,83,382,314,4 148,121,376,242,2
+XML_images/tesourareta96.jpg 449,174,535,420,3
+XML_images/tesourareta82.jpg 271,274,542,360,4
+XML_images/bisturi698.jpg 253,101,368,332,2
+XML_images/tesourareta601.jpg 338,186,582,275,3
+XML_images/tesouracurva204.jpg 294,129,491,263,1
+XML_images/tesourareta167.jpg 341,146,589,233,3 328,114,444,343,2
+XML_images/tesouracurva562.jpg 352,161,439,432,4
+XML_images/tesourareta629.jpg 278,129,316,369,2
+XML_images/tesouracurva238.jpg 272,79,449,296,3
+XML_images/bisturi129.jpg 92,135,305,272,2
+XML_images/tesourareta55.jpg 150,228,369,313,1
+XML_images/tesourareta41.jpg 403,159,489,408,3 363,117,556,252,1
+XML_images/tesouracurva589.jpg 291,135,319,362,1
+XML_images/bisturi115.jpg 390,135,534,315,1
+XML_images/bisturi673.jpg 406,247,580,403,1 557,67,587,306,2
+XML_images/tesourareta69.jpg 374,270,605,357,2
+XML_images/bisturi667.jpg 269,228,511,291,2
+XML_images/tesourareta198.jpg 66,16,184,220,1 72,25,312,65,2
+XML_images/bisturi101.jpg 280,133,342,358,1
+XML_images/bisturi48.jpg 230,125,256,355,1 176,140,389,319,3
+XML_images/tesourareta417.jpg 213,160,426,313,2 186,166,315,429,4 44,159,211,331,1 351,93,495,328,3
+XML_images/tesourareta371.jpg 248,250,475,279,1 311,107,468,360,4
+XML_images/tesouracurva774.jpg 256,243,495,428,4
+XML_images/tesouracurva69.jpg 151,140,369,349,4
+XML_images/pinca584.jpg 267,95,354,345,3 69,274,343,360,4
+XML_images/tesouracurva760.jpg 153,258,397,279,2 181,103,365,348,4
+XML_images/tesourareta365.jpg 167,273,385,388,2
+XML_images/pinca590.jpg 272,33,374,383,2
+XML_images/tesourareta403.jpg 200,157,470,244,4
+XML_images/bisturi74.jpg 396,105,482,375,4 368,116,502,342,2
+XML_images/tesouracurva748.jpg 335,231,569,416,4 339,336,560,385,1
+XML_images/tesouracurva55.jpg 114,181,367,270,3
+XML_images/tesourareta359.jpg 146,103,278,302,1 160,150,333,398,4
+XML_images/tesouracurva41.jpg 299,208,438,423,2 67,216,290,386,3 45,117,186,308,1 324,83,520,313,4
+XML_images/bisturi60.jpg 359,88,532,304,3
+XML_images/pinca221.jpg 300,201,488,350,1
+XML_images/pinca36.jpg 297,227,487,368,1
+XML_images/pinca547.jpg 429,115,572,346,3
+XML_images/pinca553.jpg 292,88,378,337,3 229,194,477,366,4
+XML_images/pinca22.jpg 230,36,430,231,3 321,88,371,332,2
+XML_images/pinca235.jpg 294,358,519,394,1 288,265,498,415,2
+XML_images/bisturi459.jpg 243,192,491,357,4
+XML_images/bisturi471.jpg 291,4,499,150,2
+XML_images/bisturi317.jpg 166,237,321,433,2
+XML_images/tesouracurva96.jpg 369,84,396,317,1
+XML_images/bisturi303.jpg 310,185,544,329,3 267,252,505,302,2
+XML_images/tesouracurva82.jpg 125,165,311,403,4 219,53,259,285,1
+XML_images/pinca209.jpg 227,166,457,265,2
+XML_images/bisturi465.jpg 263,72,293,302,1 129,227,348,398,3
+XML_images/tesouracurva83.jpg 110,102,228,314,1 128,192,394,321,4
+XML_images/bisturi302.jpg 385,40,481,313,4 341,147,559,283,2
+XML_images/bisturi464.jpg 214,123,303,377,3 198,109,356,287,1
+XML_images/pinca208.jpg 349,136,567,306,3
+XML_images/bisturi470.jpg 149,102,323,345,4
+XML_images/tesouracurva97.jpg 55,92,147,342,3 49,57,109,302,2
+XML_images/bisturi316.jpg 259,280,526,400,4
+XML_images/pinca23.jpg 53,171,209,372,2 69,139,191,410,4
+XML_images/pinca552.jpg 153,259,397,289,2 220,118,464,300,4
+XML_images/bisturi458.jpg 302,183,400,418,2
+XML_images/pinca234.jpg 308,29,337,391,2
+XML_images/pinca220.jpg 227,93,463,282,4
+XML_images/pinca546.jpg 194,234,364,416,2
+XML_images/pinca37.jpg 247,78,440,255,2 30,212,172,405,1 366,176,549,385,3 108,106,258,371,4
+XML_images/tesouracurva40.jpg 185,75,330,337,4
+XML_images/tesourareta358.jpg 72,125,228,335,2 53,52,208,322,4
+XML_images/bisturi61.jpg 323,116,523,339,4
+XML_images/bisturi75.jpg 215,174,405,332,2
+XML_images/tesouracurva54.jpg 294,0,492,221,4
+XML_images/tesouracurva749.jpg 159,166,428,299,4
+XML_images/pinca591.jpg 190,224,423,294,2
+XML_images/tesouracurva761.jpg 309,181,363,420,2
+XML_images/tesourareta364.jpg 248,30,512,153,4
+XML_images/tesourareta402.jpg 52,69,250,228,2 99,22,191,298,4
+XML_images/tesourareta416.jpg 257,81,519,195,4
+XML_images/bisturi49.jpg 302,11,481,252,4
+XML_images/pinca585.jpg 181,124,425,302,4
+XML_images/tesouracurva68.jpg 378,55,606,164,2 407,52,593,289,4
+XML_images/tesourareta370.jpg 363,176,553,405,4
+XML_images/tesouracurva775.jpg 77,114,254,358,4
+XML_images/bisturi666.jpg 302,226,389,456,2
+XML_images/bisturi100.jpg 346,102,436,322,1
+XML_images/tesourareta199.jpg 311,98,348,341,2
+XML_images/bisturi114.jpg 313,160,431,429,4
+XML_images/tesouracurva588.jpg 435,153,587,378,3
+XML_images/tesourareta68.jpg 279,202,514,391,4
+XML_images/bisturi672.jpg 281,147,504,224,1
+XML_images/tesourareta40.jpg 268,172,517,262,3 273,154,474,316,2
+XML_images/bisturi128.jpg 222,166,452,264,2
+XML_images/tesourareta54.jpg 173,211,417,253,2
+XML_images/tesouracurva239.jpg 273,233,491,327,1
+XML_images/tesourareta628.jpg 247,81,392,265,1 178,73,354,317,4
+XML_images/tesourareta600.jpg 295,88,382,337,3 286,163,525,346,4
+XML_images/tesouracurva205.jpg 380,249,545,414,1 261,266,523,384,4
+XML_images/bisturi699.jpg 231,225,498,327,4
+XML_images/tesourareta83.jpg 127,154,372,277,3
+XML_images/tesourareta166.jpg 128,98,266,363,4 93,66,304,174,1
+XML_images/tesouracurva563.jpg 47,116,186,307,1 195,78,467,165,4 236,170,345,417,3 355,221,537,404,2
+XML_images/tesouracurva577.jpg 382,184,558,336,1 495,117,529,360,2
+XML_images/tesourareta172.jpg 233,301,443,405,1 258,290,488,386,2
+XML_images/tesourareta97.jpg 395,47,590,230,3 397,33,528,245,2
+XML_images/tesouracurva211.jpg 276,221,498,306,1
+XML_images/tesourareta614.jpg 365,135,587,294,3
+XML_images/bisturi712.jpg 237,146,369,339,1
+XML_images/pinca618.jpg 56,257,262,411,2 63,96,87,333,1
+XML_images/bisturi706.jpg 151,235,377,284,1
+XML_images/pinca142.jpg 380,292,572,432,1 302,318,567,418,4
+XML_images/pinca624.jpg 399,152,533,388,3
+XML_images/pinca630.jpg 279,178,507,282,2
+XML_images/pinca156.jpg 228,148,383,348,2
+XML_images/tesouracurva359.jpg 144,108,284,317,2
+XML_images/tesouracurva371.jpg 35,218,230,383,2 156,81,381,283,4
+XML_images/pinca181.jpg 453,60,609,284,3
+XML_images/tesouracurva417.jpg 193,187,417,289,2
+XML_images/tesouracurva403.jpg 406,159,494,406,3 354,352,574,412,1
+XML_images/tesouracurva365.jpg 305,131,455,349,2 182,155,426,286,3
+XML_images/pinca195.jpg 61,127,305,199,2
+XML_images/bisturi276.jpg 435,68,575,326,4
+XML_images/tesourareta589.jpg 314,123,478,295,1
+XML_images/bisturi510.jpg 296,88,458,259,1
+XML_images/pinca368.jpg 221,200,457,337,3
+XML_images/tesouracurva198.jpg 88,121,115,363,2 66,256,294,279,1
+XML_images/bisturi504.jpg 201,271,450,367,3
+XML_images/bisturi262.jpg 177,140,265,379,2 204,107,326,314,1
+XML_images/pinca426.jpg 30,16,116,303,4
+XML_images/pinca340.jpg 291,75,378,326,3
+XML_images/pinca354.jpg 284,155,480,283,1
+XML_images/bisturi538.jpg 210,372,434,405,1 160,358,400,391,2
+XML_images/pinca432.jpg 43,44,291,132,3 41,67,266,274,4
+XML_images/tesouracurva629.jpg 337,132,483,316,1
+XML_images/separado65.jpg 187,58,399,412,3
+XML_images/tesourareta238.jpg 228,79,374,340,4
+XML_images/separado71.jpg 290,94,376,367,4
+XML_images/bisturi289.jpg 406,214,602,360,2
+XML_images/tesourareta210.jpg 148,166,490,220,1
+XML_images/tesouracurva615.jpg 277,198,509,286,2
+XML_images/separado59.jpg 195,114,394,280,2
+XML_images/pinca383.jpg 354,163,558,271,1
+XML_images/tesourareta576.jpg 265,46,300,389,1
+XML_images/tesouracurva173.jpg 555,63,596,306,2 402,39,611,148,1
+XML_images/pinca397.jpg 44,40,252,261,4
+XML_images/tesouracurva167.jpg 185,84,293,331,3
+XML_images/tesourareta562.jpg 45,198,317,285,4
+XML_images/tesouracurva601.jpg 197,196,419,312,2
+XML_images/tesourareta204.jpg 456,148,546,374,2 474,144,544,363,1

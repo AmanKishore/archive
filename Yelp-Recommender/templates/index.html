@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CSE 6242 - Yelp Recommender</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
+<link rel="stylesheet" href="../static/main.css">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 40%; left:10%; height: 50%; width: 50%; }
+</style>
+</head>
+<body>
+  <center><h1>CSE 6242 Final Project - Team 29 - Group Yelp Recommender</h1><h4>Trying to find interesting local businesses? Have a group of people who can never agree on where to go? We've been there and that's why we've built the Group Yelp Recommender. It uses a Deep Learning based Recommender System to recommend businesses in a zip code that are most likely to be enjoyed by the whole group. The model is trained on the items users have rated in the past and uses this to get a sense of a user's preferences. Our system takes this further and combines multiple user representations to form a group representation and finds businesses the entire group will like. Go ahead, give it a whirl! The darker green pin represents a stronger recommendation.</h4></center>
+  <!-- <form action="http://3.239.19.207:5000/api/getLocationsBasedOnZipcode" method="get"> -->
+  <form onsubmit="return updateMap()" id="zipForm">
+    <label for="zipcode">Enter the zipcode you would like to search in:</label>
+    <input type="text" id="zipcode" name="zipcode"><br><br>
+    <label for="names">Enter your names for personalized results:</label>
+    <input type="text" id="names" name="names"><br><br>
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="searchConfirmation" class="indent"></div>
+  <br />
+  <br />
+  <div id="map"></div>
+  <script>
+      baseURL = "http://127.0.0.1" // SWAP TO http://127.0.0.1 FOR LOCAL TESTING
+
+  	  mapboxgl.accessToken = 'pk.eyJ1IjoianBoaWxpcG9zZTMiLCJhIjoiY2tuM3k2dTBmMWM2MTJwbzhsZzQwMXN4aCJ9.uGgJiraPNEWlG0d25SYJLg';
+      var map = new mapboxgl.Map({
+        container: 'map', // container id
+        style: 'mapbox://styles/mapbox/streets-v11', // style URL
+        center: [-74.5, 40], // starting position [lng, lat]
+        zoom: 9 // starting zoom
+      });
+
+      function updateMap() {
+        // first call api/getLocationsBasedOnZipcode to get resturants
+        var zip = document.getElementById("zipForm").elements[0].value;
+        document.getElementById("searchConfirmation").innerHTML = "Generating recommendations for " + zip + "... this may take a while.";
+
+        itemList = ""
+
+        axios.get(baseURL + ':5000/api/getLocationsBasedOnZipcode', {
+          params: {
+            zipcode: zip
+          }
+        }).then(function (response) {
+            // console.log(response);
+            data = response["data"]
+            for (let key in data) {
+              // console.log(key, data[key]);
+              itemList = itemList + data[key] + ",";
+            }
+            // console.log(typeof itemList)
+            itemList = itemList.slice(0, -1)
+
+        // then call api/getReccomendations
+            var names = document.getElementById("zipForm").elements[1].value;
+
+
+            n_results = 5
+            axios.get(baseURL + ':5000/api/getReccomendations', {
+              params: {
+                users: names,//"b_-AmmH9I3lvhU7PANjFrw,OhOgtmlIWSmikT25wcWBpA,8q7-9Lv6NTlOLqnm5Yk0hg,94u9RZbO2AKAGV-sXLjX4w",
+                items: itemList,
+                n: n_results
+              }
+            }).then(function (response2) {
+                // console.log(response2["data"]);
+                recs = response2["data"]
+
+                function sort_object(obj) {
+                    items = Object.keys(obj).map(function(key) {
+                        return [key, obj[key]["reccomendation_level"]];
+                    });
+                    items.sort(function(first, second) {
+                        return second[1] - first[1];
+                    });
+                    return items
+                }
+
+                sorted_recs = sort_object(recs)
+                // console.log(sorted_recs)
+
+                lon = -84.389400;
+                lat = 33.776810
+                for (let k in sorted_recs) {
+                  key = sorted_recs[k][0]
+                  // console.log(key)
+                  lon = recs[key]["longitude"][0]
+                  lat = recs[key]["latitude"][0]
+                  break
+                }
+                mapboxgl.accessToken = 'pk.eyJ1IjoianBoaWxpcG9zZTMiLCJhIjoiY2tuM3k2dTBmMWM2MTJwbzhsZzQwMXN4aCJ9.uGgJiraPNEWlG0d25SYJLg';
+                var map = new mapboxgl.Map({
+                  container: 'map', // container id
+                  style: 'mapbox://styles/mapbox/streets-v11', // style URL
+                  center: [lon, lat], // starting position [lng, lat]
+                  zoom: 13 // starting zoom
+                });
+
+
+                colorList = ["#39A96B", "#56B870", "#74C67A", "#99D492", "#BFE1B0"];
+                colorIndex = 0;
+                for (let k in sorted_recs) {
+                  key = sorted_recs[k][0]
+                  // console.log(recs[key]["longitude"][0])
+                  var marker1 = new mapboxgl.Marker({color: colorList[colorIndex]})
+                    .setLngLat([recs[key]["longitude"][0], recs[key]["latitude"][0]])
+                    .setPopup(new mapboxgl.Popup().setHTML("<h1>"+ recs[key]["name"][0] + "</h1>" + "<h3>" + recs[key]["address"][0] + "</h3>"))
+                    .addTo(map);
+                  colorIndex++;
+                }
+
+                document.getElementById("searchConfirmation").innerHTML = "Displaying the top 5 recommendations for " + zip + ".";
+            })
+            .catch(function (error) {
+              if (error.response) {
+                console.log(error.response.data);
+                alert("Something went wrong. Please try a new query")
+                document.getElementById("searchConfirmation").innerHTML = "Something went wrong displaying the top 5 recommendations for " + zip + ". Try a different query.";
+              }
+            })
+
+        })
+
+
+
+        // now update map with location markers and new center
+        mapboxgl.accessToken = 'pk.eyJ1IjoianBoaWxpcG9zZTMiLCJhIjoiY2tuM3k2dTBmMWM2MTJwbzhsZzQwMXN4aCJ9.uGgJiraPNEWlG0d25SYJLg';
+        var map = new mapboxgl.Map({
+          container: 'map', // container id
+          style: 'mapbox://styles/mapbox/streets-v11', // style URL
+          center: [-84.389400, 33.776810], // starting position [lng, lat]
+          zoom: 11 // starting zoom
+        });
+        return false; // need to return false to prevent page refresh
+
+      }
+  </script>
+
+  <div>
+
+  </div>
+
+</body>
+</html>
